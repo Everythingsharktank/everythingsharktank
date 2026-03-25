@@ -27,7 +27,6 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-12">
-      {/* Back */}
       <Link href="/" className="text-slate-400 hover:text-white text-sm mb-8 inline-flex items-center gap-2 transition-colors">
         ← Back to all products
       </Link>
@@ -52,17 +51,17 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
             <h2 className="text-yellow-400 font-semibold mb-3 text-sm uppercase tracking-wide">The Pitch</h2>
             <div className="grid grid-cols-2 gap-3 text-sm">
               <div>
-                <div className="text-slate-500">Ask</div>
-                <div className="text-white font-medium">{product.deal.ask}</div>
+                <div className="text-slate-500">Asked for</div>
+                <div className="text-white font-medium">{product.deal.ask} for {product.deal.askEquity}</div>
               </div>
               <div>
-                <div className="text-slate-500">Equity Offered</div>
-                <div className="text-white font-medium">{product.deal.equity}</div>
+                <div className="text-slate-500">Season / Episode</div>
+                <div className="text-white font-medium">S{product.season} E{product.episode} ({product.year})</div>
               </div>
               {product.deal.amount && (
                 <div>
-                  <div className="text-slate-500">Deal Amount</div>
-                  <div className="text-green-400 font-medium">{product.deal.amount}</div>
+                  <div className="text-slate-500">Final Deal</div>
+                  <div className="text-green-400 font-medium">{product.deal.amount} for {product.deal.equity}</div>
                 </div>
               )}
               {product.deal.investor && (
@@ -71,14 +70,6 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
                   <div className="text-yellow-400 font-medium">{product.deal.investor}</div>
                 </div>
               )}
-              <div>
-                <div className="text-slate-500">Season / Episode</div>
-                <div className="text-white font-medium">S{product.season} E{product.episode}</div>
-              </div>
-              <div>
-                <div className="text-slate-500">Year</div>
-                <div className="text-white font-medium">{product.year}</div>
-              </div>
             </div>
           </div>
 
@@ -100,11 +91,42 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
         <p className="text-slate-400 leading-relaxed">{product.description}</p>
       </div>
 
+      {/* Timeline */}
+      {product.timeline && product.timeline.length > 0 && (
+        <div className="mt-10">
+          <h2 className="text-xl font-bold text-white mb-6">Company Timeline</h2>
+          <div className="relative">
+            <div className="absolute left-4 top-0 bottom-0 w-px bg-slate-700" />
+            <div className="space-y-6">
+              {product.timeline.map((item, i) => (
+                <div key={i} className="relative flex gap-6 pl-12">
+                  <div className="absolute left-0 w-8 h-8 rounded-full bg-slate-800 border-2 border-yellow-400 flex items-center justify-center text-xs font-bold text-yellow-400">
+                    {item.year.toString().slice(2)}
+                  </div>
+                  <div>
+                    <div className="text-yellow-400 text-sm font-semibold mb-1">{item.year}</div>
+                    <div className="text-slate-300">{item.event}</div>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Current status */}
-      <div className="mt-8 bg-slate-900 border border-slate-800 rounded-xl p-5">
+      <div className="mt-10 bg-slate-900 border border-slate-800 rounded-xl p-5">
         <h2 className="text-sm uppercase tracking-wide text-yellow-400 font-semibold mb-2">Where Are They Now?</h2>
         <p className="text-slate-300">{product.currentStatus}</p>
       </div>
+
+      {/* Shark update */}
+      {product.sharkUpdate && (
+        <div className="mt-4 bg-slate-900 border border-slate-800 rounded-xl p-5">
+          <h2 className="text-sm uppercase tracking-wide text-blue-400 font-semibold mb-2">🦈 Shark Update</h2>
+          <p className="text-slate-300">{product.sharkUpdate}</p>
+        </div>
+      )}
 
       {/* Tags */}
       <div className="mt-6 flex flex-wrap gap-2">
