@@ -128,6 +128,22 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
         </div>
       )}
 
+      {/* YouTube embed */}
+      {(product as any).youtubeId && (
+        <div className="mt-10">
+          <h2 className="text-xl font-bold text-white mb-4">Watch the Pitch</h2>
+          <div className="relative w-full" style={{paddingBottom: '56.25%'}}>
+            <iframe
+              className="absolute top-0 left-0 w-full h-full rounded-xl"
+              src={`https://www.youtube.com/embed/${(product as any).youtubeId}`}
+              title={`${product.name} Shark Tank Pitch`}
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            />
+          </div>
+        </div>
+      )}
+
       {/* Tags */}
       <div className="mt-6 flex flex-wrap gap-2">
         {product.tags.map(tag => (

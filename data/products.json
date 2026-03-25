@@ -6,69 +6,163 @@
     "tagline": "The smiley-face sponge that changes texture with water temperature",
     "description": "Scrub Daddy is a smiley-face shaped sponge that becomes firm in cold water for tough scrubbing and soft in warm water for gentle cleaning. It's odor-resistant, scratch-free on delicate surfaces, and one of the best-selling products in Shark Tank history.",
     "category": "Home & Kitchen",
-    "season": 4, "episode": 7, "year": 2012,
-    "sharks": ["Lori Greiner"],
-    "deal": { "ask": "$100,000", "askEquity": "20%", "amount": "$200,000", "equity": "20%", "investor": "Lori Greiner" },
+    "season": 4,
+    "episode": 7,
+    "year": 2012,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$100,000",
+      "askEquity": "20%",
+      "amount": "$200,000",
+      "equity": "20%",
+      "investor": "Lori Greiner"
+    },
     "outcome": "deal",
     "sharkUpdate": "Lori Greiner remains an active partner and brand ambassador. Scrub Daddy is one of her most celebrated investments.",
     "timeline": [
-      { "year": 2008, "event": "Founder Aaron Krause invents the scrubber for his car detailing business" },
-      { "year": 2012, "event": "Appears on Shark Tank Season 4. Lori Greiner invests $200K for 20%" },
-      { "year": 2013, "event": "Appears on QVC — sells out in 7 minutes. $18M in sales in first year" },
-      { "year": 2014, "event": "Expands to major retailers: Walmart, Target, Bed Bath & Beyond" },
-      { "year": 2023, "event": "Lifetime sales surpass $900M. Launches Scrub Mommy, Scrub Daisy and more" }
+      {
+        "year": 2008,
+        "event": "Founder Aaron Krause invents the scrubber for his car detailing business"
+      },
+      {
+        "year": 2012,
+        "event": "Appears on Shark Tank Season 4. Lori Greiner invests $200K for 20%"
+      },
+      {
+        "year": 2013,
+        "event": "Appears on QVC \u2014 sells out in 7 minutes. $18M in sales in first year"
+      },
+      {
+        "year": 2014,
+        "event": "Expands to major retailers: Walmart, Target, Bed Bath & Beyond"
+      },
+      {
+        "year": 2023,
+        "event": "Lifetime sales surpass $900M. Launches Scrub Mommy, Scrub Daisy and more"
+      }
     ],
-    "currentStatus": "Still thriving — over $900M in lifetime sales. Biggest Shark Tank success story.",
+    "currentStatus": "Still thriving \u2014 over $900M in lifetime sales. Biggest Shark Tank success story.",
     "buyUrl": "https://www.amazon.com/s?k=scrub+daddy",
-    "tags": ["cleaning", "kitchen", "household"]
+    "tags": [
+      "cleaning",
+      "kitchen",
+      "household"
+    ],
+    "youtubeId": "ae5MssJ8en4"
   },
   {
     "id": "bombas",
     "name": "Bombas",
     "slug": "bombas",
-    "tagline": "The most comfortable socks ever made — buy one, donate one",
+    "tagline": "The most comfortable socks ever made \u2014 buy one, donate one",
     "description": "Bombas makes premium athletic socks engineered for comfort with a buy-one-donate-one model. They've donated over 100 million items to homeless shelters.",
     "category": "Apparel",
-    "season": 6, "episode": 1, "year": 2014,
-    "sharks": ["Daymond John"],
-    "deal": { "ask": "$200,000", "askEquity": "5%", "amount": "$200,000", "equity": "17.5%", "investor": "Daymond John" },
+    "season": 6,
+    "episode": 1,
+    "year": 2014,
+    "sharks": [
+      "Daymond John"
+    ],
+    "deal": {
+      "ask": "$200,000",
+      "askEquity": "5%",
+      "amount": "$200,000",
+      "equity": "17.5%",
+      "investor": "Daymond John"
+    },
     "outcome": "deal",
     "sharkUpdate": "Daymond John remains an investor and mentor. Bombas has grown far beyond his initial involvement.",
     "timeline": [
-      { "year": 2011, "event": "Founders Randy Goldberg and David Heath discover socks are #1 requested item at homeless shelters" },
-      { "year": 2013, "event": "Launch Indiegogo campaign, raise $145K in 30 days" },
-      { "year": 2014, "event": "Appear on Shark Tank Season 6. Daymond John invests $200K" },
-      { "year": 2015, "event": "Donate 1 millionth pair of socks" },
-      { "year": 2022, "event": "Revenue exceeds $300M annually. Expand into t-shirts and underwear" },
-      { "year": 2023, "event": "100 million items donated to those in need" }
+      {
+        "year": 2011,
+        "event": "Founders Randy Goldberg and David Heath discover socks are #1 requested item at homeless shelters"
+      },
+      {
+        "year": 2013,
+        "event": "Launch Indiegogo campaign, raise $145K in 30 days"
+      },
+      {
+        "year": 2014,
+        "event": "Appear on Shark Tank Season 6. Daymond John invests $200K"
+      },
+      {
+        "year": 2015,
+        "event": "Donate 1 millionth pair of socks"
+      },
+      {
+        "year": 2022,
+        "event": "Revenue exceeds $300M annually. Expand into t-shirts and underwear"
+      },
+      {
+        "year": 2023,
+        "event": "100 million items donated to those in need"
+      }
     ],
-    "currentStatus": "One of Shark Tank's greatest success stories — $300M+ annual revenue, 100M+ items donated.",
+    "currentStatus": "One of Shark Tank's greatest success stories \u2014 $300M+ annual revenue, 100M+ items donated.",
     "buyUrl": "https://www.amazon.com/s?k=bombas+socks",
-    "tags": ["socks", "apparel", "social impact"]
+    "tags": [
+      "socks",
+      "apparel",
+      "social impact"
+    ],
+    "youtubeId": "RlALuStBplY"
   },
   {
     "id": "ring",
     "name": "Ring (Doorbot)",
     "slug": "ring",
     "tagline": "Video doorbell that lets you see and speak to visitors from anywhere",
-    "description": "Ring started as 'Doorbot' — a Wi-Fi enabled video doorbell. Despite all sharks declining, Ring grew to dominate the smart home security market.",
+    "description": "Ring started as 'Doorbot' \u2014 a Wi-Fi enabled video doorbell. Despite all sharks declining, Ring grew to dominate the smart home security market.",
     "category": "Smart Home",
-    "season": 5, "episode": 9, "year": 2013,
+    "season": 5,
+    "episode": 9,
+    "year": 2013,
     "sharks": [],
-    "deal": { "ask": "$700,000", "askEquity": "10%", "amount": null, "equity": null, "investor": null },
+    "deal": {
+      "ask": "$700,000",
+      "askEquity": "10%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
     "outcome": "no-deal",
-    "sharkUpdate": "Jamie Siminoff returned to Shark Tank in Season 10 as a guest shark — the ultimate revenge arc.",
+    "sharkUpdate": "Jamie Siminoff returned to Shark Tank in Season 10 as a guest shark \u2014 the ultimate revenge arc.",
     "timeline": [
-      { "year": 2011, "event": "Jamie Siminoff invents a Wi-Fi doorbell in his garage" },
-      { "year": 2013, "event": "Pitches as 'Doorbot' on Shark Tank. All 5 sharks decline" },
-      { "year": 2014, "event": "Rebrands to Ring. Raises $28M in funding" },
-      { "year": 2016, "event": "Launches Ring Alarm home security system" },
-      { "year": 2018, "event": "Amazon acquires Ring for $1.2 billion" },
-      { "year": 2018, "event": "Siminoff appears on Shark Tank Season 10 as a guest shark" }
+      {
+        "year": 2011,
+        "event": "Jamie Siminoff invents a Wi-Fi doorbell in his garage"
+      },
+      {
+        "year": 2013,
+        "event": "Pitches as 'Doorbot' on Shark Tank. All 5 sharks decline"
+      },
+      {
+        "year": 2014,
+        "event": "Rebrands to Ring. Raises $28M in funding"
+      },
+      {
+        "year": 2016,
+        "event": "Launches Ring Alarm home security system"
+      },
+      {
+        "year": 2018,
+        "event": "Amazon acquires Ring for $1.2 billion"
+      },
+      {
+        "year": 2018,
+        "event": "Siminoff appears on Shark Tank Season 10 as a guest shark"
+      }
     ],
-    "currentStatus": "Acquired by Amazon for $1.2B — the most famous 'no deal' in Shark Tank history.",
+    "currentStatus": "Acquired by Amazon for $1.2B \u2014 the most famous 'no deal' in Shark Tank history.",
     "buyUrl": "https://www.amazon.com/s?k=ring+video+doorbell",
-    "tags": ["smart home", "security", "doorbell"]
+    "tags": [
+      "smart home",
+      "security",
+      "doorbell"
+    ],
+    "youtubeId": "um-iVXiXedc"
   },
   {
     "id": "squatty-potty",
@@ -77,21 +171,51 @@
     "tagline": "The toilet stool that changes the way you go",
     "description": "Squatty Potty is a bathroom stool designed to elevate your feet while sitting on the toilet, mimicking a natural squatting position. Famous for its viral unicorn commercial.",
     "category": "Health & Wellness",
-    "season": 6, "episode": 9, "year": 2014,
-    "sharks": ["Lori Greiner"],
-    "deal": { "ask": "$350,000", "askEquity": "10%", "amount": "$350,000", "equity": "10%", "investor": "Lori Greiner" },
+    "season": 6,
+    "episode": 9,
+    "year": 2014,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$350,000",
+      "askEquity": "10%",
+      "amount": "$350,000",
+      "equity": "10%",
+      "investor": "Lori Greiner"
+    },
     "outcome": "deal",
     "sharkUpdate": "Lori Greiner remains an investor. She helped produce the famous viral unicorn ad that became one of YouTube's most-watched commercials.",
     "timeline": [
-      { "year": 2010, "event": "Judy Edwards creates the Squatty Potty to help with her own digestive issues" },
-      { "year": 2014, "event": "Appears on Shark Tank Season 6. Lori Greiner invests $350K for 10%" },
-      { "year": 2015, "event": "Viral unicorn commercial racks up 100M+ views. Sales explode to $33M" },
-      { "year": 2016, "event": "Available in Target, Bed Bath & Beyond, and Costco nationwide" },
-      { "year": 2022, "event": "Lifetime sales exceed $200M" }
+      {
+        "year": 2010,
+        "event": "Judy Edwards creates the Squatty Potty to help with her own digestive issues"
+      },
+      {
+        "year": 2014,
+        "event": "Appears on Shark Tank Season 6. Lori Greiner invests $350K for 10%"
+      },
+      {
+        "year": 2015,
+        "event": "Viral unicorn commercial racks up 100M+ views. Sales explode to $33M"
+      },
+      {
+        "year": 2016,
+        "event": "Available in Target, Bed Bath & Beyond, and Costco nationwide"
+      },
+      {
+        "year": 2022,
+        "event": "Lifetime sales exceed $200M"
+      }
     ],
-    "currentStatus": "Went viral after Shark Tank — $33M in sales within a year of the episode.",
+    "currentStatus": "Went viral after Shark Tank \u2014 $33M in sales within a year of the episode.",
     "buyUrl": "https://www.amazon.com/s?k=squatty+potty",
-    "tags": ["bathroom", "health", "wellness"]
+    "tags": [
+      "bathroom",
+      "health",
+      "wellness"
+    ],
+    "youtubeId": "2atjT5fKK8A"
   },
   {
     "id": "cousins-maine-lobster",
@@ -100,21 +224,51 @@
     "tagline": "Fresh Maine lobster rolls served from food trucks across America",
     "description": "Two cousins from Maine started a food truck serving authentic Maine lobster rolls in LA. Barbara Corcoran helped them franchise into a nationwide food truck empire.",
     "category": "Food & Beverage",
-    "season": 4, "episode": 1, "year": 2012,
-    "sharks": ["Barbara Corcoran"],
-    "deal": { "ask": "$55,000", "askEquity": "5%", "amount": "$55,000", "equity": "15%", "investor": "Barbara Corcoran" },
+    "season": 4,
+    "episode": 1,
+    "year": 2012,
+    "sharks": [
+      "Barbara Corcoran"
+    ],
+    "deal": {
+      "ask": "$55,000",
+      "askEquity": "5%",
+      "amount": "$55,000",
+      "equity": "15%",
+      "investor": "Barbara Corcoran"
+    },
     "outcome": "deal",
     "sharkUpdate": "Barbara Corcoran helped develop their franchise model and remains a proud investor.",
     "timeline": [
-      { "year": 2012, "event": "Jim Tselikis and Sabin Lomac launch a single food truck in Los Angeles" },
-      { "year": 2012, "event": "Appear on Shark Tank Season 4. Barbara Corcoran invests $55K for 15%" },
-      { "year": 2013, "event": "Expand to multiple trucks and begin franchising" },
-      { "year": 2018, "event": "30+ franchise locations operating across the US" },
-      { "year": 2022, "event": "Over $50M in lifetime revenue. Brick-and-mortar locations added" }
+      {
+        "year": 2012,
+        "event": "Jim Tselikis and Sabin Lomac launch a single food truck in Los Angeles"
+      },
+      {
+        "year": 2012,
+        "event": "Appear on Shark Tank Season 4. Barbara Corcoran invests $55K for 15%"
+      },
+      {
+        "year": 2013,
+        "event": "Expand to multiple trucks and begin franchising"
+      },
+      {
+        "year": 2018,
+        "event": "30+ franchise locations operating across the US"
+      },
+      {
+        "year": 2022,
+        "event": "Over $50M in lifetime revenue. Brick-and-mortar locations added"
+      }
     ],
     "currentStatus": "Expanded to 30+ franchise locations across the US.",
     "buyUrl": "https://www.amazon.com/s?k=cousins+maine+lobster",
-    "tags": ["food", "lobster", "franchise", "food truck"]
+    "tags": [
+      "food",
+      "lobster",
+      "franchise",
+      "food truck"
+    ]
   },
   {
     "id": "tipsy-elves",
@@ -123,21 +277,51 @@
     "tagline": "Ugly Christmas sweaters and festive apparel for adults who love to party",
     "description": "Tipsy Elves creates intentionally ugly Christmas sweaters and fun holiday apparel. Robert Herjavec invested and helped them scale into a multi-million dollar seasonal brand.",
     "category": "Apparel",
-    "season": 5, "episode": 12, "year": 2013,
-    "sharks": ["Robert Herjavec"],
-    "deal": { "ask": "$100,000", "askEquity": "10%", "amount": "$100,000", "equity": "10%", "investor": "Robert Herjavec" },
+    "season": 5,
+    "episode": 12,
+    "year": 2013,
+    "sharks": [
+      "Robert Herjavec"
+    ],
+    "deal": {
+      "ask": "$100,000",
+      "askEquity": "10%",
+      "amount": "$100,000",
+      "equity": "10%",
+      "investor": "Robert Herjavec"
+    },
     "outcome": "deal",
     "sharkUpdate": "Robert Herjavec remains an investor. He called it one of his most fun investments.",
     "timeline": [
-      { "year": 2011, "event": "Two lawyers Evan Mendelsohn and Nick Morton start selling ugly sweaters online" },
-      { "year": 2013, "event": "Appear on Shark Tank Season 5. Robert Herjavec invests $100K for 10%" },
-      { "year": 2014, "event": "Expand beyond Christmas into Halloween, St. Patrick's Day, and summer apparel" },
-      { "year": 2018, "event": "Over $70M in cumulative sales" },
-      { "year": 2022, "event": "Lifetime sales exceed $125M. Available in major retailers" }
+      {
+        "year": 2011,
+        "event": "Two lawyers Evan Mendelsohn and Nick Morton start selling ugly sweaters online"
+      },
+      {
+        "year": 2013,
+        "event": "Appear on Shark Tank Season 5. Robert Herjavec invests $100K for 10%"
+      },
+      {
+        "year": 2014,
+        "event": "Expand beyond Christmas into Halloween, St. Patrick's Day, and summer apparel"
+      },
+      {
+        "year": 2018,
+        "event": "Over $70M in cumulative sales"
+      },
+      {
+        "year": 2022,
+        "event": "Lifetime sales exceed $125M. Available in major retailers"
+      }
     ],
     "currentStatus": "Over $125M in lifetime sales.",
     "buyUrl": "https://www.amazon.com/s?k=tipsy+elves+christmas+sweater",
-    "tags": ["christmas", "apparel", "holiday", "sweater"]
+    "tags": [
+      "christmas",
+      "apparel",
+      "holiday",
+      "sweater"
+    ]
   },
   {
     "id": "kodiak-cakes",
@@ -146,45 +330,108 @@
     "tagline": "High-protein pancake and waffle mix made with 100% whole grains",
     "description": "Kodiak Cakes makes protein-packed pancake and waffle mixes from whole grains. Despite not getting a deal on Shark Tank, they became one of the top pancake mix brands in America.",
     "category": "Food & Beverage",
-    "season": 5, "episode": 22, "year": 2014,
+    "season": 5,
+    "episode": 22,
+    "year": 2014,
     "sharks": [],
-    "deal": { "ask": "$500,000", "askEquity": "10%", "amount": null, "equity": null, "investor": null },
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "10%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
     "outcome": "no-deal",
     "sharkUpdate": "No shark invested, but Kevin O'Leary later admitted it was one of his biggest mistakes.",
     "timeline": [
-      { "year": 1982, "event": "Joel Clark's mother creates the original whole grain pancake recipe" },
-      { "year": 1995, "event": "Joel Clark starts selling the mix door-to-door from a red wagon as a kid" },
-      { "year": 2014, "event": "Appears on Shark Tank Season 5. All sharks decline" },
-      { "year": 2016, "event": "Lands on Target shelves. Revenue triples year-over-year" },
-      { "year": 2021, "event": "Revenue exceeds $200M. L Catterton acquires majority stake" },
-      { "year": 2023, "event": "Files for IPO. Valued at over $1 billion" }
+      {
+        "year": 1982,
+        "event": "Joel Clark's mother creates the original whole grain pancake recipe"
+      },
+      {
+        "year": 1995,
+        "event": "Joel Clark starts selling the mix door-to-door from a red wagon as a kid"
+      },
+      {
+        "year": 2014,
+        "event": "Appears on Shark Tank Season 5. All sharks decline"
+      },
+      {
+        "year": 2016,
+        "event": "Lands on Target shelves. Revenue triples year-over-year"
+      },
+      {
+        "year": 2021,
+        "event": "Revenue exceeds $200M. L Catterton acquires majority stake"
+      },
+      {
+        "year": 2023,
+        "event": "Files for IPO. Valued at over $1 billion"
+      }
     ],
-    "currentStatus": "No deal taken — grew to $200M+ revenue and filed for IPO. Valued at $1B+.",
+    "currentStatus": "No deal taken \u2014 grew to $200M+ revenue and filed for IPO. Valued at $1B+.",
     "buyUrl": "https://www.amazon.com/s?k=kodiak+cakes",
-    "tags": ["food", "protein", "pancakes", "breakfast"]
+    "tags": [
+      "food",
+      "protein",
+      "pancakes",
+      "breakfast"
+    ],
+    "youtubeId": "TMQWTyLMNJM"
   },
   {
     "id": "simply-fit-board",
     "name": "Simply Fit Board",
     "slug": "simply-fit-board",
-    "tagline": "The workout board with a twist — balance and core training made fun",
+    "tagline": "The workout board with a twist \u2014 balance and core training made fun",
     "description": "Simply Fit Board is a balance board that works your core while doing simple twisting motions. Lori Greiner invested and it became one of QVC's best-selling fitness products.",
     "category": "Sports & Fitness",
-    "season": 7, "episode": 8, "year": 2015,
-    "sharks": ["Lori Greiner"],
-    "deal": { "ask": "$125,000", "askEquity": "20%", "amount": "$125,000", "equity": "20%", "investor": "Lori Greiner" },
+    "season": 7,
+    "episode": 8,
+    "year": 2015,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$125,000",
+      "askEquity": "20%",
+      "amount": "$125,000",
+      "equity": "20%",
+      "investor": "Lori Greiner"
+    },
     "outcome": "deal",
     "sharkUpdate": "Lori Greiner helped launch it on QVC where it generated over $9M in a single day.",
     "timeline": [
-      { "year": 2014, "event": "Linda Clark and Gloria Hoffman invent the balance board" },
-      { "year": 2015, "event": "Appear on Shark Tank Season 7. Lori Greiner invests $125K for 20%" },
-      { "year": 2016, "event": "Launches on QVC — sells $9M worth in a single day" },
-      { "year": 2017, "event": "Cumulative sales exceed $100M" },
-      { "year": 2020, "event": "Total lifetime sales reach $160M+" }
+      {
+        "year": 2014,
+        "event": "Linda Clark and Gloria Hoffman invent the balance board"
+      },
+      {
+        "year": 2015,
+        "event": "Appear on Shark Tank Season 7. Lori Greiner invests $125K for 20%"
+      },
+      {
+        "year": 2016,
+        "event": "Launches on QVC \u2014 sells $9M worth in a single day"
+      },
+      {
+        "year": 2017,
+        "event": "Cumulative sales exceed $100M"
+      },
+      {
+        "year": 2020,
+        "event": "Total lifetime sales reach $160M+"
+      }
     ],
-    "currentStatus": "Over $160M in sales — one of the highest-grossing Shark Tank products ever.",
+    "currentStatus": "Over $160M in sales \u2014 one of the highest-grossing Shark Tank products ever.",
     "buyUrl": "https://www.amazon.com/s?k=simply+fit+board",
-    "tags": ["fitness", "balance", "core", "workout"]
+    "tags": [
+      "fitness",
+      "balance",
+      "core",
+      "workout"
+    ],
+    "youtubeId": "UGyRmSqH2q8"
   },
   {
     "id": "the-original-comfy",
@@ -193,43 +440,102 @@
     "tagline": "A giant wearable blanket hoodie that went viral overnight",
     "description": "The Original Comfy is an oversized blanket with sleeves and a hood. It went viral after appearing on Shark Tank and sold out within hours.",
     "category": "Apparel",
-    "season": 9, "episode": 14, "year": 2017,
-    "sharks": ["Barbara Corcoran"],
-    "deal": { "ask": "$50,000", "askEquity": "30%", "amount": "$50,000", "equity": "30%", "investor": "Barbara Corcoran" },
+    "season": 9,
+    "episode": 14,
+    "year": 2017,
+    "sharks": [
+      "Barbara Corcoran"
+    ],
+    "deal": {
+      "ask": "$50,000",
+      "askEquity": "30%",
+      "amount": "$50,000",
+      "equity": "30%",
+      "investor": "Barbara Corcoran"
+    },
     "outcome": "deal",
     "sharkUpdate": "Barbara Corcoran called it one of her best investments. The brothers went on to star in their own reality show.",
     "timeline": [
-      { "year": 2017, "event": "Brothers Brian and Michael Speciale create the wearable blanket" },
-      { "year": 2017, "event": "Appear on Shark Tank Season 9. Barbara Corcoran invests $50K for 30%" },
-      { "year": 2018, "event": "Sells out on Amazon the night the episode airs. Goes viral on social media" },
-      { "year": 2019, "event": "Cumulative sales hit $25M" },
-      { "year": 2022, "event": "Lifetime sales exceed $150M. Brothers star in CNBC reality show" }
+      {
+        "year": 2017,
+        "event": "Brothers Brian and Michael Speciale create the wearable blanket"
+      },
+      {
+        "year": 2017,
+        "event": "Appear on Shark Tank Season 9. Barbara Corcoran invests $50K for 30%"
+      },
+      {
+        "year": 2018,
+        "event": "Sells out on Amazon the night the episode airs. Goes viral on social media"
+      },
+      {
+        "year": 2019,
+        "event": "Cumulative sales hit $25M"
+      },
+      {
+        "year": 2022,
+        "event": "Lifetime sales exceed $150M. Brothers star in CNBC reality show"
+      }
     ],
-    "currentStatus": "Over $150M in sales — one of the most viral Shark Tank products ever.",
+    "currentStatus": "Over $150M in sales \u2014 one of the most viral Shark Tank products ever.",
     "buyUrl": "https://www.amazon.com/s?k=the+original+comfy+blanket+hoodie",
-    "tags": ["blanket", "apparel", "cozy", "hoodie"]
+    "tags": [
+      "blanket",
+      "apparel",
+      "cozy",
+      "hoodie"
+    ],
+    "youtubeId": "IK_JDKOLP8g"
   },
   {
     "id": "groovebook",
     "name": "GrooveBook",
     "slug": "groovebook",
-    "tagline": "Monthly photo book subscription — 100 photos printed and mailed for $2.99",
+    "tagline": "Monthly photo book subscription \u2014 100 photos printed and mailed for $2.99",
     "description": "GrooveBook was a subscription service that printed 100 smartphone photos into a perforated photo book monthly for $2.99. Acquired by Shutterfly for $14.5M.",
     "category": "Tech & Gadgets",
-    "season": 5, "episode": 13, "year": 2013,
-    "sharks": ["Mark Cuban", "Kevin O'Leary"],
-    "deal": { "ask": "$150,000", "askEquity": "80%", "amount": "$150,000", "equity": "80%", "investor": "Mark Cuban, Kevin O'Leary" },
+    "season": 5,
+    "episode": 13,
+    "year": 2013,
+    "sharks": [
+      "Mark Cuban",
+      "Kevin O'Leary"
+    ],
+    "deal": {
+      "ask": "$150,000",
+      "askEquity": "80%",
+      "amount": "$150,000",
+      "equity": "80%",
+      "investor": "Mark Cuban, Kevin O'Leary"
+    },
     "outcome": "deal",
     "sharkUpdate": "Mark Cuban and Kevin O'Leary both received a return on their investment when Shutterfly acquired the company.",
     "timeline": [
-      { "year": 2012, "event": "Brian and Julie Whiteman launch GrooveBook app" },
-      { "year": 2013, "event": "Appear on Shark Tank Season 5. Cuban and O'Leary invest $150K for 80%" },
-      { "year": 2014, "event": "App downloads surge after episode. Subscription base hits 500K+" },
-      { "year": 2014, "event": "Acquired by Shutterfly for $14.5 million just one year after Shark Tank" }
+      {
+        "year": 2012,
+        "event": "Brian and Julie Whiteman launch GrooveBook app"
+      },
+      {
+        "year": 2013,
+        "event": "Appear on Shark Tank Season 5. Cuban and O'Leary invest $150K for 80%"
+      },
+      {
+        "year": 2014,
+        "event": "App downloads surge after episode. Subscription base hits 500K+"
+      },
+      {
+        "year": 2014,
+        "event": "Acquired by Shutterfly for $14.5 million just one year after Shark Tank"
+      }
     ],
-    "currentStatus": "Acquired by Shutterfly for $14.5M — a huge exit for a $150K investment.",
+    "currentStatus": "Acquired by Shutterfly for $14.5M \u2014 a huge exit for a $150K investment.",
     "buyUrl": "https://www.amazon.com/s?k=photo+book+subscription",
-    "tags": ["photos", "subscription", "printing", "app"]
+    "tags": [
+      "photos",
+      "subscription",
+      "printing",
+      "app"
+    ]
   },
   {
     "id": "dude-wipes",
@@ -238,21 +544,52 @@
     "tagline": "Flushable wipes made specifically for men",
     "description": "Dude Wipes are flushable personal hygiene wipes marketed to men with bold branding. Mark Cuban invested and helped them grow into a major retail brand.",
     "category": "Health & Wellness",
-    "season": 6, "episode": 7, "year": 2014,
-    "sharks": ["Mark Cuban"],
-    "deal": { "ask": "$75,000", "askEquity": "25%", "amount": "$75,000", "equity": "25%", "investor": "Mark Cuban" },
+    "season": 6,
+    "episode": 7,
+    "year": 2014,
+    "sharks": [
+      "Mark Cuban"
+    ],
+    "deal": {
+      "ask": "$75,000",
+      "askEquity": "25%",
+      "amount": "$75,000",
+      "equity": "25%",
+      "investor": "Mark Cuban"
+    },
     "outcome": "deal",
     "sharkUpdate": "Mark Cuban remains an active investor. The founders credit him with helping secure major retail distribution.",
     "timeline": [
-      { "year": 2012, "event": "Four college friends create Dude Wipes in a Chicago apartment" },
-      { "year": 2014, "event": "Appear on Shark Tank Season 6. Mark Cuban invests $75K for 25%" },
-      { "year": 2016, "event": "Launch in Target stores nationwide" },
-      { "year": 2019, "event": "Available in Walmart, CVS, Walgreens, and major retailers" },
-      { "year": 2022, "event": "Revenue exceeds $100M. Become dominant brand in the category" }
+      {
+        "year": 2012,
+        "event": "Four college friends create Dude Wipes in a Chicago apartment"
+      },
+      {
+        "year": 2014,
+        "event": "Appear on Shark Tank Season 6. Mark Cuban invests $75K for 25%"
+      },
+      {
+        "year": 2016,
+        "event": "Launch in Target stores nationwide"
+      },
+      {
+        "year": 2019,
+        "event": "Available in Walmart, CVS, Walgreens, and major retailers"
+      },
+      {
+        "year": 2022,
+        "event": "Revenue exceeds $100M. Become dominant brand in the category"
+      }
     ],
-    "currentStatus": "Over $100M in revenue — now in Walmart, Target, CVS, and major retailers nationwide.",
+    "currentStatus": "Over $100M in revenue \u2014 now in Walmart, Target, CVS, and major retailers nationwide.",
     "buyUrl": "https://www.amazon.com/s?k=dude+wipes",
-    "tags": ["hygiene", "men", "bathroom", "wipes"]
+    "tags": [
+      "hygiene",
+      "men",
+      "bathroom",
+      "wipes"
+    ],
+    "youtubeId": "HVVA6J037wM"
   },
   {
     "id": "lovepop",
@@ -261,21 +598,52 @@
     "tagline": "Intricate 3D pop-up greeting cards engineered with ship-building techniques",
     "description": "Lovepop creates stunning 3D pop-up greeting cards using a paper engineering technique inspired by ship architecture. Kevin O'Leary invested and helped them scale massively.",
     "category": "Gifts",
-    "season": 7, "episode": 12, "year": 2016,
-    "sharks": ["Kevin O'Leary"],
-    "deal": { "ask": "$300,000", "askEquity": "10%", "amount": "$300,000", "equity": "15%", "investor": "Kevin O'Leary" },
+    "season": 7,
+    "episode": 12,
+    "year": 2016,
+    "sharks": [
+      "Kevin O'Leary"
+    ],
+    "deal": {
+      "ask": "$300,000",
+      "askEquity": "10%",
+      "amount": "$300,000",
+      "equity": "15%",
+      "investor": "Kevin O'Leary"
+    },
     "outcome": "deal",
     "sharkUpdate": "Kevin O'Leary remains an investor and helped Lovepop scale through retail partnerships.",
     "timeline": [
-      { "year": 2015, "event": "Two MIT naval engineers John Wise and Wombi Rose found Lovepop" },
-      { "year": 2016, "event": "Appear on Shark Tank Season 7. Kevin O'Leary invests $300K for 15%" },
-      { "year": 2017, "event": "Land in Hallmark stores, Barnes & Noble, and airports nationwide" },
-      { "year": 2020, "event": "Revenue exceeds $20M. Pop-up shops in major airports" },
-      { "year": 2022, "event": "Expand internationally. Cards sold in 40+ countries" }
+      {
+        "year": 2015,
+        "event": "Two MIT naval engineers John Wise and Wombi Rose found Lovepop"
+      },
+      {
+        "year": 2016,
+        "event": "Appear on Shark Tank Season 7. Kevin O'Leary invests $300K for 15%"
+      },
+      {
+        "year": 2017,
+        "event": "Land in Hallmark stores, Barnes & Noble, and airports nationwide"
+      },
+      {
+        "year": 2020,
+        "event": "Revenue exceeds $20M. Pop-up shops in major airports"
+      },
+      {
+        "year": 2022,
+        "event": "Expand internationally. Cards sold in 40+ countries"
+      }
     ],
-    "currentStatus": "Over $20M in revenue — now a leading greeting card brand in major retailers.",
+    "currentStatus": "Over $20M in revenue \u2014 now a leading greeting card brand in major retailers.",
     "buyUrl": "https://www.amazon.com/s?k=lovepop+cards",
-    "tags": ["cards", "gifts", "paper art", "greeting cards"]
+    "tags": [
+      "cards",
+      "gifts",
+      "paper art",
+      "greeting cards"
+    ],
+    "youtubeId": "wjb0NpgFnxA"
   },
   {
     "id": "the-bouqs",
@@ -284,44 +652,106 @@
     "tagline": "Farm-fresh flowers delivered directly from eco-friendly farms",
     "description": "The Bouqs Co. sources flowers directly from sustainable volcanic farms. Kevin O'Leary famously walked out during the pitch, but they later raised $24M.",
     "category": "Gifts & Flowers",
-    "season": 5, "episode": 7, "year": 2014,
+    "season": 5,
+    "episode": 7,
+    "year": 2014,
     "sharks": [],
-    "deal": { "ask": "$258,000", "askEquity": "3%", "amount": null, "equity": null, "investor": null },
+    "deal": {
+      "ask": "$258,000",
+      "askEquity": "3%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
     "outcome": "no-deal",
     "sharkUpdate": "Kevin O'Leary famously walked out mid-pitch. Founder John Tabis later said the exposure alone was worth millions.",
     "timeline": [
-      { "year": 2012, "event": "John Tabis and Juan Pablo Montufar co-found The Bouqs Co." },
-      { "year": 2014, "event": "Appear on Shark Tank Season 5. Kevin O'Leary walks out. No deal made" },
-      { "year": 2015, "event": "Raise $24M in Series B funding — sharks missed out" },
-      { "year": 2017, "event": "Partnership with 1-800-Flowers falls through but brand grows independently" },
-      { "year": 2021, "event": "Acquired by FTD for $100M+" }
+      {
+        "year": 2012,
+        "event": "John Tabis and Juan Pablo Montufar co-found The Bouqs Co."
+      },
+      {
+        "year": 2014,
+        "event": "Appear on Shark Tank Season 5. Kevin O'Leary walks out. No deal made"
+      },
+      {
+        "year": 2015,
+        "event": "Raise $24M in Series B funding \u2014 sharks missed out"
+      },
+      {
+        "year": 2017,
+        "event": "Partnership with 1-800-Flowers falls through but brand grows independently"
+      },
+      {
+        "year": 2021,
+        "event": "Acquired by FTD for $100M+"
+      }
     ],
     "currentStatus": "Acquired by FTD for $100M+ after raising $24M post-show. Classic 'shark mistake.'",
     "buyUrl": "https://www.amazon.com/s?k=the+bouqs+flowers",
-    "tags": ["flowers", "gifts", "subscription", "sustainable"]
+    "tags": [
+      "flowers",
+      "gifts",
+      "subscription",
+      "sustainable"
+    ]
   },
   {
     "id": "breathometer",
     "name": "Breathometer",
     "slug": "breathometer",
     "tagline": "The world's first smartphone breathalyzer",
-    "description": "Breathometer was a pocket-sized breathalyzer that plugged into your smartphone. It received investment from all five sharks — one of the rarest events in Shark Tank history.",
+    "description": "Breathometer was a pocket-sized breathalyzer that plugged into your smartphone. It received investment from all five sharks \u2014 one of the rarest events in Shark Tank history.",
     "category": "Tech & Gadgets",
-    "season": 5, "episode": 1, "year": 2013,
-    "sharks": ["Mark Cuban", "Kevin O'Leary", "Lori Greiner", "Daymond John", "Robert Herjavec"],
-    "deal": { "ask": "$250,000", "askEquity": "20%", "amount": "$1,000,000", "equity": "30%", "investor": "All 5 Sharks" },
+    "season": 5,
+    "episode": 1,
+    "year": 2013,
+    "sharks": [
+      "Mark Cuban",
+      "Kevin O'Leary",
+      "Lori Greiner",
+      "Daymond John",
+      "Robert Herjavec"
+    ],
+    "deal": {
+      "ask": "$250,000",
+      "askEquity": "20%",
+      "amount": "$1,000,000",
+      "equity": "30%",
+      "investor": "All 5 Sharks"
+    },
     "outcome": "deal",
     "sharkUpdate": "All 5 sharks invested but the FTC later ordered refunds to customers after accuracy issues. A cautionary tale.",
     "timeline": [
-      { "year": 2013, "event": "Charles Michael Yim creates the smartphone breathalyzer" },
-      { "year": 2013, "event": "Appears on Shark Tank Season 5. All 5 sharks invest $1M — historic moment" },
-      { "year": 2014, "event": "Sales surge. Launches Mint breath analyzer product" },
-      { "year": 2017, "event": "FTC investigation into accuracy claims" },
-      { "year": 2018, "event": "FTC orders refunds to customers. Company effectively shuts down" }
+      {
+        "year": 2013,
+        "event": "Charles Michael Yim creates the smartphone breathalyzer"
+      },
+      {
+        "year": 2013,
+        "event": "Appears on Shark Tank Season 5. All 5 sharks invest $1M \u2014 historic moment"
+      },
+      {
+        "year": 2014,
+        "event": "Sales surge. Launches Mint breath analyzer product"
+      },
+      {
+        "year": 2017,
+        "event": "FTC investigation into accuracy claims"
+      },
+      {
+        "year": 2018,
+        "event": "FTC orders refunds to customers. Company effectively shuts down"
+      }
     ],
-    "currentStatus": "All 5 sharks invested — but the FTC later ordered customer refunds over accuracy issues.",
+    "currentStatus": "All 5 sharks invested \u2014 but the FTC later ordered customer refunds over accuracy issues.",
     "buyUrl": "https://www.amazon.com/s?k=smartphone+breathalyzer",
-    "tags": ["tech", "gadget", "breathalyzer", "health"]
+    "tags": [
+      "tech",
+      "gadget",
+      "breathalyzer",
+      "health"
+    ]
   },
   {
     "id": "sand-cloud",
@@ -330,21 +760,51 @@
     "tagline": "Turkish towels and beach accessories that help save marine life",
     "description": "Sand Cloud sells premium Turkish towels and beach accessories, donating a portion of profits to marine conservation. Barbara Corcoran invested.",
     "category": "Lifestyle",
-    "season": 8, "episode": 18, "year": 2017,
-    "sharks": ["Barbara Corcoran"],
-    "deal": { "ask": "$200,000", "askEquity": "15%", "amount": "$200,000", "equity": "15%", "investor": "Barbara Corcoran" },
+    "season": 8,
+    "episode": 18,
+    "year": 2017,
+    "sharks": [
+      "Barbara Corcoran"
+    ],
+    "deal": {
+      "ask": "$200,000",
+      "askEquity": "15%",
+      "amount": "$200,000",
+      "equity": "15%",
+      "investor": "Barbara Corcoran"
+    },
     "outcome": "deal",
     "sharkUpdate": "Barbara Corcoran remains an investor and has praised their social media growth strategy.",
     "timeline": [
-      { "year": 2014, "event": "Three San Diego friends start selling Turkish towels out of a van" },
-      { "year": 2017, "event": "Appear on Shark Tank Season 8. Barbara Corcoran invests $200K for 15%" },
-      { "year": 2018, "event": "Reach $5M in revenue. Strong Instagram following drives sales" },
-      { "year": 2020, "event": "Over $10M in revenue. Expand product line to apparel" },
-      { "year": 2022, "event": "Donate over $1M to marine conservation organizations" }
+      {
+        "year": 2014,
+        "event": "Three San Diego friends start selling Turkish towels out of a van"
+      },
+      {
+        "year": 2017,
+        "event": "Appear on Shark Tank Season 8. Barbara Corcoran invests $200K for 15%"
+      },
+      {
+        "year": 2018,
+        "event": "Reach $5M in revenue. Strong Instagram following drives sales"
+      },
+      {
+        "year": 2020,
+        "event": "Over $10M in revenue. Expand product line to apparel"
+      },
+      {
+        "year": 2022,
+        "event": "Donate over $1M to marine conservation organizations"
+      }
     ],
     "currentStatus": "Multi-million dollar brand with a strong social following and marine conservation mission.",
     "buyUrl": "https://www.amazon.com/s?k=sand+cloud+towel",
-    "tags": ["beach", "towels", "sustainable", "ocean"]
+    "tags": [
+      "beach",
+      "towels",
+      "sustainable",
+      "ocean"
+    ]
   },
   {
     "id": "scholly",
@@ -353,21 +813,52 @@
     "tagline": "App that matches students with college scholarships they qualify for",
     "description": "Scholly is an app that helps students find college scholarships. The pitch caused a rare argument between sharks, with Lori and Daymond investing against the others' objections.",
     "category": "Tech & Apps",
-    "season": 6, "episode": 13, "year": 2015,
-    "sharks": ["Lori Greiner", "Daymond John"],
-    "deal": { "ask": "$40,000", "askEquity": "15%", "amount": "$40,000", "equity": "15%", "investor": "Lori Greiner, Daymond John" },
+    "season": 6,
+    "episode": 13,
+    "year": 2015,
+    "sharks": [
+      "Lori Greiner",
+      "Daymond John"
+    ],
+    "deal": {
+      "ask": "$40,000",
+      "askEquity": "15%",
+      "amount": "$40,000",
+      "equity": "15%",
+      "investor": "Lori Greiner, Daymond John"
+    },
     "outcome": "deal",
     "sharkUpdate": "Lori Greiner and Daymond John remain investors. Their heated argument with other sharks became one of the most replayed Shark Tank moments.",
     "timeline": [
-      { "year": 2013, "event": "Christopher Gray creates Scholly to help students find scholarships" },
-      { "year": 2015, "event": "Appears on Shark Tank Season 6. Causes famous shark argument. Lori and Daymond invest" },
-      { "year": 2016, "event": "App hits #1 on App Store. 500K+ users" },
-      { "year": 2019, "event": "Helped students find over $100M in scholarships" },
-      { "year": 2022, "event": "Over 5 million app downloads. Expands to career services" }
+      {
+        "year": 2013,
+        "event": "Christopher Gray creates Scholly to help students find scholarships"
+      },
+      {
+        "year": 2015,
+        "event": "Appears on Shark Tank Season 6. Causes famous shark argument. Lori and Daymond invest"
+      },
+      {
+        "year": 2016,
+        "event": "App hits #1 on App Store. 500K+ users"
+      },
+      {
+        "year": 2019,
+        "event": "Helped students find over $100M in scholarships"
+      },
+      {
+        "year": 2022,
+        "event": "Over 5 million app downloads. Expands to career services"
+      }
     ],
     "currentStatus": "Helped students find $100M+ in scholarships. One of the most downloaded education apps.",
     "buyUrl": "https://www.amazon.com/s?k=scholarship+app",
-    "tags": ["education", "app", "scholarships", "college"]
+    "tags": [
+      "education",
+      "app",
+      "scholarships",
+      "college"
+    ]
   },
   {
     "id": "bottle-breacher",
@@ -376,21 +867,53 @@
     "tagline": "Bottle openers made from decommissioned .50 caliber bullets by veterans",
     "description": "Bottle Breacher makes handcrafted bottle openers from decommissioned .50 caliber bullets, made by military veterans.",
     "category": "Gifts",
-    "season": 6, "episode": 8, "year": 2014,
-    "sharks": ["Mark Cuban", "Kevin O'Leary"],
-    "deal": { "ask": "$150,000", "askEquity": "15%", "amount": "$150,000", "equity": "20%", "investor": "Mark Cuban, Kevin O'Leary" },
+    "season": 6,
+    "episode": 8,
+    "year": 2014,
+    "sharks": [
+      "Mark Cuban",
+      "Kevin O'Leary"
+    ],
+    "deal": {
+      "ask": "$150,000",
+      "askEquity": "15%",
+      "amount": "$150,000",
+      "equity": "20%",
+      "investor": "Mark Cuban, Kevin O'Leary"
+    },
     "outcome": "deal",
     "sharkUpdate": "Mark Cuban and Kevin O'Leary both remain investors. The company is beloved in the military community.",
     "timeline": [
-      { "year": 2012, "event": "Navy SEAL Eli Crane starts making bottle openers from spent .50 cal rounds" },
-      { "year": 2014, "event": "Appears on Shark Tank Season 6. Cuban and O'Leary invest $150K for 20%" },
-      { "year": 2015, "event": "Sales exceed $1M. Ships internationally" },
-      { "year": 2018, "event": "Eli Crane runs for Arizona Congress" },
-      { "year": 2022, "event": "Crane wins Arizona Congressional seat. Lifetime sales over $12M" }
+      {
+        "year": 2012,
+        "event": "Navy SEAL Eli Crane starts making bottle openers from spent .50 cal rounds"
+      },
+      {
+        "year": 2014,
+        "event": "Appears on Shark Tank Season 6. Cuban and O'Leary invest $150K for 20%"
+      },
+      {
+        "year": 2015,
+        "event": "Sales exceed $1M. Ships internationally"
+      },
+      {
+        "year": 2018,
+        "event": "Eli Crane runs for Arizona Congress"
+      },
+      {
+        "year": 2022,
+        "event": "Crane wins Arizona Congressional seat. Lifetime sales over $12M"
+      }
     ],
     "currentStatus": "Over $12M in sales. Founder Eli Crane went on to win a seat in US Congress.",
     "buyUrl": "https://www.amazon.com/s?k=bottle+breacher+bottle+opener",
-    "tags": ["bottle opener", "gifts", "military", "veterans", "bar"]
+    "tags": [
+      "bottle opener",
+      "gifts",
+      "military",
+      "veterans",
+      "bar"
+    ]
   },
   {
     "id": "grace-and-lace",
@@ -399,21 +922,51 @@
     "tagline": "Lace boot socks and leg warmers that are fashionable and cozy",
     "description": "Grace & Lace creates decorative lace boot socks and leg warmers. Barbara Corcoran invested after one of the most emotional pitches in Shark Tank history.",
     "category": "Apparel",
-    "season": 5, "episode": 19, "year": 2014,
-    "sharks": ["Barbara Corcoran"],
-    "deal": { "ask": "$175,000", "askEquity": "10%", "amount": "$175,000", "equity": "10%", "investor": "Barbara Corcoran" },
+    "season": 5,
+    "episode": 19,
+    "year": 2014,
+    "sharks": [
+      "Barbara Corcoran"
+    ],
+    "deal": {
+      "ask": "$175,000",
+      "askEquity": "10%",
+      "amount": "$175,000",
+      "equity": "10%",
+      "investor": "Barbara Corcoran"
+    },
     "outcome": "deal",
     "sharkUpdate": "Barbara Corcoran remains an investor and has called Melissa Hinnant one of her most inspiring entrepreneurs.",
     "timeline": [
-      { "year": 2011, "event": "Melissa and Rick Hinnant found Grace & Lace after losing a premature baby" },
-      { "year": 2013, "event": "Business grows to $1.6M in first year with zero ad spend" },
-      { "year": 2014, "event": "Appear on Shark Tank Season 5. Barbara Corcoran invests $175K for 10%" },
-      { "year": 2015, "event": "Annual revenue hits $5M. Expand to full women's apparel line" },
-      { "year": 2020, "event": "Revenue exceeds $10M annually" }
+      {
+        "year": 2011,
+        "event": "Melissa and Rick Hinnant found Grace & Lace after losing a premature baby"
+      },
+      {
+        "year": 2013,
+        "event": "Business grows to $1.6M in first year with zero ad spend"
+      },
+      {
+        "year": 2014,
+        "event": "Appear on Shark Tank Season 5. Barbara Corcoran invests $175K for 10%"
+      },
+      {
+        "year": 2015,
+        "event": "Annual revenue hits $5M. Expand to full women's apparel line"
+      },
+      {
+        "year": 2020,
+        "event": "Revenue exceeds $10M annually"
+      }
     ],
     "currentStatus": "Still operating with multi-million dollar annual revenue.",
     "buyUrl": "https://www.amazon.com/s?k=grace+and+lace+boot+socks",
-    "tags": ["socks", "apparel", "women", "fashion"]
+    "tags": [
+      "socks",
+      "apparel",
+      "women",
+      "fashion"
+    ]
   },
   {
     "id": "drop-stop",
@@ -422,21 +975,50 @@
     "tagline": "Fills the gap between your car seat and console so things stop falling in",
     "description": "Drop Stop is a wedge-shaped car accessory that fills the gap between your seat and center console. Lori Greiner invested and the product became a QVC sensation.",
     "category": "Automotive",
-    "season": 4, "episode": 10, "year": 2012,
-    "sharks": ["Lori Greiner"],
-    "deal": { "ask": "$300,000", "askEquity": "20%", "amount": "$300,000", "equity": "20%", "investor": "Lori Greiner" },
+    "season": 4,
+    "episode": 10,
+    "year": 2012,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$300,000",
+      "askEquity": "20%",
+      "amount": "$300,000",
+      "equity": "20%",
+      "investor": "Lori Greiner"
+    },
     "outcome": "deal",
     "sharkUpdate": "Lori Greiner remains an investor and helped them launch on QVC.",
     "timeline": [
-      { "year": 2011, "event": "Marc Newburger and Jeffrey Simon invent Drop Stop" },
-      { "year": 2012, "event": "Appear on Shark Tank Season 4. Lori Greiner invests $300K for 20%" },
-      { "year": 2013, "event": "Launched on QVC. Sells out multiple times" },
-      { "year": 2016, "event": "Cumulative sales exceed $10M" },
-      { "year": 2022, "event": "Lifetime sales over $15M. Amazon bestseller" }
+      {
+        "year": 2011,
+        "event": "Marc Newburger and Jeffrey Simon invent Drop Stop"
+      },
+      {
+        "year": 2012,
+        "event": "Appear on Shark Tank Season 4. Lori Greiner invests $300K for 20%"
+      },
+      {
+        "year": 2013,
+        "event": "Launched on QVC. Sells out multiple times"
+      },
+      {
+        "year": 2016,
+        "event": "Cumulative sales exceed $10M"
+      },
+      {
+        "year": 2022,
+        "event": "Lifetime sales over $15M. Amazon bestseller"
+      }
     ],
     "currentStatus": "Over $15M in sales, still a bestseller on Amazon and QVC.",
     "buyUrl": "https://www.amazon.com/s?k=drop+stop+car+seat",
-    "tags": ["car", "automotive", "accessory"]
+    "tags": [
+      "car",
+      "automotive",
+      "accessory"
+    ]
   },
   {
     "id": "simple-sugars",
@@ -445,21 +1027,51 @@
     "tagline": "All-natural sugar scrubs safe for sensitive skin, created by a teenager",
     "description": "Simple Sugars creates all-natural sugar scrubs designed for sensitive skin. Founded by Lani Lazzari at age 11, she pitched at 18 and received investment from Mark Cuban.",
     "category": "Beauty & Skincare",
-    "season": 4, "episode": 19, "year": 2013,
-    "sharks": ["Mark Cuban"],
-    "deal": { "ask": "$100,000", "askEquity": "33%", "amount": "$100,000", "equity": "33%", "investor": "Mark Cuban" },
+    "season": 4,
+    "episode": 19,
+    "year": 2013,
+    "sharks": [
+      "Mark Cuban"
+    ],
+    "deal": {
+      "ask": "$100,000",
+      "askEquity": "33%",
+      "amount": "$100,000",
+      "equity": "33%",
+      "investor": "Mark Cuban"
+    },
     "outcome": "deal",
     "sharkUpdate": "Mark Cuban remains an investor and has called Lani one of the most impressive entrepreneurs he's met on the show.",
     "timeline": [
-      { "year": 2006, "event": "11-year-old Lani Lazzari creates the scrub to help with her own eczema" },
-      { "year": 2010, "event": "Starts selling at local craft fairs and farmers markets" },
-      { "year": 2013, "event": "Appears on Shark Tank Season 4 at age 18. Mark Cuban invests $100K for 33%" },
-      { "year": 2013, "event": "Sales go from $30K to $1M+ in first year post-show" },
-      { "year": 2018, "event": "Revenue exceeds $10M annually. Sold in major retailers" }
+      {
+        "year": 2006,
+        "event": "11-year-old Lani Lazzari creates the scrub to help with her own eczema"
+      },
+      {
+        "year": 2010,
+        "event": "Starts selling at local craft fairs and farmers markets"
+      },
+      {
+        "year": 2013,
+        "event": "Appears on Shark Tank Season 4 at age 18. Mark Cuban invests $100K for 33%"
+      },
+      {
+        "year": 2013,
+        "event": "Sales go from $30K to $1M+ in first year post-show"
+      },
+      {
+        "year": 2018,
+        "event": "Revenue exceeds $10M annually. Sold in major retailers"
+      }
     ],
     "currentStatus": "Sales went from $30K to $1M+ in first year. Now a multi-million dollar skincare brand.",
     "buyUrl": "https://www.amazon.com/s?k=simple+sugars+scrub",
-    "tags": ["skincare", "beauty", "natural", "scrub"]
+    "tags": [
+      "skincare",
+      "beauty",
+      "natural",
+      "scrub"
+    ]
   },
   {
     "id": "readerest",
@@ -468,21 +1080,50 @@
     "tagline": "Magnetic eyeglass holder that clips to your shirt without scratching lenses",
     "description": "ReadeREST is a simple magnetic clip that holds reading glasses securely to your shirt without damaging lenses. Lori Greiner invested and turned it into a QVC mega-hit.",
     "category": "Accessories",
-    "season": 3, "episode": 9, "year": 2012,
-    "sharks": ["Lori Greiner"],
-    "deal": { "ask": "$150,000", "askEquity": "65%", "amount": "$150,000", "equity": "65%", "investor": "Lori Greiner" },
+    "season": 3,
+    "episode": 9,
+    "year": 2012,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$150,000",
+      "askEquity": "65%",
+      "amount": "$150,000",
+      "equity": "65%",
+      "investor": "Lori Greiner"
+    },
     "outcome": "deal",
     "sharkUpdate": "Lori Greiner took a majority stake and helped grow it into one of QVC's top-selling products.",
     "timeline": [
-      { "year": 2010, "event": "Rick Hopper invents the magnetic eyeglass holder" },
-      { "year": 2012, "event": "Appears on Shark Tank Season 3. Lori Greiner invests $150K for 65%" },
-      { "year": 2012, "event": "Launches on QVC. Sells $1M in first appearance" },
-      { "year": 2015, "event": "Cumulative sales exceed $10M" },
-      { "year": 2020, "event": "Lifetime sales over $20M. Sold in 5,000+ retail locations" }
+      {
+        "year": 2010,
+        "event": "Rick Hopper invents the magnetic eyeglass holder"
+      },
+      {
+        "year": 2012,
+        "event": "Appears on Shark Tank Season 3. Lori Greiner invests $150K for 65%"
+      },
+      {
+        "year": 2012,
+        "event": "Launches on QVC. Sells $1M in first appearance"
+      },
+      {
+        "year": 2015,
+        "event": "Cumulative sales exceed $10M"
+      },
+      {
+        "year": 2020,
+        "event": "Lifetime sales over $20M. Sold in 5,000+ retail locations"
+      }
     ],
-    "currentStatus": "Over $20M in sales — one of Lori's most beloved QVC products.",
+    "currentStatus": "Over $20M in sales \u2014 one of Lori's most beloved QVC products.",
     "buyUrl": "https://www.amazon.com/s?k=readerest+glasses+holder",
-    "tags": ["glasses", "accessories", "eyewear"]
+    "tags": [
+      "glasses",
+      "accessories",
+      "eyewear"
+    ]
   },
   {
     "id": "wicked-good-cupcakes",
@@ -491,21 +1132,51 @@
     "tagline": "Gourmet cupcakes in a jar, shipped fresh anywhere in the US",
     "description": "Wicked Good Cupcakes sells gourmet cupcakes layered in mason jars. Kevin O'Leary invested in a royalty deal rather than equity.",
     "category": "Food & Beverage",
-    "season": 4, "episode": 16, "year": 2013,
-    "sharks": ["Kevin O'Leary"],
-    "deal": { "ask": "$75,000", "askEquity": "20%", "amount": "$75,000", "equity": "Royalty", "investor": "Kevin O'Leary" },
+    "season": 4,
+    "episode": 16,
+    "year": 2013,
+    "sharks": [
+      "Kevin O'Leary"
+    ],
+    "deal": {
+      "ask": "$75,000",
+      "askEquity": "20%",
+      "amount": "$75,000",
+      "equity": "Royalty",
+      "investor": "Kevin O'Leary"
+    },
     "outcome": "deal",
-    "sharkUpdate": "Kevin O'Leary took a royalty deal instead of equity — $1 per jar sold until he recouped $3x his investment.",
+    "sharkUpdate": "Kevin O'Leary took a royalty deal instead of equity \u2014 $1 per jar sold until he recouped $3x his investment.",
     "timeline": [
-      { "year": 2011, "event": "Tracy and Dani Vilagie (mother and daughter) start baking cupcakes in jars" },
-      { "year": 2012, "event": "Launch online store. Grow via word of mouth" },
-      { "year": 2013, "event": "Appear on Shark Tank Season 4. Kevin O'Leary invests $75K royalty deal" },
-      { "year": 2014, "event": "Revenue triples post-show. Ship 50K jars per month" },
-      { "year": 2018, "event": "Multi-million dollar business shipping nationwide" }
+      {
+        "year": 2011,
+        "event": "Tracy and Dani Vilagie (mother and daughter) start baking cupcakes in jars"
+      },
+      {
+        "year": 2012,
+        "event": "Launch online store. Grow via word of mouth"
+      },
+      {
+        "year": 2013,
+        "event": "Appear on Shark Tank Season 4. Kevin O'Leary invests $75K royalty deal"
+      },
+      {
+        "year": 2014,
+        "event": "Revenue triples post-show. Ship 50K jars per month"
+      },
+      {
+        "year": 2018,
+        "event": "Multi-million dollar business shipping nationwide"
+      }
     ],
     "currentStatus": "Multi-million dollar business shipping nationwide. Still family-owned.",
     "buyUrl": "https://www.amazon.com/s?k=wicked+good+cupcakes",
-    "tags": ["food", "cupcakes", "gifts", "baked goods"]
+    "tags": [
+      "food",
+      "cupcakes",
+      "gifts",
+      "baked goods"
+    ]
   },
   {
     "id": "sleep-styler",
@@ -514,21 +1185,51 @@
     "tagline": "Heat-free hair rollers you wear to bed for curls while you sleep",
     "description": "Sleep Styler are absorbent, heat-free hair rollers designed to be worn overnight, giving salon-quality curls without heat damage.",
     "category": "Beauty & Hair",
-    "season": 8, "episode": 22, "year": 2017,
-    "sharks": ["Lori Greiner"],
-    "deal": { "ask": "$75,000", "askEquity": "25%", "amount": "$75,000", "equity": "25%", "investor": "Lori Greiner" },
+    "season": 8,
+    "episode": 22,
+    "year": 2017,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$75,000",
+      "askEquity": "25%",
+      "amount": "$75,000",
+      "equity": "25%",
+      "investor": "Lori Greiner"
+    },
     "outcome": "deal",
     "sharkUpdate": "Lori Greiner helped launch it on Amazon where it became an instant bestseller.",
     "timeline": [
-      { "year": 2015, "event": "Tara Brown creates the heat-free roller concept" },
-      { "year": 2016, "event": "Runs successful Kickstarter campaign" },
-      { "year": 2017, "event": "Appears on Shark Tank Season 8. Lori Greiner invests $75K for 25%" },
-      { "year": 2017, "event": "Sells over $1M on Amazon in the first month post-episode" },
-      { "year": 2019, "event": "Available in Target, Ulta, and major retailers" }
+      {
+        "year": 2015,
+        "event": "Tara Brown creates the heat-free roller concept"
+      },
+      {
+        "year": 2016,
+        "event": "Runs successful Kickstarter campaign"
+      },
+      {
+        "year": 2017,
+        "event": "Appears on Shark Tank Season 8. Lori Greiner invests $75K for 25%"
+      },
+      {
+        "year": 2017,
+        "event": "Sells over $1M on Amazon in the first month post-episode"
+      },
+      {
+        "year": 2019,
+        "event": "Available in Target, Ulta, and major retailers"
+      }
     ],
     "currentStatus": "Sold over $1M on Amazon in first month post-show. Available in major beauty retailers.",
     "buyUrl": "https://www.amazon.com/s?k=sleep+styler+hair+rollers",
-    "tags": ["hair", "beauty", "curls", "sleep"]
+    "tags": [
+      "hair",
+      "beauty",
+      "curls",
+      "sleep"
+    ]
   },
   {
     "id": "bala-bangles",
@@ -537,21 +1238,53 @@
     "tagline": "Stylish weighted wristbands and anklebands for low-impact workouts",
     "description": "Bala Bangles are sleek, fashionable weighted bands worn on wrists or ankles. Maria Sharapova and Mark Cuban both invested.",
     "category": "Sports & Fitness",
-    "season": 11, "episode": 22, "year": 2020,
-    "sharks": ["Maria Sharapova (Guest)", "Mark Cuban"],
-    "deal": { "ask": "$900,000", "askEquity": "25%", "amount": "$900,000", "equity": "30%", "investor": "Maria Sharapova, Mark Cuban" },
+    "season": 11,
+    "episode": 22,
+    "year": 2020,
+    "sharks": [
+      "Maria Sharapova (Guest)",
+      "Mark Cuban"
+    ],
+    "deal": {
+      "ask": "$900,000",
+      "askEquity": "25%",
+      "amount": "$900,000",
+      "equity": "30%",
+      "investor": "Maria Sharapova, Mark Cuban"
+    },
     "outcome": "deal",
     "sharkUpdate": "Mark Cuban and Maria Sharapova remain investors. Bala is now a staple in fitness boutiques and celebrity home gyms.",
     "timeline": [
-      { "year": 2018, "event": "Max Kislevitz and Natalie Holloway found Bala in Los Angeles" },
-      { "year": 2019, "event": "Gain celebrity following. Featured in major fitness publications" },
-      { "year": 2020, "event": "Appear on Shark Tank Season 11. Mark Cuban and Maria Sharapova invest $900K" },
-      { "year": 2020, "event": "COVID fitness boom drives massive sales increase" },
-      { "year": 2022, "event": "Available in Equinox, Soul Cycle, and 1,000+ retail locations. $30M+ in sales" }
+      {
+        "year": 2018,
+        "event": "Max Kislevitz and Natalie Holloway found Bala in Los Angeles"
+      },
+      {
+        "year": 2019,
+        "event": "Gain celebrity following. Featured in major fitness publications"
+      },
+      {
+        "year": 2020,
+        "event": "Appear on Shark Tank Season 11. Mark Cuban and Maria Sharapova invest $900K"
+      },
+      {
+        "year": 2020,
+        "event": "COVID fitness boom drives massive sales increase"
+      },
+      {
+        "year": 2022,
+        "event": "Available in Equinox, Soul Cycle, and 1,000+ retail locations. $30M+ in sales"
+      }
     ],
     "currentStatus": "Available in Equinox, Soul Cycle, and 1,000+ locations. $30M+ in sales.",
     "buyUrl": "https://www.amazon.com/s?k=bala+bangles+weighted",
-    "tags": ["fitness", "weights", "workout", "fashion", "wellness"]
+    "tags": [
+      "fitness",
+      "weights",
+      "workout",
+      "fashion",
+      "wellness"
+    ]
   },
   {
     "id": "manscaped",
@@ -560,21 +1293,49 @@
     "tagline": "Below-the-waist grooming tools designed specifically for men",
     "description": "Manscaped makes grooming products specifically designed for men's body grooming. Despite no deal, grew to $100M+ revenue independently.",
     "category": "Health & Wellness",
-    "season": 11, "episode": 6, "year": 2019,
+    "season": 11,
+    "episode": 6,
+    "year": 2019,
     "sharks": [],
-    "deal": { "ask": "$500,000", "askEquity": "5%", "amount": null, "equity": null, "investor": null },
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "5%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
     "outcome": "no-deal",
     "sharkUpdate": "All sharks passed. Manscaped went on to become one of the biggest 'ones that got away' in recent Shark Tank history.",
     "timeline": [
-      { "year": 2016, "event": "Paul Tran founds Manscaped in San Diego" },
-      { "year": 2018, "event": "Launch viral advertising campaign" },
-      { "year": 2019, "event": "Appear on Shark Tank Season 11. All sharks decline" },
-      { "year": 2020, "event": "Revenue explodes to $100M+ through direct-to-consumer model" },
-      { "year": 2021, "event": "Go public via SPAC deal. Valued at $1 billion" }
+      {
+        "year": 2016,
+        "event": "Paul Tran founds Manscaped in San Diego"
+      },
+      {
+        "year": 2018,
+        "event": "Launch viral advertising campaign"
+      },
+      {
+        "year": 2019,
+        "event": "Appear on Shark Tank Season 11. All sharks decline"
+      },
+      {
+        "year": 2020,
+        "event": "Revenue explodes to $100M+ through direct-to-consumer model"
+      },
+      {
+        "year": 2021,
+        "event": "Go public via SPAC deal. Valued at $1 billion"
+      }
     ],
-    "currentStatus": "No deal — grew to $100M+ revenue, went public via SPAC, valued at $1B.",
+    "currentStatus": "No deal \u2014 grew to $100M+ revenue, went public via SPAC, valued at $1B.",
     "buyUrl": "https://www.amazon.com/s?k=manscaped+trimmer",
-    "tags": ["grooming", "men", "personal care", "shaving"]
+    "tags": [
+      "grooming",
+      "men",
+      "personal care",
+      "shaving"
+    ]
   },
   {
     "id": "coffee-meets-bagel",
@@ -583,21 +1344,49 @@
     "tagline": "Dating app that sends you one quality match per day",
     "description": "Coffee Meets Bagel is a dating app that curates one match per day for quality over quantity. The founders famously turned down Mark Cuban's $30M buyout offer.",
     "category": "Tech & Apps",
-    "season": 6, "episode": 21, "year": 2015,
+    "season": 6,
+    "episode": 21,
+    "year": 2015,
     "sharks": [],
-    "deal": { "ask": "$500,000", "askEquity": "5%", "amount": null, "equity": null, "investor": null },
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "5%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
     "outcome": "no-deal",
     "sharkUpdate": "Mark Cuban offered to buy the whole company for $30M on the spot. The Kang sisters said no. Memorable TV.",
     "timeline": [
-      { "year": 2012, "event": "Sisters Arum, Dawoon, and Soo Kang launch Coffee Meets Bagel" },
-      { "year": 2015, "event": "Appear on Shark Tank Season 6. Mark Cuban offers $30M for 100% — they decline" },
-      { "year": 2016, "event": "Raise $7.8M in Series A funding" },
-      { "year": 2018, "event": "Over 50M matches made. App used in 40+ countries" },
-      { "year": 2019, "event": "Data breach affects 6M users but company survives and grows" }
+      {
+        "year": 2012,
+        "event": "Sisters Arum, Dawoon, and Soo Kang launch Coffee Meets Bagel"
+      },
+      {
+        "year": 2015,
+        "event": "Appear on Shark Tank Season 6. Mark Cuban offers $30M for 100% \u2014 they decline"
+      },
+      {
+        "year": 2016,
+        "event": "Raise $7.8M in Series A funding"
+      },
+      {
+        "year": 2018,
+        "event": "Over 50M matches made. App used in 40+ countries"
+      },
+      {
+        "year": 2019,
+        "event": "Data breach affects 6M users but company survives and grows"
+      }
     ],
-    "currentStatus": "Turned down $30M from Mark Cuban — still operating as one of the top dating apps.",
+    "currentStatus": "Turned down $30M from Mark Cuban \u2014 still operating as one of the top dating apps.",
     "buyUrl": "https://www.amazon.com/s?k=coffee+meets+bagel+app",
-    "tags": ["dating", "app", "tech", "relationships"]
+    "tags": [
+      "dating",
+      "app",
+      "tech",
+      "relationships"
+    ]
   },
   {
     "id": "lip-bar",
@@ -606,44 +1395,102 @@
     "tagline": "Bold, vegan lipsticks in shades for all skin tones",
     "description": "The Lip Bar is a vegan, cruelty-free lipstick brand. Despite being rejected by all sharks, the founder grew it into a brand now sold in Target.",
     "category": "Beauty & Skincare",
-    "season": 6, "episode": 17, "year": 2015,
+    "season": 6,
+    "episode": 17,
+    "year": 2015,
     "sharks": [],
-    "deal": { "ask": "$125,000", "askEquity": "20%", "amount": null, "equity": null, "investor": null },
+    "deal": {
+      "ask": "$125,000",
+      "askEquity": "20%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
     "outcome": "no-deal",
     "sharkUpdate": "Kevin O'Leary called it a 'disaster.' Founder Melissa Butler went on to prove him wrong spectacularly.",
     "timeline": [
-      { "year": 2012, "event": "Melissa Butler quits her Wall Street job to start The Lip Bar" },
-      { "year": 2015, "event": "Appears on Shark Tank Season 6. All sharks reject. Kevin O'Leary calls it a disaster" },
-      { "year": 2017, "event": "Lands in Target stores — the same place O'Leary said she'd never be" },
-      { "year": 2020, "event": "Available in 1,500+ Target stores. Featured on CNN, Forbes, Essence" },
-      { "year": 2022, "event": "Revenue exceeds $10M annually. Expands to skincare" }
+      {
+        "year": 2012,
+        "event": "Melissa Butler quits her Wall Street job to start The Lip Bar"
+      },
+      {
+        "year": 2015,
+        "event": "Appears on Shark Tank Season 6. All sharks reject. Kevin O'Leary calls it a disaster"
+      },
+      {
+        "year": 2017,
+        "event": "Lands in Target stores \u2014 the same place O'Leary said she'd never be"
+      },
+      {
+        "year": 2020,
+        "event": "Available in 1,500+ Target stores. Featured on CNN, Forbes, Essence"
+      },
+      {
+        "year": 2022,
+        "event": "Revenue exceeds $10M annually. Expands to skincare"
+      }
     ],
-    "currentStatus": "Rejected by all sharks — now sold in 1,500+ Target stores. One of the best comeback stories.",
+    "currentStatus": "Rejected by all sharks \u2014 now sold in 1,500+ Target stores. One of the best comeback stories.",
     "buyUrl": "https://www.amazon.com/s?k=the+lip+bar+lipstick",
-    "tags": ["lipstick", "beauty", "vegan", "makeup"]
+    "tags": [
+      "lipstick",
+      "beauty",
+      "vegan",
+      "makeup"
+    ]
   },
   {
     "id": "mission-belt",
     "name": "Mission Belt",
     "slug": "mission-belt",
-    "tagline": "Ratchet belts without holes — a perfect fit every time",
+    "tagline": "Ratchet belts without holes \u2014 a perfect fit every time",
     "description": "Mission Belt makes leather belts with a ratchet buckle system instead of holes, allowing a precise fit in quarter-inch increments.",
     "category": "Apparel",
-    "season": 4, "episode": 22, "year": 2013,
-    "sharks": ["Daymond John"],
-    "deal": { "ask": "$50,000", "askEquity": "100%", "amount": "$50,000", "equity": "100% (loan structure)", "investor": "Daymond John" },
+    "season": 4,
+    "episode": 22,
+    "year": 2013,
+    "sharks": [
+      "Daymond John"
+    ],
+    "deal": {
+      "ask": "$50,000",
+      "askEquity": "100%",
+      "amount": "$50,000",
+      "equity": "100% (loan structure)",
+      "investor": "Daymond John"
+    },
     "outcome": "deal",
     "sharkUpdate": "Daymond John took an unusual loan structure rather than equity. The company has grown significantly since.",
     "timeline": [
-      { "year": 2012, "event": "Nate Holzapfel and Steve Finnell found Mission Belt" },
-      { "year": 2013, "event": "Appear on Shark Tank Season 4. Daymond John invests in unusual loan deal" },
-      { "year": 2014, "event": "Revenue exceeds $1M. Available in major menswear retailers" },
-      { "year": 2018, "event": "Launch women's line and accessories" },
-      { "year": 2022, "event": "Multi-million dollar brand available nationwide" }
+      {
+        "year": 2012,
+        "event": "Nate Holzapfel and Steve Finnell found Mission Belt"
+      },
+      {
+        "year": 2013,
+        "event": "Appear on Shark Tank Season 4. Daymond John invests in unusual loan deal"
+      },
+      {
+        "year": 2014,
+        "event": "Revenue exceeds $1M. Available in major menswear retailers"
+      },
+      {
+        "year": 2018,
+        "event": "Launch women's line and accessories"
+      },
+      {
+        "year": 2022,
+        "event": "Multi-million dollar brand available nationwide"
+      }
     ],
     "currentStatus": "Multi-million dollar belt brand available nationwide in major retailers.",
     "buyUrl": "https://www.amazon.com/s?k=mission+belt+ratchet",
-    "tags": ["belt", "apparel", "men", "accessories"]
+    "tags": [
+      "belt",
+      "apparel",
+      "men",
+      "accessories"
+    ]
   },
   {
     "id": "tower-paddle-boards",
@@ -652,20 +1499,50 @@
     "tagline": "Direct-to-consumer paddle boards at half the retail price",
     "description": "Tower Paddle Boards sells inflatable stand-up paddle boards directly to consumers at affordable prices. Mark Cuban invested.",
     "category": "Sports & Fitness",
-    "season": 3, "episode": 10, "year": 2012,
-    "sharks": ["Mark Cuban"],
-    "deal": { "ask": "$150,000", "askEquity": "30%", "amount": "$150,000", "equity": "30%", "investor": "Mark Cuban" },
+    "season": 3,
+    "episode": 10,
+    "year": 2012,
+    "sharks": [
+      "Mark Cuban"
+    ],
+    "deal": {
+      "ask": "$150,000",
+      "askEquity": "30%",
+      "amount": "$150,000",
+      "equity": "30%",
+      "investor": "Mark Cuban"
+    },
     "outcome": "deal",
     "sharkUpdate": "Mark Cuban has called Tower one of his best early Shark Tank investments.",
     "timeline": [
-      { "year": 2010, "event": "Stephan Aarstol founds Tower Paddle Boards in San Diego" },
-      { "year": 2012, "event": "Appears on Shark Tank Season 3. Mark Cuban invests $150K for 30%" },
-      { "year": 2013, "event": "Named to Inc. 500 fastest growing companies" },
-      { "year": 2015, "event": "Experiments with 5-hour workday — featured in major media" },
-      { "year": 2022, "event": "Lifetime sales exceed $30M. Expanded to full beach lifestyle brand" }
+      {
+        "year": 2010,
+        "event": "Stephan Aarstol founds Tower Paddle Boards in San Diego"
+      },
+      {
+        "year": 2012,
+        "event": "Appears on Shark Tank Season 3. Mark Cuban invests $150K for 30%"
+      },
+      {
+        "year": 2013,
+        "event": "Named to Inc. 500 fastest growing companies"
+      },
+      {
+        "year": 2015,
+        "event": "Experiments with 5-hour workday \u2014 featured in major media"
+      },
+      {
+        "year": 2022,
+        "event": "Lifetime sales exceed $30M. Expanded to full beach lifestyle brand"
+      }
     ],
-    "currentStatus": "Over $30M in lifetime sales — one of Mark Cuban's best early investments.",
+    "currentStatus": "Over $30M in lifetime sales \u2014 one of Mark Cuban's best early investments.",
     "buyUrl": "https://www.amazon.com/s?k=tower+paddle+board+inflatable",
-    "tags": ["paddle board", "watersports", "outdoor", "beach"]
+    "tags": [
+      "paddle board",
+      "watersports",
+      "outdoor",
+      "beach"
+    ]
   }
 ]
