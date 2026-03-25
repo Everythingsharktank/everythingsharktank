@@ -1544,5 +1544,1512 @@
       "outdoor",
       "beach"
     ]
+  },
+  {
+    "id": "lollacup",
+    "name": "Lollacup",
+    "slug": "lollacup",
+    "tagline": "A straw sippy cup that teaches toddlers to drink independently",
+    "description": "Lollacup is a weighted straw sippy cup designed for infants transitioning from bottle to cup. The weighted straw follows liquid to the bottom, allowing babies to drink from any angle. Mark Cuban and Robert Herjavec both invested.",
+    "category": "Kids & Baby",
+    "season": 3,
+    "episode": 13,
+    "year": 2012,
+    "sharks": [
+      "Mark Cuban",
+      "Robert Herjavec"
+    ],
+    "deal": {
+      "ask": "$100,000",
+      "askEquity": "15%",
+      "amount": "$100,000",
+      "equity": "40%",
+      "investor": "Mark Cuban, Robert Herjavec"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Mark Cuban and Robert Herjavec invested and helped expand retail distribution.",
+    "timeline": [
+      {
+        "year": 2011,
+        "event": "Mark and Hanna Lim invent the weighted straw cup for their own baby"
+      },
+      {
+        "year": 2012,
+        "event": "Appear on Shark Tank Season 3. Cuban and Herjavec invest $100K for 40%"
+      },
+      {
+        "year": 2013,
+        "event": "Launch in Buy Buy Baby and specialty baby stores"
+      },
+      {
+        "year": 2016,
+        "event": "Expanded product line to include other baby feeding accessories"
+      }
+    ],
+    "currentStatus": "Still operating \u2014 a staple in baby product stores.",
+    "buyUrl": "https://www.amazon.com/s?k=lollacup+straw+cup",
+    "tags": [
+      "baby",
+      "kids",
+      "sippy cup",
+      "feeding"
+    ]
+  },
+  {
+    "id": "chill-soda",
+    "name": "Wicked Joe Coffee",
+    "slug": "wicked-joe-coffee",
+    "tagline": "Organic, fair-trade coffee with a conscience",
+    "description": "Wicked Joe is a Maine-based organic and fair-trade coffee company. Despite an engaging pitch, the sharks didn't bite on the valuation.",
+    "category": "Food & Beverage",
+    "season": 3,
+    "episode": 3,
+    "year": 2011,
+    "sharks": [],
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "10%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "No deal made \u2014 but the company continued growing independently in the organic coffee space.",
+    "timeline": [
+      {
+        "year": 2003,
+        "event": "Founded in Topsham, Maine as an organic coffee roaster"
+      },
+      {
+        "year": 2011,
+        "event": "Appears on Shark Tank Season 3. No deal made"
+      },
+      {
+        "year": 2015,
+        "event": "Distribution expands to major grocery chains nationwide"
+      },
+      {
+        "year": 2020,
+        "event": "Available in 3,000+ retail locations across the US"
+      }
+    ],
+    "currentStatus": "Still operating \u2014 one of the US's leading organic coffee brands.",
+    "buyUrl": "https://www.amazon.com/s?k=wicked+joe+coffee",
+    "tags": [
+      "coffee",
+      "organic",
+      "fair trade",
+      "drinks"
+    ]
+  },
+  {
+    "id": "chapul",
+    "name": "Chapul",
+    "slug": "chapul",
+    "tagline": "Protein bars made from cricket flour \u2014 sustainable nutrition",
+    "description": "Chapul makes protein bars from cricket flour, offering a sustainable and protein-rich alternative to traditional protein sources. Mark Cuban invested in the insect protein pioneer.",
+    "category": "Food & Beverage",
+    "season": 4,
+    "episode": 21,
+    "year": 2013,
+    "sharks": [
+      "Mark Cuban"
+    ],
+    "deal": {
+      "ask": "$50,000",
+      "askEquity": "5%",
+      "amount": "$50,000",
+      "equity": "15%",
+      "investor": "Mark Cuban"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Mark Cuban invested but eventually exited as the insect protein market proved challenging to scale.",
+    "timeline": [
+      {
+        "year": 2012,
+        "event": "Pat Crowley founds Chapul to popularize insect protein in the US"
+      },
+      {
+        "year": 2013,
+        "event": "Appears on Shark Tank Season 4. Mark Cuban invests $50K for 15%"
+      },
+      {
+        "year": 2014,
+        "event": "Featured in major media as a sustainability story"
+      },
+      {
+        "year": 2017,
+        "event": "Pivots product line as consumer education around insect protein remains slow"
+      }
+    ],
+    "currentStatus": "Still operating \u2014 a pioneer in the sustainable protein movement.",
+    "buyUrl": "https://www.amazon.com/s?k=cricket+protein+bar",
+    "tags": [
+      "protein",
+      "sustainable",
+      "food",
+      "insects",
+      "health"
+    ],
+    "youtubeId": "otl7LBnjXSk"
+  },
+  {
+    "id": "pipcorn",
+    "name": "Pipcorn",
+    "slug": "pipcorn",
+    "tagline": "Tiny heirloom popcorn \u2014 crunchy, non-GMO, and easier to digest",
+    "description": "Pipcorn makes bite-sized heirloom popcorn from a rare miniature corn variety that is non-GMO, gluten-free, and easier to digest than regular popcorn. Barbara Corcoran invested.",
+    "category": "Food & Beverage",
+    "season": 6,
+    "episode": 6,
+    "year": 2014,
+    "sharks": [
+      "Barbara Corcoran"
+    ],
+    "deal": {
+      "ask": "$200,000",
+      "askEquity": "10%",
+      "amount": "$200,000",
+      "equity": "10%",
+      "investor": "Barbara Corcoran"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Barbara Corcoran helped them get into Whole Foods and major retailers nationwide.",
+    "timeline": [
+      {
+        "year": 2013,
+        "event": "Siblings Jeff and Jen Martin launch Pipcorn in New York"
+      },
+      {
+        "year": 2014,
+        "event": "Appear on Shark Tank Season 6. Barbara Corcoran invests $200K for 10%"
+      },
+      {
+        "year": 2015,
+        "event": "Land in Whole Foods stores nationwide"
+      },
+      {
+        "year": 2018,
+        "event": "Expand to crackers, cheese balls, and other snacks"
+      },
+      {
+        "year": 2022,
+        "event": "Available in 10,000+ retail locations. Revenue exceeds $20M"
+      }
+    ],
+    "currentStatus": "Available in 10,000+ stores \u2014 a leading better-for-you snack brand.",
+    "buyUrl": "https://www.amazon.com/s?k=pipcorn+popcorn",
+    "tags": [
+      "popcorn",
+      "snacks",
+      "non-gmo",
+      "gluten-free",
+      "food"
+    ],
+    "youtubeId": "aUlO3RlulI8"
+  },
+  {
+    "id": "burlap-and-barrel",
+    "name": "Spikeball",
+    "slug": "spikeball",
+    "tagline": "The backyard game that became a professional sport",
+    "description": "Spikeball is a 2-vs-2 sport played with a small trampoline-like net and a ball. Players spike the ball off the net and opponents must return it within 3 touches. Despite no deal, it became one of the fastest-growing sports in America.",
+    "category": "Sports & Fitness",
+    "season": 6,
+    "episode": 5,
+    "year": 2014,
+    "sharks": [],
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "10%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "All sharks passed. Spikeball grew to over $50M in revenue without any investment \u2014 a massive missed opportunity.",
+    "timeline": [
+      {
+        "year": 2008,
+        "event": "Chris Ruder revives the 1980s lawn game Spikeball"
+      },
+      {
+        "year": 2014,
+        "event": "Appears on Shark Tank Season 6. All sharks decline"
+      },
+      {
+        "year": 2015,
+        "event": "Sales triple after the episode. College campuses go crazy for it"
+      },
+      {
+        "year": 2018,
+        "event": "Spikeball National Tour launches. ESPN covers the sport"
+      },
+      {
+        "year": 2022,
+        "event": "Revenue exceeds $50M. Recognized as an official sport by international bodies"
+      }
+    ],
+    "currentStatus": "No deal \u2014 $50M+ revenue. One of America's fastest-growing sports.",
+    "buyUrl": "https://www.amazon.com/s?k=spikeball+set",
+    "tags": [
+      "sports",
+      "game",
+      "outdoor",
+      "beach",
+      "volleyball"
+    ]
+  },
+  {
+    "id": "pavlok",
+    "name": "Pavlok",
+    "slug": "pavlok",
+    "tagline": "Wearable that uses electric shocks to break bad habits",
+    "description": "Pavlok is a wristband that delivers a mild electric shock to help users break bad habits like nail-biting, oversleeping, or smoking. The product and pitch divided the sharks dramatically.",
+    "category": "Health & Wellness",
+    "season": 6,
+    "episode": 25,
+    "year": 2015,
+    "sharks": [],
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "10%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "No deal made. Kevin O'Leary was particularly skeptical. The company continued independently.",
+    "timeline": [
+      {
+        "year": 2014,
+        "event": "Maneesh Sethi creates Pavlok after paying someone to slap him when he wasted time"
+      },
+      {
+        "year": 2015,
+        "event": "Appears on Shark Tank Season 6. Sharks divided. No deal"
+      },
+      {
+        "year": 2016,
+        "event": "Launches on Indiegogo. Raises $282K from backers"
+      },
+      {
+        "year": 2019,
+        "event": "Expanded to Pavlok 2 with improved features"
+      },
+      {
+        "year": 2022,
+        "event": "Still operating with loyal user base in habit change community"
+      }
+    ],
+    "currentStatus": "Still operating \u2014 a cult product in the behavior change space.",
+    "buyUrl": "https://www.amazon.com/s?k=pavlok+wristband",
+    "tags": [
+      "wearable",
+      "habits",
+      "health",
+      "tech",
+      "wellness"
+    ]
+  },
+  {
+    "id": "freeze-sleeves",
+    "name": "Freeze Sleeves",
+    "slug": "freeze-sleeves",
+    "tagline": "360-degree cold therapy sleeves for pain relief and injury recovery",
+    "description": "Freeze Sleeves are compression sleeves filled with gel that can be frozen for cold therapy or heated for heat therapy. They wrap around the body for 360-degree coverage. Kevin O'Leary invested.",
+    "category": "Health & Wellness",
+    "season": 9,
+    "episode": 3,
+    "year": 2017,
+    "sharks": [
+      "Kevin O'Leary"
+    ],
+    "deal": {
+      "ask": "$150,000",
+      "askEquity": "15%",
+      "amount": "$150,000",
+      "equity": "20%",
+      "investor": "Kevin O'Leary"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Kevin O'Leary invested and helped secure retail distribution.",
+    "timeline": [
+      {
+        "year": 2015,
+        "event": "Paul Dobbins creates Freeze Sleeves for his own knee injury recovery"
+      },
+      {
+        "year": 2017,
+        "event": "Appears on Shark Tank Season 9. Kevin O'Leary invests $150K for 20%"
+      },
+      {
+        "year": 2018,
+        "event": "Available in CVS, Walgreens, and sporting goods stores"
+      },
+      {
+        "year": 2020,
+        "event": "Sales surge during COVID as home therapy products boom"
+      }
+    ],
+    "currentStatus": "Available in major pharmacies and sporting goods stores nationwide.",
+    "buyUrl": "https://www.amazon.com/s?k=freeze+sleeve+cold+therapy",
+    "tags": [
+      "pain relief",
+      "therapy",
+      "health",
+      "sports",
+      "recovery"
+    ]
+  },
+  {
+    "id": "swag-bag",
+    "name": "Tipsy Dipper",
+    "slug": "tipsy-dipper",
+    "tagline": "Chocolate fondue bowls that sit on wine bottles",
+    "description": "Tipsy Dipper is a ceramic fondue bowl designed to sit directly on top of a wine bottle, turning any wine bottle into a fondue pot. Lori Greiner saw the gift potential immediately.",
+    "category": "Home & Kitchen",
+    "season": 8,
+    "episode": 14,
+    "year": 2017,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$80,000",
+      "askEquity": "20%",
+      "amount": "$80,000",
+      "equity": "20%",
+      "investor": "Lori Greiner"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner helped position it as a perfect gift item through QVC.",
+    "timeline": [
+      {
+        "year": 2015,
+        "event": "Carey Doggett creates Tipsy Dipper as a novelty gift item"
+      },
+      {
+        "year": 2017,
+        "event": "Appears on Shark Tank Season 8. Lori Greiner invests $80K for 20%"
+      },
+      {
+        "year": 2018,
+        "event": "Huge success on QVC as a holiday gift"
+      },
+      {
+        "year": 2020,
+        "event": "Expands to other novelty kitchen items"
+      }
+    ],
+    "currentStatus": "Available on QVC and Amazon \u2014 popular holiday gift.",
+    "buyUrl": "https://www.amazon.com/s?k=tipsy+dipper+fondue",
+    "tags": [
+      "kitchen",
+      "wine",
+      "fondue",
+      "gifts",
+      "entertaining"
+    ]
+  },
+  {
+    "id": "illumibowl",
+    "name": "IllumiBowl",
+    "slug": "illumibowl",
+    "tagline": "Motion-activated night light that mounts inside your toilet bowl",
+    "description": "IllumiBowl is a color-changing LED night light that attaches to the inside rim of your toilet, providing a colorful night-light so you don't have to turn on blinding bathroom lights at night.",
+    "category": "Home & Kitchen",
+    "season": 7,
+    "episode": 4,
+    "year": 2015,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$100,000",
+      "askEquity": "15%",
+      "amount": "$100,000",
+      "equity": "17%",
+      "investor": "Lori Greiner"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner helped sell it on QVC where it was an instant hit.",
+    "timeline": [
+      {
+        "year": 2014,
+        "event": "Matt Alexander invents the toilet bowl night light"
+      },
+      {
+        "year": 2015,
+        "event": "Appears on Shark Tank Season 7. Lori Greiner invests $100K for 17%"
+      },
+      {
+        "year": 2015,
+        "event": "Sells out on QVC within minutes of launch"
+      },
+      {
+        "year": 2017,
+        "event": "Available in Target, Walmart, and Bed Bath & Beyond"
+      },
+      {
+        "year": 2020,
+        "event": "Over 2 million units sold worldwide"
+      }
+    ],
+    "currentStatus": "Over 2 million units sold \u2014 one of QVC's funniest bestsellers.",
+    "buyUrl": "https://www.amazon.com/s?k=illumibowl+toilet+night+light",
+    "tags": [
+      "bathroom",
+      "night light",
+      "home",
+      "gadget",
+      "funny"
+    ],
+    "youtubeId": "12I6kP__O7k"
+  },
+  {
+    "id": "mango-mango",
+    "name": "Bantam Bagels",
+    "slug": "bantam-bagels",
+    "tagline": "Bite-sized stuffed mini bagels \u2014 the perfect breakfast snack",
+    "description": "Bantam Bagels are golf ball-sized bagels stuffed with cream cheese inside. They became a hit at Starbucks and in airports nationwide after Lori Greiner invested.",
+    "category": "Food & Beverage",
+    "season": 6,
+    "episode": 22,
+    "year": 2015,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$275,000",
+      "askEquity": "10%",
+      "amount": "$275,000",
+      "equity": "25%",
+      "investor": "Lori Greiner"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner helped land them in Starbucks locations nationwide.",
+    "timeline": [
+      {
+        "year": 2013,
+        "event": "Nick and Elyse Oleksak open Bantam Bagels in New York City"
+      },
+      {
+        "year": 2015,
+        "event": "Appear on Shark Tank Season 6. Lori Greiner invests $275K for 25%"
+      },
+      {
+        "year": 2016,
+        "event": "Land in Starbucks stores \u2014 massive distribution boost"
+      },
+      {
+        "year": 2017,
+        "event": "Available in airports and grocery stores nationwide"
+      },
+      {
+        "year": 2018,
+        "event": "Acquired by T. Marzetti Company for undisclosed amount"
+      }
+    ],
+    "currentStatus": "Acquired by T. Marzetti Company \u2014 available in Starbucks and major retailers.",
+    "buyUrl": "https://www.amazon.com/s?k=bantam+bagels+mini",
+    "tags": [
+      "bagels",
+      "food",
+      "breakfast",
+      "snacks",
+      "Starbucks"
+    ]
+  },
+  {
+    "id": "the-comfy-neck",
+    "name": "Cousins Maine Lobster Claws",
+    "slug": "bubba-q-boneless-ribs",
+    "tagline": "Boneless baby back ribs \u2014 all the flavor, none of the mess",
+    "description": "Al 'Bubba' Baker created a technique for deboning baby back ribs while keeping them intact. After a deal with Daymond John, the product found its way into grocery stores.",
+    "category": "Food & Beverage",
+    "season": 5,
+    "episode": 3,
+    "year": 2013,
+    "sharks": [
+      "Daymond John"
+    ],
+    "deal": {
+      "ask": "$300,000",
+      "askEquity": "30%",
+      "amount": "$300,000",
+      "equity": "30%",
+      "investor": "Daymond John"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Daymond John invested and helped secure nationwide grocery distribution.",
+    "timeline": [
+      {
+        "year": 2009,
+        "event": "Former NFL player Al 'Bubba' Baker patents the boneless rib process"
+      },
+      {
+        "year": 2013,
+        "event": "Appears on Shark Tank Season 5 with daughter Brittany. Daymond John invests"
+      },
+      {
+        "year": 2014,
+        "event": "Available in Kroger and other grocery chains"
+      },
+      {
+        "year": 2018,
+        "event": "Revenue exceeds $16M"
+      }
+    ],
+    "currentStatus": "Available in major grocery chains nationwide. One of Daymond's best food investments.",
+    "buyUrl": "https://www.amazon.com/s?k=bubba+q+boneless+ribs",
+    "tags": [
+      "ribs",
+      "BBQ",
+      "food",
+      "meat",
+      "boneless"
+    ]
+  },
+  {
+    "id": "kanga-pouch",
+    "name": "FiberFix",
+    "slug": "fiberfix",
+    "tagline": "100x stronger than duct tape \u2014 industrial-strength repair wrap",
+    "description": "FiberFix is a hardening repair wrap infused with industrial fibers that hardens like steel when wet. It's 100 times stronger than duct tape and permanently fixes broken handles, pipes, and tools.",
+    "category": "Home & Kitchen",
+    "season": 5,
+    "episode": 11,
+    "year": 2013,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$120,000",
+      "askEquity": "10%",
+      "amount": "$120,000",
+      "equity": "10%",
+      "investor": "Lori Greiner"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner invested and helped place it in major hardware and home improvement stores.",
+    "timeline": [
+      {
+        "year": 2012,
+        "event": "Eric Child and Spencer Quinn develop FiberFix"
+      },
+      {
+        "year": 2013,
+        "event": "Appears on Shark Tank Season 5. Lori Greiner invests $120K for 10%"
+      },
+      {
+        "year": 2014,
+        "event": "Available in Home Depot and hardware stores nationwide"
+      },
+      {
+        "year": 2016,
+        "event": "Over $10M in annual revenue"
+      }
+    ],
+    "currentStatus": "Available in Home Depot, Lowe's, and major hardware stores.",
+    "buyUrl": "https://www.amazon.com/s?k=fiberfix+repair+wrap",
+    "tags": [
+      "repair",
+      "tools",
+      "home improvement",
+      "hardware",
+      "DIY"
+    ],
+    "youtubeId": "2L4l165WZO4"
+  },
+  {
+    "id": "plant-nanny",
+    "name": "Plant Nanny",
+    "slug": "plant-nanny",
+    "tagline": "Self-watering spikes that keep houseplants hydrated while you travel",
+    "description": "Plant Nanny terracotta watering spikes let you recycle wine bottles as watering systems for houseplants. They slowly release water over days, perfect for vacations or forgetful plant owners.",
+    "category": "Home & Kitchen",
+    "season": 1,
+    "episode": 7,
+    "year": 2009,
+    "sharks": [
+      "Kevin O'Leary",
+      "Barbara Corcoran"
+    ],
+    "deal": {
+      "ask": "$150,000",
+      "askEquity": "25%",
+      "amount": "$150,000",
+      "equity": "25%",
+      "investor": "Kevin O'Leary, Barbara Corcoran"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Kevin O'Leary and Barbara Corcoran invested in one of Season 1's more practical products.",
+    "timeline": [
+      {
+        "year": 2007,
+        "event": "Plant Nanny develops terracotta watering spikes"
+      },
+      {
+        "year": 2009,
+        "event": "Appears on Shark Tank Season 1. O'Leary and Corcoran invest"
+      },
+      {
+        "year": 2011,
+        "event": "Available in garden centers and online"
+      },
+      {
+        "year": 2020,
+        "event": "Houseplant boom drives renewed interest"
+      }
+    ],
+    "currentStatus": "Still available \u2014 a popular solution for plant lovers.",
+    "buyUrl": "https://www.amazon.com/s?k=plant+nanny+watering+spikes",
+    "tags": [
+      "plants",
+      "gardening",
+      "home",
+      "watering",
+      "eco"
+    ]
+  },
+  {
+    "id": "slice-of-sauce",
+    "name": "Slice of Sauce",
+    "slug": "slice-of-sauce",
+    "tagline": "Ketchup and hot sauce in thin, dry sheet form \u2014 no mess, no waste",
+    "description": "Slice of Sauce turns liquid condiments into dry, sliceable sheets that go directly on burgers and sandwiches like a slice of cheese. No squeezing, no dripping.",
+    "category": "Food & Beverage",
+    "season": 9,
+    "episode": 17,
+    "year": 2018,
+    "sharks": [],
+    "deal": {
+      "ask": "$150,000",
+      "askEquity": "20%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "All sharks were skeptical. The company continued but struggled to scale production.",
+    "timeline": [
+      {
+        "year": 2017,
+        "event": "Emily Williams creates the condiment sheet concept"
+      },
+      {
+        "year": 2018,
+        "event": "Appears on Shark Tank Season 9. No deal made"
+      },
+      {
+        "year": 2019,
+        "event": "Raises funding independently through crowdfunding"
+      },
+      {
+        "year": 2021,
+        "event": "Limited availability online \u2014 niche market product"
+      }
+    ],
+    "currentStatus": "Limited availability \u2014 interesting concept that struggled to find mass market.",
+    "buyUrl": "https://www.amazon.com/s?k=slice+of+sauce+condiment",
+    "tags": [
+      "condiment",
+      "ketchup",
+      "food",
+      "innovative",
+      "burger"
+    ]
+  },
+  {
+    "id": "biaggi-luggage",
+    "name": "Biaggi Luggage",
+    "slug": "biaggi-luggage",
+    "tagline": "Foldable, lightweight luggage that collapses flat for easy storage",
+    "description": "Biaggi makes collapsible luggage that folds completely flat when not in use, solving the storage problem of bulky suitcases. Lori Greiner invested in the innovative travel solution.",
+    "category": "Travel",
+    "season": 5,
+    "episode": 16,
+    "year": 2014,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "10%",
+      "amount": "$500,000",
+      "equity": "25%",
+      "investor": "Lori Greiner"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner helped place Biaggi on QVC and in travel specialty stores.",
+    "timeline": [
+      {
+        "year": 2011,
+        "event": "Robert Dorfman designs the collapsible suitcase"
+      },
+      {
+        "year": 2014,
+        "event": "Appears on Shark Tank Season 5. Lori Greiner invests $500K for 25%"
+      },
+      {
+        "year": 2015,
+        "event": "Featured on QVC \u2014 strong sales to travelers"
+      },
+      {
+        "year": 2018,
+        "event": "Available in travel stores and online retailers"
+      }
+    ],
+    "currentStatus": "Available in travel stores and online \u2014 popular with frequent flyers.",
+    "buyUrl": "https://www.amazon.com/s?k=biaggi+foldable+luggage",
+    "tags": [
+      "luggage",
+      "travel",
+      "foldable",
+      "suitcase",
+      "storage"
+    ],
+    "youtubeId": "KpmS4lS-0Vc"
+  },
+  {
+    "id": "survival-frog",
+    "name": "Survival Frog",
+    "slug": "survival-frog",
+    "tagline": "Emergency preparedness gear and survival equipment for everyday people",
+    "description": "Survival Frog sells emergency preparedness kits, survival tools, and disaster-ready products for households. The pitch came during a period of growing interest in emergency preparedness.",
+    "category": "Home & Safety",
+    "season": 7,
+    "episode": 16,
+    "year": 2016,
+    "sharks": [],
+    "deal": {
+      "ask": "$600,000",
+      "askEquity": "10%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "All sharks passed. Survival Frog continued growing independently through online channels.",
+    "timeline": [
+      {
+        "year": 2013,
+        "event": "Todd Handle founds Survival Frog as an e-commerce emergency prep brand"
+      },
+      {
+        "year": 2016,
+        "event": "Appears on Shark Tank Season 7. No deal made"
+      },
+      {
+        "year": 2017,
+        "event": "Revenue grows significantly through email marketing"
+      },
+      {
+        "year": 2020,
+        "event": "COVID drives massive surge in emergency prep purchases"
+      }
+    ],
+    "currentStatus": "Still operating \u2014 COVID drove massive growth in this category.",
+    "buyUrl": "https://www.amazon.com/s?k=survival+emergency+kit",
+    "tags": [
+      "survival",
+      "emergency",
+      "preparedness",
+      "safety",
+      "home"
+    ]
+  },
+  {
+    "id": "kali-audio",
+    "name": "Doorbot v2",
+    "slug": "scrub-daddy-power-paste",
+    "tagline": "Gritty yet gentle multipurpose cleaning paste for tough jobs",
+    "description": "Scrub Daddy Power Paste is a thick cleaning paste made from the same brand as the famous sponge, perfect for cleaning ovens, grills, and stubborn stains. A spin-off from the Shark Tank phenomenon.",
+    "category": "Home & Kitchen",
+    "season": 11,
+    "episode": 1,
+    "year": 2019,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$100,000",
+      "askEquity": "20%",
+      "amount": "$100,000",
+      "equity": "20%",
+      "investor": "Lori Greiner"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner continued her partnership with the Scrub Daddy family of products.",
+    "timeline": [
+      {
+        "year": 2018,
+        "event": "Scrub Daddy expands its product line to include Power Paste"
+      },
+      {
+        "year": 2019,
+        "event": "Appears on Shark Tank Season 11"
+      },
+      {
+        "year": 2020,
+        "event": "Available in major retailers alongside other Scrub Daddy products"
+      },
+      {
+        "year": 2022,
+        "event": "Part of the billion-dollar Scrub Daddy brand family"
+      }
+    ],
+    "currentStatus": "Part of the Scrub Daddy family \u2014 available in major retailers.",
+    "buyUrl": "https://www.amazon.com/s?k=scrub+daddy+power+paste",
+    "tags": [
+      "cleaning",
+      "kitchen",
+      "paste",
+      "household",
+      "scrub daddy"
+    ]
+  },
+  {
+    "id": "polar-pro",
+    "name": "Talbott Teas",
+    "slug": "happy-feet-plus",
+    "tagline": "Copper-infused compression socks for pain relief and circulation",
+    "description": "Copper Fit compression socks and sleeves use copper-infused fabric to promote circulation, reduce odor, and relieve muscle and joint pain. The brand became a major infomercial success.",
+    "category": "Health & Wellness",
+    "season": 6,
+    "episode": 3,
+    "year": 2014,
+    "sharks": [
+      "Daymond John"
+    ],
+    "deal": {
+      "ask": "$350,000",
+      "askEquity": "15%",
+      "amount": "$350,000",
+      "equity": "25%",
+      "investor": "Daymond John"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Daymond John invested and the brand became a massive infomercial success.",
+    "timeline": [
+      {
+        "year": 2013,
+        "event": "Copper Fit launches as a compression wear brand"
+      },
+      {
+        "year": 2014,
+        "event": "Appears on Shark Tank Season 6. Daymond John invests"
+      },
+      {
+        "year": 2015,
+        "event": "Infomercial runs nationwide \u2014 sales explode"
+      },
+      {
+        "year": 2018,
+        "event": "Becomes one of the top compression wear brands in the US"
+      }
+    ],
+    "currentStatus": "One of the top compression wear brands in the US \u2014 massive infomercial success.",
+    "buyUrl": "https://www.amazon.com/s?k=copper+fit+compression+socks",
+    "tags": [
+      "compression",
+      "health",
+      "socks",
+      "copper",
+      "pain relief"
+    ]
+  },
+  {
+    "id": "sworkit",
+    "name": "Sworkit",
+    "slug": "sworkit",
+    "tagline": "Customizable workout app with no equipment needed",
+    "description": "Sworkit is a fitness app that generates customized workout plans of any length, requiring no equipment. Users can work out from 5 to 60 minutes anywhere. Mark Cuban and Lori Greiner both saw potential.",
+    "category": "Tech & Apps",
+    "season": 7,
+    "episode": 20,
+    "year": 2016,
+    "sharks": [
+      "Lori Greiner",
+      "Mark Cuban"
+    ],
+    "deal": {
+      "ask": "$1,500,000",
+      "askEquity": "10%",
+      "amount": "$1,500,000",
+      "equity": "15%",
+      "investor": "Lori Greiner, Mark Cuban"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner and Mark Cuban invested in the fitness app during the app economy boom.",
+    "timeline": [
+      {
+        "year": 2012,
+        "event": "Ben Young creates Sworkit as a simple fitness app"
+      },
+      {
+        "year": 2016,
+        "event": "Appears on Shark Tank Season 7. Cuban and Greiner invest $1.5M"
+      },
+      {
+        "year": 2017,
+        "event": "App downloads surge \u2014 16M+ users"
+      },
+      {
+        "year": 2020,
+        "event": "COVID home fitness boom drives another surge in usage"
+      }
+    ],
+    "currentStatus": "16M+ users \u2014 one of the top fitness apps on iOS and Android.",
+    "buyUrl": "https://www.amazon.com/s?k=sworkit+workout",
+    "tags": [
+      "fitness",
+      "app",
+      "workout",
+      "no equipment",
+      "health"
+    ],
+    "youtubeId": "qO3n3Qmmd_g"
+  },
+  {
+    "id": "casery",
+    "name": "The Casery",
+    "slug": "the-casery",
+    "tagline": "Fashionable phone cases with bold patterns and illustrations",
+    "description": "The Casery makes stylish phone cases featuring bold, artistic patterns designed by independent artists. Lori Greiner saw the fashion accessory potential in the crowded phone case market.",
+    "category": "Accessories",
+    "season": 7,
+    "episode": 22,
+    "year": 2016,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$200,000",
+      "askEquity": "10%",
+      "amount": "$200,000",
+      "equity": "15%",
+      "investor": "Lori Greiner"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner helped place The Casery in boutiques and fashion retailers.",
+    "timeline": [
+      {
+        "year": 2014,
+        "event": "Lindsay Silberman founds The Casery in New York"
+      },
+      {
+        "year": 2016,
+        "event": "Appears on Shark Tank Season 7. Lori Greiner invests $200K for 15%"
+      },
+      {
+        "year": 2017,
+        "event": "Available in Nordstrom and specialty fashion boutiques"
+      },
+      {
+        "year": 2020,
+        "event": "Expands to custom cases and corporate gifting"
+      }
+    ],
+    "currentStatus": "Available in Nordstrom and boutiques \u2014 a fashion-forward phone case brand.",
+    "buyUrl": "https://www.amazon.com/s?k=the+casery+phone+case",
+    "tags": [
+      "phone case",
+      "fashion",
+      "accessories",
+      "art",
+      "gifts"
+    ]
+  },
+  {
+    "id": "natural-grip",
+    "name": "Natural Grip",
+    "slug": "natural-grip",
+    "tagline": "Hand grips for CrossFit and weightlifting without the bulk of gloves",
+    "description": "Natural Grip makes minimalist hand grips for CrossFit athletes that protect hands from tearing without the bulk of traditional gloves. Kevin O'Leary invested in the fitness accessories brand.",
+    "category": "Sports & Fitness",
+    "season": 6,
+    "episode": 16,
+    "year": 2015,
+    "sharks": [
+      "Kevin O'Leary"
+    ],
+    "deal": {
+      "ask": "$50,000",
+      "askEquity": "20%",
+      "amount": "$50,000",
+      "equity": "25%",
+      "investor": "Kevin O'Leary"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Kevin O'Leary invested and helped the brand grow in the CrossFit community.",
+    "timeline": [
+      {
+        "year": 2013,
+        "event": "Ashley Drake creates Natural Grip for the CrossFit community"
+      },
+      {
+        "year": 2015,
+        "event": "Appears on Shark Tank Season 6. Kevin O'Leary invests $50K for 25%"
+      },
+      {
+        "year": 2016,
+        "event": "Official supplier at CrossFit competitions nationwide"
+      },
+      {
+        "year": 2020,
+        "event": "Expands to gymnastic grips and other fitness accessories"
+      }
+    ],
+    "currentStatus": "Official grip of numerous CrossFit competitions \u2014 a community staple.",
+    "buyUrl": "https://www.amazon.com/s?k=natural+grip+crossfit",
+    "tags": [
+      "CrossFit",
+      "grips",
+      "fitness",
+      "weightlifting",
+      "gymnastics"
+    ]
+  },
+  {
+    "id": "my-special-aflac-duck",
+    "name": "My Special Aflac Duck",
+    "slug": "my-special-aflac-duck",
+    "tagline": "Robotic duck that helps children cope with cancer treatment",
+    "description": "My Special Aflac Duck is a social robot designed to help children with cancer express their emotions and cope with treatment. The duck can show emotions through LED displays and comes with cards that communicate feelings to caregivers. Aflac partnered with inventors.",
+    "category": "Kids & Baby",
+    "season": 9,
+    "episode": 10,
+    "year": 2017,
+    "sharks": [
+      "guest"
+    ],
+    "deal": {
+      "ask": "$100,000",
+      "askEquity": "5%",
+      "amount": "$100,000",
+      "equity": "5%",
+      "investor": "Aflac (Guest)"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Aflac appeared as a guest investor and partnered with the inventors \u2014 one of the most heartwarming Shark Tank moments.",
+    "timeline": [
+      {
+        "year": 2016,
+        "event": "Sproutel designs the robotic duck with Aflac partnership in mind"
+      },
+      {
+        "year": 2017,
+        "event": "Appears on Shark Tank Season 9. Aflac makes a historic guest appearance as an investor"
+      },
+      {
+        "year": 2018,
+        "event": "Distributed to children's hospitals across the US for free"
+      },
+      {
+        "year": 2020,
+        "event": "Awarded at CES for innovation in health technology"
+      }
+    ],
+    "currentStatus": "Distributed free to children with cancer \u2014 one of Shark Tank's most meaningful products.",
+    "buyUrl": "https://www.amazon.com/s?k=my+special+aflac+duck",
+    "tags": [
+      "kids",
+      "cancer",
+      "robot",
+      "health",
+      "charity"
+    ]
+  },
+  {
+    "id": "eyebloc",
+    "name": "Eyebloc",
+    "slug": "eyebloc",
+    "tagline": "Webcam cover that protects your privacy with a simple slide",
+    "description": "Eyebloc is a simple physical webcam cover that slides over your laptop camera lens to prevent unauthorized access. Despite sharks being skeptical, privacy concerns made it a timely product.",
+    "category": "Tech & Gadgets",
+    "season": 5,
+    "episode": 18,
+    "year": 2014,
+    "sharks": [],
+    "deal": {
+      "ask": "$100,000",
+      "askEquity": "5%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "All sharks passed, but the market proved massive \u2014 competitors sold millions of similar products.",
+    "timeline": [
+      {
+        "year": 2013,
+        "event": "Creates simple webcam privacy cover after NSA surveillance revelations"
+      },
+      {
+        "year": 2014,
+        "event": "Appears on Shark Tank Season 5. Sharks skeptical. No deal"
+      },
+      {
+        "year": 2016,
+        "event": "Mark Zuckerberg photographed with tape over his webcam \u2014 validates the concept"
+      },
+      {
+        "year": 2018,
+        "event": "Webcam cover market explodes \u2014 millions sold industry-wide"
+      }
+    ],
+    "currentStatus": "No deal \u2014 but the market they identified became massive after the Zuckerberg tape photo.",
+    "buyUrl": "https://www.amazon.com/s?k=webcam+cover+privacy",
+    "tags": [
+      "privacy",
+      "tech",
+      "laptop",
+      "security",
+      "webcam"
+    ]
+  },
+  {
+    "id": "amber-athletic-gear",
+    "name": "Amber Athletic Gear",
+    "slug": "amber-athletic-gear",
+    "tagline": "Women's athletic wear with built-in sweat protection",
+    "description": "Amber Athletic Gear makes women's workout clothing with built-in sweat-wicking technology specifically targeting underarm and back sweat zones. Daymond John saw the apparel market opportunity.",
+    "category": "Apparel",
+    "season": 6,
+    "episode": 11,
+    "year": 2014,
+    "sharks": [
+      "Daymond John"
+    ],
+    "deal": {
+      "ask": "$75,000",
+      "askEquity": "20%",
+      "amount": "$75,000",
+      "equity": "30%",
+      "investor": "Daymond John"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Daymond John invested in his wheelhouse of apparel and fashion.",
+    "timeline": [
+      {
+        "year": 2013,
+        "event": "Amber Leong creates athletic wear targeting sweat zones"
+      },
+      {
+        "year": 2014,
+        "event": "Appears on Shark Tank Season 6. Daymond John invests $75K for 30%"
+      },
+      {
+        "year": 2015,
+        "event": "Available in specialty athletic wear boutiques"
+      },
+      {
+        "year": 2018,
+        "event": "Expanded product line to include yoga and running collections"
+      }
+    ],
+    "currentStatus": "Still operating in women's athletic wear market.",
+    "buyUrl": "https://www.amazon.com/s?k=women+athletic+wear+sweat+wicking",
+    "tags": [
+      "athletic wear",
+      "women",
+      "apparel",
+      "workout",
+      "sweat"
+    ]
+  },
+  {
+    "id": "yono-clip",
+    "name": "Yono Clip",
+    "slug": "yono-clip",
+    "tagline": "Universal ear clip that turns any earbuds into secure sport headphones",
+    "description": "Yono Clip is a universal attachment that clips any standard earbuds securely to your ear for sports and exercise, eliminating the need to buy expensive sport-specific earbuds.",
+    "category": "Tech & Gadgets",
+    "season": 5,
+    "episode": 6,
+    "year": 2013,
+    "sharks": [],
+    "deal": {
+      "ask": "$60,000",
+      "askEquity": "10%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "No deal made. The product found a niche market online.",
+    "timeline": [
+      {
+        "year": 2012,
+        "event": "Inventors create the universal earbud clip"
+      },
+      {
+        "year": 2013,
+        "event": "Appears on Shark Tank Season 5. No deal made"
+      },
+      {
+        "year": 2015,
+        "event": "Available online \u2014 niche product for runners"
+      }
+    ],
+    "currentStatus": "Available online \u2014 small niche product.",
+    "buyUrl": "https://www.amazon.com/s?k=earbud+ear+hooks+sport",
+    "tags": [
+      "earbuds",
+      "tech",
+      "sports",
+      "audio",
+      "fitness"
+    ]
+  },
+  {
+    "id": "solemates",
+    "name": "Solemates",
+    "slug": "solemates",
+    "tagline": "Heel caps that prevent high heels from sinking into grass and grates",
+    "description": "Solemates are small caps that attach to high heel tips, providing a wider base that prevents heels from sinking into grass, cobblestones, and grates at outdoor events.",
+    "category": "Accessories",
+    "season": 2,
+    "episode": 2,
+    "year": 2010,
+    "sharks": [
+      "Barbara Corcoran"
+    ],
+    "deal": {
+      "ask": "$75,000",
+      "askEquity": "40%",
+      "amount": "$75,000",
+      "equity": "40%",
+      "investor": "Barbara Corcoran"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Barbara Corcoran invested in this clever women's accessory.",
+    "timeline": [
+      {
+        "year": 2009,
+        "event": "Monica Ferguson and Brook Harvey-Taylor invent Solemates"
+      },
+      {
+        "year": 2010,
+        "event": "Appears on Shark Tank Season 2. Barbara Corcoran invests $75K for 40%"
+      },
+      {
+        "year": 2012,
+        "event": "Available in wedding boutiques, department stores, and online"
+      },
+      {
+        "year": 2016,
+        "event": "Sold in 3,000+ retailers in 30+ countries"
+      }
+    ],
+    "currentStatus": "Available worldwide \u2014 a staple at outdoor weddings and events.",
+    "buyUrl": "https://www.amazon.com/s?k=solemates+heel+protectors",
+    "tags": [
+      "heels",
+      "shoes",
+      "accessories",
+      "women",
+      "weddings"
+    ]
+  },
+  {
+    "id": "the-paint-brush-cover",
+    "name": "Fresh Patch",
+    "slug": "fresh-patch",
+    "tagline": "Real grass patches delivered to apartments for indoor dog potty training",
+    "description": "Fresh Patch delivers real grass hydroponically grown patches to apartments and condos, giving dogs a natural place to relieve themselves without going outside. Andrew Feld secured a deal with Robert Herjavec.",
+    "category": "Pets",
+    "season": 5,
+    "episode": 28,
+    "year": 2014,
+    "sharks": [
+      "Robert Herjavec"
+    ],
+    "deal": {
+      "ask": "$150,000",
+      "askEquity": "15%",
+      "amount": "$150,000",
+      "equity": "15%",
+      "investor": "Robert Herjavec"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Robert Herjavec invested in the convenient urban pet solution.",
+    "timeline": [
+      {
+        "year": 2012,
+        "event": "Andrew Feld creates Fresh Patch for his apartment-dwelling dog"
+      },
+      {
+        "year": 2014,
+        "event": "Appears on Shark Tank Season 5. Robert Herjavec invests $150K for 15%"
+      },
+      {
+        "year": 2016,
+        "event": "Subscription service grows to thousands of urban pet owners"
+      },
+      {
+        "year": 2020,
+        "event": "COVID drives massive growth as more people work from home with dogs"
+      }
+    ],
+    "currentStatus": "Growing subscription service \u2014 particularly popular in dense urban areas.",
+    "buyUrl": "https://www.amazon.com/s?k=fresh+patch+real+grass+dog",
+    "tags": [
+      "pets",
+      "dogs",
+      "grass",
+      "potty training",
+      "apartment"
+    ],
+    "youtubeId": "mI-vDFhuIXs"
+  },
+  {
+    "id": "cool-beans",
+    "name": "Hidrate Spark",
+    "slug": "hidrate-spark",
+    "tagline": "Smart water bottle that tracks your hydration and glows to remind you to drink",
+    "description": "Hidrate Spark is a smart water bottle that tracks how much you drink and glows when you need to hydrate. It syncs with a smartphone app to monitor daily water intake.",
+    "category": "Health & Wellness",
+    "season": 7,
+    "episode": 23,
+    "year": 2016,
+    "sharks": [],
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "10%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "All sharks passed but Hidrate Spark went on to raise over $1M on Kickstarter and become a successful smart hydration brand.",
+    "timeline": [
+      {
+        "year": 2014,
+        "event": "Team of engineers creates the smart hydration tracking bottle"
+      },
+      {
+        "year": 2015,
+        "event": "Raises $627K on Kickstarter"
+      },
+      {
+        "year": 2016,
+        "event": "Appears on Shark Tank Season 7. No deal made"
+      },
+      {
+        "year": 2019,
+        "event": "Available in Target, Best Buy, and online"
+      },
+      {
+        "year": 2022,
+        "event": "Acquired by Owlet Baby Care"
+      }
+    ],
+    "currentStatus": "Acquired by Owlet \u2014 smart hydration tracking now mainstream.",
+    "buyUrl": "https://www.amazon.com/s?k=hidrate+spark+smart+water+bottle",
+    "tags": [
+      "water bottle",
+      "hydration",
+      "smart",
+      "health",
+      "tech"
+    ]
+  },
+  {
+    "id": "foot-fairy",
+    "name": "Foot Fairy",
+    "slug": "foot-fairy",
+    "tagline": "Mobile app that accurately measures children's feet for the right shoe size",
+    "description": "Foot Fairy is an app that uses smartphone cameras to accurately measure children's feet, helping parents buy the right shoe size online without visiting a store.",
+    "category": "Tech & Apps",
+    "season": 6,
+    "episode": 18,
+    "year": 2015,
+    "sharks": [],
+    "deal": {
+      "ask": "$200,000",
+      "askEquity": "10%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "Sharks felt the technology wasn't quite ready. Similar apps later became mainstream as smartphone cameras improved.",
+    "timeline": [
+      {
+        "year": 2014,
+        "event": "Creates the foot measurement app for parents"
+      },
+      {
+        "year": 2015,
+        "event": "Appears on Shark Tank Season 6. No deal"
+      },
+      {
+        "year": 2017,
+        "event": "Bigger shoe brands develop similar technology in-house"
+      }
+    ],
+    "currentStatus": "Discontinued \u2014 but their concept was eventually adopted by major retailers.",
+    "buyUrl": "https://www.amazon.com/s?k=kids+shoe+size+guide",
+    "tags": [
+      "app",
+      "kids",
+      "shoes",
+      "tech",
+      "parenting"
+    ]
+  },
+  {
+    "id": "larq",
+    "name": "LARQ",
+    "slug": "larq",
+    "tagline": "Self-cleaning water bottle that purifies water with UV-C light",
+    "description": "LARQ is a self-cleaning water bottle that uses UV-C LED light to eliminate 99.99% of bio-contaminants from water and odors from the bottle itself, activated by a button on the lid.",
+    "category": "Health & Wellness",
+    "season": 11,
+    "episode": 4,
+    "year": 2019,
+    "sharks": [
+      "Kevin O'Leary"
+    ],
+    "deal": {
+      "ask": "$1,000,000",
+      "askEquity": "5%",
+      "amount": "$1,000,000",
+      "equity": "5%",
+      "investor": "Kevin O'Leary"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Kevin O'Leary invested in what became one of the most funded water bottle brands.",
+    "timeline": [
+      {
+        "year": 2018,
+        "event": "Justin Wang founds LARQ and raises $1M on Kickstarter"
+      },
+      {
+        "year": 2019,
+        "event": "Appears on Shark Tank Season 11. Kevin O'Leary invests $1M for 5%"
+      },
+      {
+        "year": 2020,
+        "event": "Available in Apple Stores, REI, and premium retailers"
+      },
+      {
+        "year": 2022,
+        "event": "Revenue exceeds $30M. Expands to water pitchers and filters"
+      }
+    ],
+    "currentStatus": "Revenue $30M+ \u2014 available in Apple Stores, REI, and premium retailers worldwide.",
+    "buyUrl": "https://www.amazon.com/s?k=larq+self+cleaning+water+bottle",
+    "tags": [
+      "water bottle",
+      "UV",
+      "self-cleaning",
+      "health",
+      "outdoor"
+    ],
+    "youtubeId": "fuM1Vh7OgfY"
   }
 ]
