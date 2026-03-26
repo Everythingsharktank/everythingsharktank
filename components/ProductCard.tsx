@@ -12,6 +12,7 @@ type Product = {
   deal: { ask: string; equity: string; amount: string | null; investor: string | null }
   outcome: string
   buyUrl: string
+  image?: string | null
 }
 
 export default function ProductCard({ product }: { product: Product }) {
@@ -27,9 +28,18 @@ export default function ProductCard({ product }: { product: Product }) {
           <span className={`text-xs border px-2 py-1 rounded-full ${outcomeColor}`}>{outcomeLabel}</span>
         </div>
 
-        {/* Product image placeholder */}
-        <div className="bg-slate-800 rounded-lg h-32 flex items-center justify-center mb-4 text-4xl group-hover:bg-slate-700 transition-colors">
-          🦈
+        {/* Product image */}
+        <div className="bg-slate-800 rounded-lg h-36 mb-4 overflow-hidden relative">
+          {product.image ? (
+            <img
+              src={product.image}
+              alt={product.name}
+              className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+              loading="lazy"
+            />
+          ) : (
+            <div className="w-full h-full flex items-center justify-center text-4xl group-hover:bg-slate-700 transition-colors">🦈</div>
+          )}
         </div>
 
         {/* Name + tagline */}

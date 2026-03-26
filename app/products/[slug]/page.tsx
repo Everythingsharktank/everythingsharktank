@@ -32,9 +32,17 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
       </Link>
 
       <div className="mt-6 grid grid-cols-1 md:grid-cols-2 gap-10">
-        {/* Left: image placeholder */}
-        <div className="bg-slate-900 border border-slate-800 rounded-2xl flex items-center justify-center h-72 text-7xl">
-          🦈
+        {/* Left: product image */}
+        <div className="bg-slate-900 border border-slate-800 rounded-2xl overflow-hidden h-72">
+          {(product as any).image ? (
+            <img
+              src={(product as any).image}
+              alt={product.name}
+              className="w-full h-full object-cover"
+            />
+          ) : (
+            <div className="w-full h-full flex items-center justify-center text-7xl">🦈</div>
+          )}
         </div>
 
         {/* Right: details */}
