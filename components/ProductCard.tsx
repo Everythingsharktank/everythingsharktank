@@ -29,12 +29,12 @@ export default function ProductCard({ product }: { product: Product }) {
         </div>
 
         {/* Product image */}
-        <div className="bg-slate-800 rounded-lg h-36 mb-4 overflow-hidden relative">
+        <div className="bg-slate-800 rounded-lg mb-4 overflow-hidden relative" style={{aspectRatio: '4/3'}}>
           {product.image ? (
             <img
               src={product.image}
               alt={product.name}
-              className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+              className="w-full h-full object-contain p-2 group-hover:scale-105 transition-transform duration-300"
               loading="lazy"
             />
           ) : (

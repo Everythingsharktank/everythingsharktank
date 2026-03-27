@@ -3110,5 +3110,486 @@
     ],
     "youtubeId": "fuM1Vh7OgfY",
     "image": "/images/products/larq.jpg"
+  },
+  {
+    "id": "zipz-wine",
+    "name": "Zipz Wine",
+    "slug": "zipz-wine",
+    "tagline": "Single-serve wine glasses sealed for freshness \u2014 no bottle needed",
+    "description": "Zipz Wine are single-serve premium wine glasses sealed with a unique zip-top closure. Kevin O'Leary invested $2.5M in one of the largest deals in Shark Tank history at the time.",
+    "category": "Food & Beverage",
+    "season": 6,
+    "episode": 23,
+    "year": 2015,
+    "sharks": [
+      "Kevin O'Leary"
+    ],
+    "deal": {
+      "ask": "$2,500,000",
+      "askEquity": "10%",
+      "amount": "$2,500,000",
+      "equity": "18%",
+      "investor": "Kevin O'Leary"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Kevin O'Leary made one of his biggest Shark Tank investments. The company expanded into stadiums and events.",
+    "timeline": [
+      {
+        "year": 2013,
+        "event": "Andrew McMurray creates the single-serve sealed wine glass"
+      },
+      {
+        "year": 2015,
+        "event": "Appears on Shark Tank Season 6. Kevin O'Leary invests $2.5M for 18%"
+      },
+      {
+        "year": 2016,
+        "event": "Available at major sports venues and events nationwide"
+      },
+      {
+        "year": 2019,
+        "event": "Sold in thousands of retail locations and venues"
+      }
+    ],
+    "currentStatus": "Available in stadiums, arenas, and retail stores nationwide.",
+    "buyUrl": "https://www.amazon.com/s?k=zipz+wine+single+serve&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=400&q=80",
+    "tags": [
+      "wine",
+      "drinks",
+      "single serve",
+      "events"
+    ]
+  },
+  {
+    "id": "plated",
+    "name": "Plated",
+    "slug": "plated",
+    "tagline": "Meal kit delivery service with chef-designed recipes",
+    "description": "Plated was an early meal kit delivery service acquired by Albertsons for $200M despite all sharks declining on the show.",
+    "category": "Food & Beverage",
+    "season": 4,
+    "episode": 23,
+    "year": 2013,
+    "sharks": [],
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "5.6%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "All sharks passed. Albertsons acquired Plated for $200M.",
+    "timeline": [
+      {
+        "year": 2012,
+        "event": "Nick Taranto and Josh Hix found Plated"
+      },
+      {
+        "year": 2013,
+        "event": "Appears on Shark Tank Season 4. No deal"
+      },
+      {
+        "year": 2014,
+        "event": "Raises $35M post-show"
+      },
+      {
+        "year": 2017,
+        "event": "Acquired by Albertsons for $200M"
+      }
+    ],
+    "currentStatus": "Acquired by Albertsons for $200M \u2014 massive no-deal outcome.",
+    "buyUrl": "https://www.amazon.com/s?k=meal+kit+delivery&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=400&q=80",
+    "tags": [
+      "meal kit",
+      "food",
+      "delivery",
+      "cooking"
+    ]
+  },
+  {
+    "id": "blueland",
+    "name": "Blueland",
+    "slug": "blueland",
+    "tagline": "Cleaning tablets that dissolve in water \u2014 zero plastic waste",
+    "description": "Blueland makes eco-friendly cleaning tablets that dissolve in reusable bottles, eliminating single-use plastic. Kevin O'Leary invested and the brand grew to $50M+ revenue.",
+    "category": "Home & Kitchen",
+    "season": 11,
+    "episode": 2,
+    "year": 2019,
+    "sharks": [
+      "Kevin O'Leary"
+    ],
+    "deal": {
+      "ask": "$270,000",
+      "askEquity": "3%",
+      "amount": "$270,000",
+      "equity": "3%",
+      "investor": "Kevin O'Leary"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Kevin O'Leary invested. Now available in Target and 5,000+ stores.",
+    "timeline": [
+      {
+        "year": 2019,
+        "event": "Sarah Paiji Yoo founds Blueland"
+      },
+      {
+        "year": 2019,
+        "event": "Appears on Shark Tank. Kevin O'Leary invests $270K for 3%"
+      },
+      {
+        "year": 2020,
+        "event": "COVID cleaning boom drives massive growth"
+      },
+      {
+        "year": 2022,
+        "event": "Available in Target and 5,000+ stores. $50M+ revenue"
+      }
+    ],
+    "currentStatus": "Available in Target and 5,000+ stores. $50M+ revenue.",
+    "buyUrl": "https://www.amazon.com/s?k=blueland+cleaning+tablets&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400&q=80",
+    "tags": [
+      "cleaning",
+      "eco",
+      "sustainable",
+      "zero waste",
+      "home"
+    ]
+  },
+  {
+    "id": "hero-cosmetics",
+    "name": "Hero Cosmetics",
+    "slug": "hero-cosmetics",
+    "tagline": "Mighty Patch \u2014 the original hydrocolloid acne patch",
+    "description": "Hero Cosmetics makes Mighty Patch, the viral hydrocolloid acne sticker that absorbs pimples overnight. Acquired by Church & Dwight for $630M after Lori Greiner invested.",
+    "category": "Beauty & Skincare",
+    "season": 13,
+    "episode": 2,
+    "year": 2021,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$800,000",
+      "askEquity": "5%",
+      "amount": "$800,000",
+      "equity": "5%",
+      "investor": "Lori Greiner"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner invested. Church & Dwight acquired the company for $630M.",
+    "timeline": [
+      {
+        "year": 2017,
+        "event": "Ju Rhyu founds Hero Cosmetics"
+      },
+      {
+        "year": 2021,
+        "event": "Appears on Shark Tank. Lori Greiner invests $800K"
+      },
+      {
+        "year": 2022,
+        "event": "Available in Target, CVS, Walgreens, and Ulta"
+      },
+      {
+        "year": 2022,
+        "event": "Acquired by Church & Dwight for $630M"
+      }
+    ],
+    "currentStatus": "Acquired by Church & Dwight for $630M \u2014 one of the biggest Shark Tank exits.",
+    "buyUrl": "https://www.amazon.com/s?k=hero+cosmetics+mighty+patch&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=400&q=80",
+    "tags": [
+      "skincare",
+      "acne",
+      "pimple patch",
+      "beauty"
+    ]
+  },
+  {
+    "id": "copper-cow-coffee",
+    "name": "Copper Cow Coffee",
+    "slug": "copper-cow-coffee",
+    "tagline": "Vietnamese pour-over coffee filters that brew cafe-style coffee anywhere",
+    "description": "Copper Cow Coffee makes single-serve Vietnamese pour-over coffee filters that hang over any cup. Lori Greiner invested and helped expand into Whole Foods and REI.",
+    "category": "Food & Beverage",
+    "season": 12,
+    "episode": 5,
+    "year": 2020,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$600,000",
+      "askEquity": "5%",
+      "amount": "$600,000",
+      "equity": "8%",
+      "investor": "Lori Greiner"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner invested and helped expand into major retailers.",
+    "timeline": [
+      {
+        "year": 2017,
+        "event": "Debbie Wei Mullin founds Copper Cow"
+      },
+      {
+        "year": 2020,
+        "event": "Appears on Shark Tank. Lori Greiner invests"
+      },
+      {
+        "year": 2021,
+        "event": "Available in Whole Foods, REI, and Nordstrom"
+      },
+      {
+        "year": 2023,
+        "event": "One of the fastest-growing coffee brands in the US"
+      }
+    ],
+    "currentStatus": "Available in Whole Foods, REI, and major retailers.",
+    "buyUrl": "https://www.amazon.com/s?k=copper+cow+coffee+vietnamese&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=400&q=80",
+    "tags": [
+      "coffee",
+      "Vietnamese",
+      "pour over",
+      "drinks"
+    ]
+  },
+  {
+    "id": "deux",
+    "name": "Deux",
+    "slug": "deux",
+    "tagline": "Edible cookie dough packed with functional ingredients",
+    "description": "Deux makes edible cookie dough with adaptogens and vitamins so you can eat it raw guilt-free. Mark Cuban invested in the functional food startup.",
+    "category": "Food & Beverage",
+    "season": 14,
+    "episode": 3,
+    "year": 2022,
+    "sharks": [
+      "Mark Cuban"
+    ],
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "5%",
+      "amount": "$500,000",
+      "equity": "10%",
+      "investor": "Mark Cuban"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Mark Cuban invested in the functional food trend.",
+    "timeline": [
+      {
+        "year": 2020,
+        "event": "Sabeena Ladha founds Deux during COVID"
+      },
+      {
+        "year": 2022,
+        "event": "Appears on Shark Tank. Mark Cuban invests"
+      },
+      {
+        "year": 2023,
+        "event": "Available in Whole Foods and Erewhon"
+      }
+    ],
+    "currentStatus": "Available in Whole Foods and specialty health food stores.",
+    "buyUrl": "https://www.amazon.com/s?k=deux+cookie+dough&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400&q=80",
+    "tags": [
+      "cookie dough",
+      "functional",
+      "health",
+      "snacks"
+    ]
+  },
+  {
+    "id": "voyage-air-guitar",
+    "name": "Voyage Air Guitar",
+    "slug": "voyage-air-guitar",
+    "tagline": "Full-size acoustic guitar that folds in half for carry-on travel",
+    "description": "Voyage Air Guitar invented a hinge mechanism allowing a full-size guitar to fold in half for TSA carry-on luggage. Robert Herjavec invested in Season 1.",
+    "category": "Music & Education",
+    "season": 1,
+    "episode": 9,
+    "year": 2009,
+    "sharks": [
+      "Robert Herjavec"
+    ],
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "15%",
+      "amount": "$500,000",
+      "equity": "15%",
+      "investor": "Robert Herjavec"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Robert Herjavec invested in Season 1 \u2014 one of the earliest Shark Tank deals.",
+    "timeline": [
+      {
+        "year": 2007,
+        "event": "Jeff Cohen invents the folding guitar"
+      },
+      {
+        "year": 2009,
+        "event": "Appears on Shark Tank Season 1. Robert Herjavec invests"
+      },
+      {
+        "year": 2011,
+        "event": "Popular with touring musicians worldwide"
+      }
+    ],
+    "currentStatus": "Still available \u2014 favorite of traveling musicians.",
+    "buyUrl": "https://www.amazon.com/s?k=voyage+air+folding+guitar&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=400&q=80",
+    "tags": [
+      "guitar",
+      "music",
+      "travel",
+      "folding"
+    ]
+  },
+  {
+    "id": "chirps-chips",
+    "name": "Chirps Chips",
+    "slug": "chirps-chips",
+    "tagline": "Tortilla chips made with cricket flour \u2014 sustainable high-protein snacking",
+    "description": "Chirps Chips are tortilla chips made with cricket flour, delivering more protein with a fraction of the environmental impact of conventional protein sources. Mark Cuban invested.",
+    "category": "Food & Beverage",
+    "season": 8,
+    "episode": 20,
+    "year": 2017,
+    "sharks": [
+      "Mark Cuban"
+    ],
+    "deal": {
+      "ask": "$100,000",
+      "askEquity": "10%",
+      "amount": "$100,000",
+      "equity": "15%",
+      "investor": "Mark Cuban"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Mark Cuban invested in sustainable protein snacking.",
+    "timeline": [
+      {
+        "year": 2014,
+        "event": "Three Harvard grads found Chirps"
+      },
+      {
+        "year": 2017,
+        "event": "Appears on Shark Tank. Mark Cuban invests"
+      },
+      {
+        "year": 2022,
+        "event": "Available in 3,000+ stores"
+      }
+    ],
+    "currentStatus": "Available in 3,000+ stores \u2014 sustainable snacking leader.",
+    "buyUrl": "https://www.amazon.com/s?k=chirps+cricket+chips&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400&q=80",
+    "tags": [
+      "chips",
+      "cricket",
+      "protein",
+      "sustainable",
+      "snacks"
+    ]
+  },
+  {
+    "id": "the-comfy-neck-2",
+    "name": "Scrub Daddy FlexTexture",
+    "slug": "scrub-daddy-flex",
+    "tagline": "The next evolution of Scrub Daddy \u2014 changes texture AND shape with temperature",
+    "description": "Scrub Daddy FlexTexture expanded on the original formula with a new shape that can reach corners and curved surfaces while maintaining the temperature-responsive texture technology.",
+    "category": "Home & Kitchen",
+    "season": 7,
+    "episode": 1,
+    "year": 2015,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$100,000",
+      "askEquity": "20%",
+      "amount": "$100,000",
+      "equity": "20%",
+      "investor": "Lori Greiner"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner continued building the Scrub Daddy brand empire.",
+    "timeline": [
+      {
+        "year": 2015,
+        "event": "Scrub Daddy launches FlexTexture as product line expansion"
+      },
+      {
+        "year": 2016,
+        "event": "Available in major retailers"
+      },
+      {
+        "year": 2023,
+        "event": "Part of the $900M+ Scrub Daddy brand"
+      }
+    ],
+    "currentStatus": "Part of the $900M+ Scrub Daddy brand family.",
+    "buyUrl": "https://www.amazon.com/s?k=scrub+daddy+flextexture&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400&q=80",
+    "tags": [
+      "cleaning",
+      "kitchen",
+      "scrub daddy",
+      "household"
+    ]
+  },
+  {
+    "id": "brightland",
+    "name": "Brightland",
+    "slug": "brightland",
+    "tagline": "Artisan California olive oils with bold, vibrant flavors",
+    "description": "Brightland makes premium California-grown olive oils with distinctive branding and bold flavors. The founder appeared on Shark Tank and secured investment to expand the artisan oil brand.",
+    "category": "Food & Beverage",
+    "season": 12,
+    "episode": 11,
+    "year": 2021,
+    "sharks": [
+      "Barbara Corcoran"
+    ],
+    "deal": {
+      "ask": "$400,000",
+      "askEquity": "5%",
+      "amount": "$400,000",
+      "equity": "10%",
+      "investor": "Barbara Corcoran"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Barbara Corcoran invested in the premium olive oil brand.",
+    "timeline": [
+      {
+        "year": 2018,
+        "event": "Aishwarya Iyer founds Brightland"
+      },
+      {
+        "year": 2021,
+        "event": "Appears on Shark Tank. Barbara Corcoran invests"
+      },
+      {
+        "year": 2022,
+        "event": "Available in Whole Foods and Williams-Sonoma"
+      }
+    ],
+    "currentStatus": "Available in Whole Foods and Williams-Sonoma \u2014 premium artisan olive oil brand.",
+    "buyUrl": "https://www.amazon.com/s?k=brightland+olive+oil&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=400&q=80",
+    "tags": [
+      "olive oil",
+      "food",
+      "artisan",
+      "California",
+      "cooking"
+    ]
   }
 ]
