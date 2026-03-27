@@ -50,7 +50,8 @@
       "kitchen",
       "household"
     ],
-    "youtubeId": "ae5MssJ8en4"
+    "youtubeId": "ae5MssJ8en4",
+    "image": "/images/products/scrub-daddy.jpg"
   },
   {
     "id": "bombas",
@@ -107,7 +108,8 @@
       "apparel",
       "social impact"
     ],
-    "youtubeId": "RlALuStBplY"
+    "youtubeId": "RlALuStBplY",
+    "image": "/images/products/bombas.jpg"
   },
   {
     "id": "ring",
@@ -162,7 +164,8 @@
       "security",
       "doorbell"
     ],
-    "youtubeId": "um-iVXiXedc"
+    "youtubeId": "um-iVXiXedc",
+    "image": "/images/products/ring.jpg"
   },
   {
     "id": "squatty-potty",
@@ -215,7 +218,8 @@
       "health",
       "wellness"
     ],
-    "youtubeId": "2atjT5fKK8A"
+    "youtubeId": "2atjT5fKK8A",
+    "image": "/images/products/squatty-potty.jpg"
   },
   {
     "id": "cousins-maine-lobster",
@@ -268,7 +272,8 @@
       "lobster",
       "franchise",
       "food truck"
-    ]
+    ],
+    "image": "/images/products/cousins-maine-lobster.jpg"
   },
   {
     "id": "tipsy-elves",
@@ -321,7 +326,8 @@
       "apparel",
       "holiday",
       "sweater"
-    ]
+    ],
+    "image": "/images/products/tipsy-elves.jpg"
   },
   {
     "id": "kodiak-cakes",
@@ -377,7 +383,8 @@
       "pancakes",
       "breakfast"
     ],
-    "youtubeId": "TMQWTyLMNJM"
+    "youtubeId": "TMQWTyLMNJM",
+    "image": "/images/products/kodiak-cakes.jpg"
   },
   {
     "id": "simply-fit-board",
@@ -431,7 +438,8 @@
       "core",
       "workout"
     ],
-    "youtubeId": "UGyRmSqH2q8"
+    "youtubeId": "UGyRmSqH2q8",
+    "image": "/images/products/simply-fit-board.jpg"
   },
   {
     "id": "the-original-comfy",
@@ -485,7 +493,8 @@
       "cozy",
       "hoodie"
     ],
-    "youtubeId": "IK_JDKOLP8g"
+    "youtubeId": "IK_JDKOLP8g",
+    "image": "/images/products/the-original-comfy.jpg"
   },
   {
     "id": "groovebook",
@@ -535,7 +544,8 @@
       "subscription",
       "printing",
       "app"
-    ]
+    ],
+    "image": "/images/products/groovebook.jpg"
   },
   {
     "id": "dude-wipes",
@@ -589,7 +599,8 @@
       "bathroom",
       "wipes"
     ],
-    "youtubeId": "HVVA6J037wM"
+    "youtubeId": "HVVA6J037wM",
+    "image": "/images/products/dude-wipes.jpg"
   },
   {
     "id": "lovepop",
@@ -643,7 +654,8 @@
       "paper art",
       "greeting cards"
     ],
-    "youtubeId": "wjb0NpgFnxA"
+    "youtubeId": "wjb0NpgFnxA",
+    "image": "/images/products/lovepop.jpg"
   },
   {
     "id": "the-bouqs",
@@ -694,7 +706,8 @@
       "gifts",
       "subscription",
       "sustainable"
-    ]
+    ],
+    "image": "/images/products/the-bouqs.jpg"
   },
   {
     "id": "breathometer",
@@ -751,7 +764,8 @@
       "gadget",
       "breathalyzer",
       "health"
-    ]
+    ],
+    "image": "/images/products/breathometer.jpg"
   },
   {
     "id": "sand-cloud",
@@ -804,7 +818,8 @@
       "towels",
       "sustainable",
       "ocean"
-    ]
+    ],
+    "image": "/images/products/sand-cloud.jpg"
   },
   {
     "id": "scholly",
@@ -858,7 +873,8 @@
       "app",
       "scholarships",
       "college"
-    ]
+    ],
+    "image": "/images/products/scholly.jpg"
   },
   {
     "id": "bottle-breacher",
@@ -913,7 +929,8 @@
       "military",
       "veterans",
       "bar"
-    ]
+    ],
+    "image": "/images/products/bottle-breacher.jpg"
   },
   {
     "id": "grace-and-lace",
@@ -966,7 +983,8 @@
       "apparel",
       "women",
       "fashion"
-    ]
+    ],
+    "image": "/images/products/grace-and-lace.jpg"
   },
   {
     "id": "drop-stop",
@@ -1018,7 +1036,8 @@
       "car",
       "automotive",
       "accessory"
-    ]
+    ],
+    "image": "/images/products/drop-stop.jpg"
   },
   {
     "id": "simple-sugars",
@@ -1071,7 +1090,8 @@
       "beauty",
       "natural",
       "scrub"
-    ]
+    ],
+    "image": "/images/products/simple-sugars.jpg"
   },
   {
     "id": "readerest",
@@ -1123,7 +1143,8 @@
       "glasses",
       "accessories",
       "eyewear"
-    ]
+    ],
+    "image": "/images/products/readerest.jpg"
   },
   {
     "id": "wicked-good-cupcakes",
@@ -1176,7 +1197,8 @@
       "cupcakes",
       "gifts",
       "baked goods"
-    ]
+    ],
+    "image": "/images/products/wicked-good-cupcakes.jpg"
   },
   {
     "id": "sleep-styler",
@@ -1229,7 +1251,8 @@
       "beauty",
       "curls",
       "sleep"
-    ]
+    ],
+    "image": "/images/products/sleep-styler.jpg"
   },
   {
     "id": "bala-bangles",
@@ -1284,7 +1307,8 @@
       "workout",
       "fashion",
       "wellness"
-    ]
+    ],
+    "image": "/images/products/bala-bangles.jpg"
   },
   {
     "id": "manscaped",
@@ -1335,7 +1359,8 @@
       "men",
       "personal care",
       "shaving"
-    ]
+    ],
+    "image": "/images/products/manscaped.jpg"
   },
   {
     "id": "coffee-meets-bagel",
@@ -1386,7 +1411,8 @@
       "app",
       "tech",
       "relationships"
-    ]
+    ],
+    "image": "/images/products/coffee-meets-bagel.jpg"
   },
   {
     "id": "lip-bar",
@@ -1437,7 +1463,8 @@
       "beauty",
       "vegan",
       "makeup"
-    ]
+    ],
+    "image": "/images/products/lip-bar.jpg"
   },
   {
     "id": "mission-belt",
@@ -1490,7 +1517,8 @@
       "apparel",
       "men",
       "accessories"
-    ]
+    ],
+    "image": "/images/products/mission-belt.jpg"
   },
   {
     "id": "tower-paddle-boards",
@@ -1543,7 +1571,8 @@
       "watersports",
       "outdoor",
       "beach"
-    ]
+    ],
+    "image": "/images/products/tower-paddle-boards.jpg"
   },
   {
     "id": "lollacup",
@@ -1593,7 +1622,8 @@
       "kids",
       "sippy cup",
       "feeding"
-    ]
+    ],
+    "image": "/images/products/lollacup.jpg"
   },
   {
     "id": "chill-soda",
@@ -1640,7 +1670,8 @@
       "organic",
       "fair trade",
       "drinks"
-    ]
+    ],
+    "image": "/images/products/wicked-joe-coffee.jpg"
   },
   {
     "id": "chapul",
@@ -1691,7 +1722,8 @@
       "insects",
       "health"
     ],
-    "youtubeId": "otl7LBnjXSk"
+    "youtubeId": "otl7LBnjXSk",
+    "image": "/images/products/chapul.jpg"
   },
   {
     "id": "pipcorn",
@@ -1746,7 +1778,8 @@
       "gluten-free",
       "food"
     ],
-    "youtubeId": "aUlO3RlulI8"
+    "youtubeId": "aUlO3RlulI8",
+    "image": "/images/products/pipcorn.jpg"
   },
   {
     "id": "burlap-and-barrel",
@@ -1798,7 +1831,8 @@
       "outdoor",
       "beach",
       "volleyball"
-    ]
+    ],
+    "image": "/images/products/spikeball.jpg"
   },
   {
     "id": "pavlok",
@@ -1850,7 +1884,8 @@
       "health",
       "tech",
       "wellness"
-    ]
+    ],
+    "image": "/images/products/pavlok.jpg"
   },
   {
     "id": "freeze-sleeves",
@@ -1900,7 +1935,8 @@
       "health",
       "sports",
       "recovery"
-    ]
+    ],
+    "image": "/images/products/freeze-sleeves.jpg"
   },
   {
     "id": "swag-bag",
@@ -1950,7 +1986,8 @@
       "fondue",
       "gifts",
       "entertaining"
-    ]
+    ],
+    "image": "/images/products/tipsy-dipper.jpg"
   },
   {
     "id": "illumibowl",
@@ -2005,7 +2042,8 @@
       "gadget",
       "funny"
     ],
-    "youtubeId": "12I6kP__O7k"
+    "youtubeId": "12I6kP__O7k",
+    "image": "/images/products/illumibowl.jpg"
   },
   {
     "id": "mango-mango",
@@ -2059,7 +2097,8 @@
       "breakfast",
       "snacks",
       "Starbucks"
-    ]
+    ],
+    "image": "/images/products/bantam-bagels.jpg"
   },
   {
     "id": "the-comfy-neck",
@@ -2161,7 +2200,8 @@
       "hardware",
       "DIY"
     ],
-    "youtubeId": "2L4l165WZO4"
+    "youtubeId": "2L4l165WZO4",
+    "image": "/images/products/fiberfix.jpg"
   },
   {
     "id": "plant-nanny",
@@ -2212,7 +2252,8 @@
       "home",
       "watering",
       "eco"
-    ]
+    ],
+    "image": "/images/products/plant-nanny.jpg"
   },
   {
     "id": "slice-of-sauce",
@@ -2260,7 +2301,8 @@
       "food",
       "innovative",
       "burger"
-    ]
+    ],
+    "image": "/images/products/slice-of-sauce.jpg"
   },
   {
     "id": "biaggi-luggage",
@@ -2311,7 +2353,8 @@
       "suitcase",
       "storage"
     ],
-    "youtubeId": "KpmS4lS-0Vc"
+    "youtubeId": "KpmS4lS-0Vc",
+    "image": "/images/products/biaggi-luggage.jpg"
   },
   {
     "id": "survival-frog",
@@ -2359,7 +2402,8 @@
       "preparedness",
       "safety",
       "home"
-    ]
+    ],
+    "image": "/images/products/survival-frog.jpg"
   },
   {
     "id": "kali-audio",
@@ -2409,7 +2453,8 @@
       "paste",
       "household",
       "scrub daddy"
-    ]
+    ],
+    "image": "/images/products/scrub-daddy-power-paste.jpg"
   },
   {
     "id": "polar-pro",
@@ -2459,7 +2504,8 @@
       "socks",
       "copper",
       "pain relief"
-    ]
+    ],
+    "image": "/images/products/happy-feet-plus.jpg"
   },
   {
     "id": "sworkit",
@@ -2511,7 +2557,8 @@
       "no equipment",
       "health"
     ],
-    "youtubeId": "qO3n3Qmmd_g"
+    "youtubeId": "qO3n3Qmmd_g",
+    "image": "/images/products/sworkit.jpg"
   },
   {
     "id": "casery",
@@ -2561,7 +2608,8 @@
       "accessories",
       "art",
       "gifts"
-    ]
+    ],
+    "image": "/images/products/the-casery.jpg"
   },
   {
     "id": "natural-grip",
@@ -2611,7 +2659,8 @@
       "fitness",
       "weightlifting",
       "gymnastics"
-    ]
+    ],
+    "image": "/images/products/natural-grip.jpg"
   },
   {
     "id": "my-special-aflac-duck",
@@ -2661,7 +2710,8 @@
       "robot",
       "health",
       "charity"
-    ]
+    ],
+    "image": "/images/products/my-special-aflac-duck.jpg"
   },
   {
     "id": "eyebloc",
@@ -2709,7 +2759,8 @@
       "laptop",
       "security",
       "webcam"
-    ]
+    ],
+    "image": "/images/products/eyebloc.jpg"
   },
   {
     "id": "amber-athletic-gear",
@@ -2759,7 +2810,8 @@
       "apparel",
       "workout",
       "sweat"
-    ]
+    ],
+    "image": "/images/products/amber-athletic-gear.jpg"
   },
   {
     "id": "yono-clip",
@@ -2803,7 +2855,8 @@
       "sports",
       "audio",
       "fitness"
-    ]
+    ],
+    "image": "/images/products/yono-clip.jpg"
   },
   {
     "id": "solemates",
@@ -2853,7 +2906,8 @@
       "accessories",
       "women",
       "weddings"
-    ]
+    ],
+    "image": "/images/products/solemates.jpg"
   },
   {
     "id": "the-paint-brush-cover",
@@ -2904,7 +2958,8 @@
       "potty training",
       "apartment"
     ],
-    "youtubeId": "mI-vDFhuIXs"
+    "youtubeId": "mI-vDFhuIXs",
+    "image": "/images/products/fresh-patch.jpg"
   },
   {
     "id": "cool-beans",
@@ -2956,7 +3011,8 @@
       "smart",
       "health",
       "tech"
-    ]
+    ],
+    "image": "/images/products/hidrate-spark.jpg"
   },
   {
     "id": "foot-fairy",
@@ -3000,7 +3056,8 @@
       "shoes",
       "tech",
       "parenting"
-    ]
+    ],
+    "image": "/images/products/foot-fairy.jpg"
   },
   {
     "id": "larq",
@@ -3051,6 +3108,7 @@
       "health",
       "outdoor"
     ],
-    "youtubeId": "fuM1Vh7OgfY"
+    "youtubeId": "fuM1Vh7OgfY",
+    "image": "/images/products/larq.jpg"
   }
 ]
