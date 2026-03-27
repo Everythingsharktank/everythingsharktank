@@ -81,15 +81,27 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
             </div>
           </div>
 
-          {/* Buy button */}
-          <a
-            href={product.buyUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="block w-full bg-yellow-400 hover:bg-yellow-300 text-black font-bold text-center py-3 rounded-xl transition-colors"
-          >
-            Buy on Amazon →
-          </a>
+          {/* Buy buttons */}
+          <div className="flex flex-col gap-2">
+            <a
+              href={product.buyUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-center gap-2 w-full bg-yellow-400 hover:bg-yellow-300 text-black font-bold text-center py-3 rounded-xl transition-colors"
+            >
+              <span>🛒</span> Buy on Amazon
+            </a>
+            {(product as any).websiteUrl && (
+              <a
+                href={(product as any).websiteUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-center gap-2 w-full bg-slate-700 hover:bg-slate-600 text-white font-medium text-center py-3 rounded-xl transition-colors border border-slate-600"
+              >
+                <span>🌐</span> Official Website
+              </a>
+            )}
+          </div>
         </div>
       </div>
 

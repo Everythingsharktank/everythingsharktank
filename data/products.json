@@ -44,14 +44,16 @@
       }
     ],
     "currentStatus": "Still thriving \u2014 over $900M in lifetime sales. Biggest Shark Tank success story.",
-    "buyUrl": "https://www.amazon.com/s?k=scrub+daddy&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00BCGYS02?tag=everythi0b39b-20",
     "tags": [
       "cleaning",
       "kitchen",
       "household"
     ],
     "youtubeId": "ae5MssJ8en4",
-    "image": "/images/products/scrub-daddy.jpg"
+    "image": "/images/products/scrub-daddy.jpg",
+    "asin": "B00BCGYS02",
+    "websiteUrl": "https://scrubdaddy.com"
   },
   {
     "id": "bombas",
@@ -102,14 +104,16 @@
       }
     ],
     "currentStatus": "One of Shark Tank's greatest success stories \u2014 $300M+ annual revenue, 100M+ items donated.",
-    "buyUrl": "https://www.amazon.com/s?k=bombas+socks&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07NWY8JBX?tag=everythi0b39b-20",
     "tags": [
       "socks",
       "apparel",
       "social impact"
     ],
     "youtubeId": "RlALuStBplY",
-    "image": "/images/products/bombas.jpg"
+    "image": "/images/products/bombas.jpg",
+    "asin": "B07NWY8JBX",
+    "websiteUrl": "https://bombas.com"
   },
   {
     "id": "ring",
@@ -158,14 +162,16 @@
       }
     ],
     "currentStatus": "Acquired by Amazon for $1.2B \u2014 the most famous 'no deal' in Shark Tank history.",
-    "buyUrl": "https://www.amazon.com/s?k=ring+video+doorbell&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B08N5NQ69D?tag=everythi0b39b-20",
     "tags": [
       "smart home",
       "security",
       "doorbell"
     ],
     "youtubeId": "um-iVXiXedc",
-    "image": "/images/products/ring.jpg"
+    "image": "/images/products/ring.jpg",
+    "asin": "B08N5NQ69D",
+    "websiteUrl": "https://ring.com"
   },
   {
     "id": "squatty-potty",
@@ -212,14 +218,16 @@
       }
     ],
     "currentStatus": "Went viral after Shark Tank \u2014 $33M in sales within a year of the episode.",
-    "buyUrl": "https://www.amazon.com/s?k=squatty+potty&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00NF1HMN4?tag=everythi0b39b-20",
     "tags": [
       "bathroom",
       "health",
       "wellness"
     ],
     "youtubeId": "2atjT5fKK8A",
-    "image": "/images/products/squatty-potty.jpg"
+    "image": "/images/products/squatty-potty.jpg",
+    "asin": "B00NF1HMN4",
+    "websiteUrl": "https://squattypotty.com"
   },
   {
     "id": "cousins-maine-lobster",
@@ -273,7 +281,8 @@
       "franchise",
       "food truck"
     ],
-    "image": "/images/products/cousins-maine-lobster.jpg"
+    "image": "/images/products/cousins-maine-lobster.jpg",
+    "websiteUrl": "https://cousinsmainlobster.com"
   },
   {
     "id": "tipsy-elves",
@@ -320,14 +329,16 @@
       }
     ],
     "currentStatus": "Over $125M in lifetime sales.",
-    "buyUrl": "https://www.amazon.com/s?k=tipsy+elves+christmas+sweater&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00OQOSYNE?tag=everythi0b39b-20",
     "tags": [
       "christmas",
       "apparel",
       "holiday",
       "sweater"
     ],
-    "image": "/images/products/tipsy-elves.jpg"
+    "image": "/images/products/tipsy-elves.jpg",
+    "asin": "B00OQOSYNE",
+    "websiteUrl": "https://tipsyelves.com"
   },
   {
     "id": "kodiak-cakes",
@@ -376,7 +387,7 @@
       }
     ],
     "currentStatus": "No deal taken \u2014 grew to $200M+ revenue and filed for IPO. Valued at $1B+.",
-    "buyUrl": "https://www.amazon.com/s?k=kodiak+cakes&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B003BDDNDE?tag=everythi0b39b-20",
     "tags": [
       "food",
       "protein",
@@ -384,7 +395,9 @@
       "breakfast"
     ],
     "youtubeId": "TMQWTyLMNJM",
-    "image": "/images/products/kodiak-cakes.jpg"
+    "image": "/images/products/kodiak-cakes.jpg",
+    "asin": "B003BDDNDE",
+    "websiteUrl": "https://kodiakcakes.com"
   },
   {
     "id": "simply-fit-board",
@@ -431,7 +444,7 @@
       }
     ],
     "currentStatus": "Over $160M in sales \u2014 one of the highest-grossing Shark Tank products ever.",
-    "buyUrl": "https://www.amazon.com/s?k=simply+fit+board&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B01HKZV1R4?tag=everythi0b39b-20",
     "tags": [
       "fitness",
       "balance",
@@ -439,7 +452,9 @@
       "workout"
     ],
     "youtubeId": "UGyRmSqH2q8",
-    "image": "/images/products/simply-fit-board.jpg"
+    "image": "/images/products/simply-fit-board.jpg",
+    "asin": "B01HKZV1R4",
+    "websiteUrl": "https://simplyfitboard.com"
   },
   {
     "id": "the-original-comfy",
@@ -486,7 +501,7 @@
       }
     ],
     "currentStatus": "Over $150M in sales \u2014 one of the most viral Shark Tank products ever.",
-    "buyUrl": "https://www.amazon.com/s?k=the+original+comfy+blanket+hoodie&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07H8GY45C?tag=everythi0b39b-20",
     "tags": [
       "blanket",
       "apparel",
@@ -494,7 +509,9 @@
       "hoodie"
     ],
     "youtubeId": "IK_JDKOLP8g",
-    "image": "/images/products/the-original-comfy.jpg"
+    "image": "/images/products/the-original-comfy.jpg",
+    "asin": "B07H8GY45C",
+    "websiteUrl": "https://thecomfy.com"
   },
   {
     "id": "groovebook",
@@ -592,7 +609,7 @@
       }
     ],
     "currentStatus": "Over $100M in revenue \u2014 now in Walmart, Target, CVS, and major retailers nationwide.",
-    "buyUrl": "https://www.amazon.com/s?k=dude+wipes&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00FHNEGV8?tag=everythi0b39b-20",
     "tags": [
       "hygiene",
       "men",
@@ -600,7 +617,9 @@
       "wipes"
     ],
     "youtubeId": "HVVA6J037wM",
-    "image": "/images/products/dude-wipes.jpg"
+    "image": "/images/products/dude-wipes.jpg",
+    "asin": "B00FHNEGV8",
+    "websiteUrl": "https://dudewipes.com"
   },
   {
     "id": "lovepop",
@@ -647,7 +666,7 @@
       }
     ],
     "currentStatus": "Over $20M in revenue \u2014 now a leading greeting card brand in major retailers.",
-    "buyUrl": "https://www.amazon.com/s?k=lovepop+cards&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B01N5IVNOM?tag=everythi0b39b-20",
     "tags": [
       "cards",
       "gifts",
@@ -655,7 +674,9 @@
       "greeting cards"
     ],
     "youtubeId": "wjb0NpgFnxA",
-    "image": "/images/products/lovepop.jpg"
+    "image": "/images/products/lovepop.jpg",
+    "asin": "B01N5IVNOM",
+    "websiteUrl": "https://lovepop.com"
   },
   {
     "id": "the-bouqs",
@@ -812,14 +833,16 @@
       }
     ],
     "currentStatus": "Multi-million dollar brand with a strong social following and marine conservation mission.",
-    "buyUrl": "https://www.amazon.com/s?k=sand+cloud+towel&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07D9JDTQP?tag=everythi0b39b-20",
     "tags": [
       "beach",
       "towels",
       "sustainable",
       "ocean"
     ],
-    "image": "/images/products/sand-cloud.jpg"
+    "image": "/images/products/sand-cloud.jpg",
+    "asin": "B07D9JDTQP",
+    "websiteUrl": "https://sandcloud.com"
   },
   {
     "id": "scholly",
@@ -922,7 +945,7 @@
       }
     ],
     "currentStatus": "Over $12M in sales. Founder Eli Crane went on to win a seat in US Congress.",
-    "buyUrl": "https://www.amazon.com/s?k=bottle+breacher+bottle+opener&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00NL9G1PQ?tag=everythi0b39b-20",
     "tags": [
       "bottle opener",
       "gifts",
@@ -930,7 +953,9 @@
       "veterans",
       "bar"
     ],
-    "image": "/images/products/bottle-breacher.jpg"
+    "image": "/images/products/bottle-breacher.jpg",
+    "asin": "B00NL9G1PQ",
+    "websiteUrl": "https://bottlebreacher.com"
   },
   {
     "id": "grace-and-lace",
@@ -1031,13 +1056,15 @@
       }
     ],
     "currentStatus": "Over $15M in sales, still a bestseller on Amazon and QVC.",
-    "buyUrl": "https://www.amazon.com/s?k=drop+stop+car+seat&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00ADLQCOW?tag=everythi0b39b-20",
     "tags": [
       "car",
       "automotive",
       "accessory"
     ],
-    "image": "/images/products/drop-stop.jpg"
+    "image": "/images/products/drop-stop.jpg",
+    "asin": "B00ADLQCOW",
+    "websiteUrl": "https://mydropstop.com"
   },
   {
     "id": "simple-sugars",
@@ -1138,13 +1165,14 @@
       }
     ],
     "currentStatus": "Over $20M in sales \u2014 one of Lori's most beloved QVC products.",
-    "buyUrl": "https://www.amazon.com/s?k=readerest+glasses+holder&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B009O3YDSC?tag=everythi0b39b-20",
     "tags": [
       "glasses",
       "accessories",
       "eyewear"
     ],
-    "image": "/images/products/readerest.jpg"
+    "image": "/images/products/readerest.jpg",
+    "asin": "B009O3YDSC"
   },
   {
     "id": "wicked-good-cupcakes",
@@ -1300,7 +1328,7 @@
       }
     ],
     "currentStatus": "Available in Equinox, Soul Cycle, and 1,000+ locations. $30M+ in sales.",
-    "buyUrl": "https://www.amazon.com/s?k=bala+bangles+weighted&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07ZMQP977?tag=everythi0b39b-20",
     "tags": [
       "fitness",
       "weights",
@@ -1308,7 +1336,9 @@
       "fashion",
       "wellness"
     ],
-    "image": "/images/products/bala-bangles.jpg"
+    "image": "/images/products/bala-bangles.jpg",
+    "asin": "B07ZMQP977",
+    "websiteUrl": "https://getbala.com"
   },
   {
     "id": "manscaped",
@@ -1353,14 +1383,16 @@
       }
     ],
     "currentStatus": "No deal \u2014 grew to $100M+ revenue, went public via SPAC, valued at $1B.",
-    "buyUrl": "https://www.amazon.com/s?k=manscaped+trimmer&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07TWQRGZ9?tag=everythi0b39b-20",
     "tags": [
       "grooming",
       "men",
       "personal care",
       "shaving"
     ],
-    "image": "/images/products/manscaped.jpg"
+    "image": "/images/products/manscaped.jpg",
+    "asin": "B07TWQRGZ9",
+    "websiteUrl": "https://manscaped.com"
   },
   {
     "id": "coffee-meets-bagel",
@@ -1511,14 +1543,16 @@
       }
     ],
     "currentStatus": "Multi-million dollar belt brand available nationwide in major retailers.",
-    "buyUrl": "https://www.amazon.com/s?k=mission+belt+ratchet&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00H0GBV5G?tag=everythi0b39b-20",
     "tags": [
       "belt",
       "apparel",
       "men",
       "accessories"
     ],
-    "image": "/images/products/mission-belt.jpg"
+    "image": "/images/products/mission-belt.jpg",
+    "asin": "B00H0GBV5G",
+    "websiteUrl": "https://missionbelt.com"
   },
   {
     "id": "tower-paddle-boards",
@@ -1572,7 +1606,8 @@
       "outdoor",
       "beach"
     ],
-    "image": "/images/products/tower-paddle-boards.jpg"
+    "image": "/images/products/tower-paddle-boards.jpg",
+    "websiteUrl": "https://www.towerpaddleboards.com"
   },
   {
     "id": "lollacup",
@@ -1770,7 +1805,7 @@
       }
     ],
     "currentStatus": "Available in 10,000+ stores \u2014 a leading better-for-you snack brand.",
-    "buyUrl": "https://www.amazon.com/s?k=pipcorn+popcorn&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B074TYJ2C8?tag=everythi0b39b-20",
     "tags": [
       "popcorn",
       "snacks",
@@ -1779,7 +1814,9 @@
       "food"
     ],
     "youtubeId": "aUlO3RlulI8",
-    "image": "/images/products/pipcorn.jpg"
+    "image": "/images/products/pipcorn.jpg",
+    "asin": "B074TYJ2C8",
+    "websiteUrl": "https://eatpipcorn.com"
   },
   {
     "id": "burlap-and-barrel",
@@ -1824,7 +1861,7 @@
       }
     ],
     "currentStatus": "No deal \u2014 $50M+ revenue. One of America's fastest-growing sports.",
-    "buyUrl": "https://www.amazon.com/s?k=spikeball+set&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00BH57CDI?tag=everythi0b39b-20",
     "tags": [
       "sports",
       "game",
@@ -1832,7 +1869,9 @@
       "beach",
       "volleyball"
     ],
-    "image": "/images/products/spikeball.jpg"
+    "image": "/images/products/spikeball.jpg",
+    "asin": "B00BH57CDI",
+    "websiteUrl": "https://spikeball.com"
   },
   {
     "id": "pavlok",
@@ -2034,7 +2073,7 @@
       }
     ],
     "currentStatus": "Over 2 million units sold \u2014 one of QVC's funniest bestsellers.",
-    "buyUrl": "https://www.amazon.com/s?k=illumibowl+toilet+night+light&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B019ZSYDHY?tag=everythi0b39b-20",
     "tags": [
       "bathroom",
       "night light",
@@ -2043,7 +2082,9 @@
       "funny"
     ],
     "youtubeId": "12I6kP__O7k",
-    "image": "/images/products/illumibowl.jpg"
+    "image": "/images/products/illumibowl.jpg",
+    "asin": "B019ZSYDHY",
+    "websiteUrl": "https://illumibowl.com"
   },
   {
     "id": "mango-mango",
@@ -3100,7 +3141,7 @@
       }
     ],
     "currentStatus": "Revenue $30M+ \u2014 available in Apple Stores, REI, and premium retailers worldwide.",
-    "buyUrl": "https://www.amazon.com/s?k=larq+self+cleaning+water+bottle&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07TSGPZ5G?tag=everythi0b39b-20",
     "tags": [
       "water bottle",
       "UV",
@@ -3109,7 +3150,9 @@
       "outdoor"
     ],
     "youtubeId": "fuM1Vh7OgfY",
-    "image": "/images/products/larq.jpg"
+    "image": "/images/products/larq.jpg",
+    "asin": "B07TSGPZ5G",
+    "websiteUrl": "https://livelarq.com"
   },
   {
     "id": "zipz-wine",
@@ -3250,7 +3293,7 @@
       }
     ],
     "currentStatus": "Available in Target and 5,000+ stores. $50M+ revenue.",
-    "buyUrl": "https://www.amazon.com/s?k=blueland+cleaning+tablets&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07TRVD7RS?tag=everythi0b39b-20",
     "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400&q=80",
     "tags": [
       "cleaning",
@@ -3258,7 +3301,9 @@
       "sustainable",
       "zero waste",
       "home"
-    ]
+    ],
+    "asin": "B07TRVD7RS",
+    "websiteUrl": "https://blueland.com"
   },
   {
     "id": "hero-cosmetics",
@@ -3301,14 +3346,16 @@
       }
     ],
     "currentStatus": "Acquired by Church & Dwight for $630M \u2014 one of the biggest Shark Tank exits.",
-    "buyUrl": "https://www.amazon.com/s?k=hero+cosmetics+mighty+patch&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B078PCVGR5?tag=everythi0b39b-20",
     "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=400&q=80",
     "tags": [
       "skincare",
       "acne",
       "pimple patch",
       "beauty"
-    ]
+    ],
+    "asin": "B078PCVGR5",
+    "websiteUrl": "https://herocosmetics.us"
   },
   {
     "id": "copper-cow-coffee",
@@ -3351,14 +3398,16 @@
       }
     ],
     "currentStatus": "Available in Whole Foods, REI, and major retailers.",
-    "buyUrl": "https://www.amazon.com/s?k=copper+cow+coffee+vietnamese&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07MHZ2CJF?tag=everythi0b39b-20",
     "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=400&q=80",
     "tags": [
       "coffee",
       "Vietnamese",
       "pour over",
       "drinks"
-    ]
+    ],
+    "asin": "B07MHZ2CJF",
+    "websiteUrl": "https://coppercowcoffee.com"
   },
   {
     "id": "deux",
@@ -3489,7 +3538,7 @@
       }
     ],
     "currentStatus": "Available in 3,000+ stores \u2014 sustainable snacking leader.",
-    "buyUrl": "https://www.amazon.com/s?k=chirps+cricket+chips&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07DCC3YTN?tag=everythi0b39b-20",
     "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400&q=80",
     "tags": [
       "chips",
@@ -3497,7 +3546,8 @@
       "protein",
       "sustainable",
       "snacks"
-    ]
+    ],
+    "asin": "B07DCC3YTN"
   },
   {
     "id": "the-comfy-neck-2",
