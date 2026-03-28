@@ -22,24 +22,19 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
   const product = products.find(p => p.slug === params.slug) as Product | undefined
   if (!product) notFound()
 
-  const outcomeColor = product.outcome === 'deal' ? 'text-green-400' : 'text-red-400'
-  const outcomeLabel = product.outcome === 'deal' ? '✅ Deal Made' : '❌ No Deal'
+  const isDeal = product.outcome === 'deal'
 
   return (
-    <div className="max-w-4xl mx-auto px-4 py-12">
-      <Link href="/" className="text-gray-500 hover:text-white text-sm mb-8 inline-flex items-center gap-2 transition-colors">
+    <div className="max-w-4xl mx-auto px-4 py-10">
+      <Link href="/" className="text-gray-400 hover:text-gray-700 text-sm mb-8 inline-flex items-center gap-2 transition-colors">
         ← Back to all products
       </Link>
 
       <div className="mt-6 grid grid-cols-1 md:grid-cols-2 gap-10">
         {/* Left: product image */}
-        <div className="bg-white border border-gray-200 rounded-2xl overflow-hidden h-72">
+        <div className="bg-gray-100 border border-gray-200 rounded-2xl overflow-hidden h-72">
           {(product as any).image ? (
-            <img
-              src={(product as any).image}
-              alt={product.name}
-              className="w-full h-full object-cover"
-            />
+            <img src={(product as any).image} alt={product.name} className="w-full h-full object-cover" />
           ) : (
             <div className="w-full h-full flex items-center justify-center text-7xl">🦈</div>
           )}
@@ -48,34 +43,36 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
         {/* Right: details */}
         <div>
           <div className="flex items-center gap-3 mb-3">
-            <span className="text-xs bg-slate-700 text-gray-700 px-2 py-1 rounded-full">{product.category}</span>
-            <span className={`text-sm font-medium ${outcomeColor}`}>{outcomeLabel}</span>
+            <span className="text-xs bg-gray-100 text-gray-500 px-2 py-1 rounded-full font-medium">{product.category}</span>
+            <span className={`text-sm font-bold ${isDeal ? 'text-green-600' : 'text-red-500'}`}>
+              {isDeal ? '✅ Deal Made' : '❌ No Deal'}
+            </span>
           </div>
-          <h1 className="text-4xl font-bold text-white mb-3">{product.name}</h1>
-          <p className="text-gray-500 text-lg mb-6">{product.tagline}</p>
+          <h1 className="text-4xl font-extrabold text-gray-900 mb-3">{product.name}</h1>
+          <p className="text-gray-500 text-lg mb-6 leading-relaxed">{product.tagline}</p>
 
           {/* Deal box */}
-          <div className="bg-white border border-gray-200 rounded-xl p-5 mb-6">
-            <h2 className="text-yellow-400 font-semibold mb-3 text-sm uppercase tracking-wide">The Pitch</h2>
+          <div className="bg-gray-50 border border-gray-200 rounded-xl p-5 mb-5">
+            <h2 className="text-blue-600 font-bold mb-3 text-sm uppercase tracking-wide">The Pitch</h2>
             <div className="grid grid-cols-2 gap-3 text-sm">
               <div>
                 <div className="text-gray-400">Asked for</div>
-                <div className="text-gray-900 font-medium">{product.deal.ask} for {product.deal.askEquity}</div>
+                <div className="text-gray-900 font-semibold">{product.deal.ask} for {(product.deal as any).askEquity || product.deal.equity}</div>
               </div>
               <div>
                 <div className="text-gray-400">Season / Episode</div>
-                <div className="text-gray-900 font-medium">S{product.season} E{product.episode} ({product.year})</div>
+                <div className="text-gray-900 font-semibold">S{product.season} E{product.episode} ({product.year})</div>
               </div>
               {product.deal.amount && (
                 <div>
                   <div className="text-gray-400">Final Deal</div>
-                  <div className="text-green-400 font-medium">{product.deal.amount} for {product.deal.equity}</div>
+                  <div className="text-green-600 font-bold">{product.deal.amount} for {product.deal.equity}</div>
                 </div>
               )}
               {product.deal.investor && (
                 <div>
                   <div className="text-gray-400">Investor(s)</div>
-                  <div className="text-yellow-400 font-medium">{product.deal.investor}</div>
+                  <div className="text-gray-900 font-semibold">{product.deal.investor}</div>
                 </div>
               )}
             </div>
@@ -83,22 +80,14 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
 
           {/* Buy buttons */}
           <div className="flex flex-col gap-2">
-            <a
-              href={product.buyUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center justify-center gap-2 w-full bg-yellow-400 hover:bg-yellow-300 text-black font-bold text-center py-3 rounded-xl transition-colors"
-            >
-              <span>🛒</span> Buy on Amazon
+            <a href={product.buyUrl} target="_blank" rel="noopener noreferrer"
+              className="flex items-center justify-center gap-2 w-full bg-yellow-400 hover:bg-yellow-300 text-gray-900 font-bold text-center py-3 rounded-xl transition-colors shadow-sm">
+              🛒 Buy on Amazon
             </a>
             {(product as any).websiteUrl && (
-              <a
-                href={(product as any).websiteUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center justify-center gap-2 w-full bg-slate-700 hover:bg-slate-600 text-gray-900 font-medium text-center py-3 rounded-xl transition-colors border border-slate-600"
-              >
-                <span>🌐</span> Official Website
+              <a href={(product as any).websiteUrl} target="_blank" rel="noopener noreferrer"
+                className="flex items-center justify-center gap-2 w-full bg-white border border-gray-300 hover:border-gray-400 text-gray-700 font-medium text-center py-3 rounded-xl transition-colors">
+                🌐 Official Website
               </a>
             )}
           </div>
@@ -107,24 +96,24 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
 
       {/* Description */}
       <div className="mt-10">
-        <h2 className="text-xl font-bold text-white mb-4">About {product.name}</h2>
-        <p className="text-gray-500 leading-relaxed">{product.description}</p>
+        <h2 className="text-xl font-bold text-gray-900 mb-4">About {product.name}</h2>
+        <p className="text-gray-600 leading-relaxed">{product.description}</p>
       </div>
 
       {/* Timeline */}
-      {product.timeline && product.timeline.length > 0 && (
+      {(product as any).timeline && (product as any).timeline.length > 0 && (
         <div className="mt-10">
-          <h2 className="text-xl font-bold text-white mb-6">Company Timeline</h2>
+          <h2 className="text-xl font-bold text-gray-900 mb-6">Company Timeline</h2>
           <div className="relative">
-            <div className="absolute left-4 top-0 bottom-0 w-px bg-slate-700" />
-            <div className="space-y-6">
-              {product.timeline.map((item, i) => (
+            <div className="absolute left-4 top-0 bottom-0 w-px bg-gray-200" />
+            <div className="space-y-5">
+              {(product as any).timeline.map((item: any, i: number) => (
                 <div key={i} className="relative flex gap-6 pl-12">
-                  <div className="absolute left-0 w-8 h-8 rounded-full bg-slate-800 border-2 border-yellow-400 flex items-center justify-center text-xs font-bold text-yellow-400">
-                    {item.year.toString().slice(2)}
+                  <div className="absolute left-0 w-8 h-8 rounded-full bg-white border-2 border-blue-400 flex items-center justify-center text-xs font-bold text-blue-600 shadow-sm">
+                    {String(item.year).slice(2)}
                   </div>
                   <div>
-                    <div className="text-yellow-400 text-sm font-semibold mb-1">{item.year}</div>
+                    <div className="text-blue-600 text-sm font-bold mb-1">{item.year}</div>
                     <div className="text-gray-700">{item.event}</div>
                   </div>
                 </div>
@@ -135,33 +124,33 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
       )}
 
       {/* Current status */}
-      <div className="mt-10 bg-white border border-gray-200 rounded-xl p-5">
-        <h2 className="text-sm uppercase tracking-wide text-yellow-400 font-semibold mb-2">Where Are They Now?</h2>
+      <div className="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
+        <h2 className="text-sm uppercase tracking-wide text-blue-600 font-bold mb-2">Where Are They Now?</h2>
         <p className="text-gray-700">{product.currentStatus}</p>
       </div>
 
       {/* Shark update */}
-      {product.sharkUpdate && (
-        <div className="mt-4 bg-white border border-gray-200 rounded-xl p-5">
-          <h2 className="text-sm uppercase tracking-wide text-blue-400 font-semibold mb-2">🦈 Shark Update</h2>
-          <p className="text-gray-700">{product.sharkUpdate}</p>
+      {(product as any).sharkUpdate && (
+        <div className="mt-4 bg-gray-50 border border-gray-200 rounded-xl p-5">
+          <h2 className="text-sm uppercase tracking-wide text-gray-500 font-bold mb-2">🦈 Shark Update</h2>
+          <p className="text-gray-700">{(product as any).sharkUpdate}</p>
         </div>
       )}
 
-      {/* Shark return */}
+      {/* Shark ROI */}
       {(product as any).sharkReturn && (
-        <div className="mt-4 bg-white border border-gray-200 rounded-xl p-5">
-          <h2 className="text-sm uppercase tracking-wide text-yellow-400 font-semibold mb-3">💰 Shark Return on Investment</h2>
+        <div className="mt-4 bg-yellow-50 border border-yellow-200 rounded-xl p-5">
+          <h2 className="text-sm uppercase tracking-wide text-yellow-700 font-bold mb-3">💰 Shark Return on Investment</h2>
           <div className="grid grid-cols-2 gap-3 text-sm">
             {(product as any).sharkReturn.invested && (
               <div>
                 <div className="text-gray-400">Invested</div>
-                <div className="text-gray-900 font-medium">{(product as any).sharkReturn.invested} for {(product as any).sharkReturn.equity}</div>
+                <div className="text-gray-900 font-semibold">{(product as any).sharkReturn.invested} for {(product as any).sharkReturn.equity}</div>
               </div>
             )}
             <div>
               <div className="text-gray-400">Estimated Return</div>
-              <div className="text-gray-900 font-medium">{(product as any).sharkReturn.return}</div>
+              <div className="text-gray-900 font-semibold">{(product as any).sharkReturn.return}</div>
             </div>
             <div className="col-span-2">
               <div className="text-gray-400">Current Value</div>
@@ -169,10 +158,10 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
             </div>
           </div>
           <div className={`mt-3 inline-block text-sm font-bold px-3 py-1 rounded-full ${
-            (product as any).sharkReturn.outcome.includes('💰') ? 'bg-green-500/20 text-green-400' :
-            (product as any).sharkReturn.outcome.includes('😬') ? 'bg-red-500/20 text-red-400' :
-            (product as any).sharkReturn.outcome.includes('💀') ? 'bg-red-900/40 text-red-300' :
-            'bg-slate-700 text-gray-700'
+            (product as any).sharkReturn.outcome.includes('💰') ? 'bg-green-100 text-green-700' :
+            (product as any).sharkReturn.outcome.includes('😬') ? 'bg-red-100 text-red-700' :
+            (product as any).sharkReturn.outcome.includes('💀') ? 'bg-red-200 text-red-800' :
+            'bg-gray-100 text-gray-600'
           }`}>
             {(product as any).sharkReturn.outcome}
           </div>
@@ -182,10 +171,10 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
       {/* YouTube embed */}
       {(product as any).youtubeId && (
         <div className="mt-10">
-          <h2 className="text-xl font-bold text-white mb-4">Watch the Pitch</h2>
-          <div className="relative w-full" style={{paddingBottom: '56.25%'}}>
+          <h2 className="text-xl font-bold text-gray-900 mb-4">Watch the Pitch</h2>
+          <div className="relative w-full rounded-xl overflow-hidden shadow-sm" style={{paddingBottom: '56.25%'}}>
             <iframe
-              className="absolute top-0 left-0 w-full h-full rounded-xl"
+              className="absolute top-0 left-0 w-full h-full"
               src={`https://www.youtube.com/embed/${(product as any).youtubeId}`}
               title={`${product.name} Shark Tank Pitch`}
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -197,24 +186,16 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
 
       {/* Tags */}
       <div className="mt-6 flex flex-wrap gap-2">
-        {product.tags.map(tag => (
-          <span key={tag} className="text-xs bg-slate-800 text-gray-500 px-3 py-1 rounded-full">#{tag}</span>
+        {product.tags.map((tag: string) => (
+          <span key={tag} className="text-xs bg-gray-100 text-gray-500 px-3 py-1 rounded-full">#{tag}</span>
         ))}
       </div>
 
-      {/* JSON-LD */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "Product",
-            "name": product.name,
-            "description": product.description,
-            "url": `https://everythingsharktank.com/products/${product.slug}`,
-          })
-        }}
-      />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{__html: JSON.stringify({
+        "@context": "https://schema.org", "@type": "Product",
+        "name": product.name, "description": product.description,
+        "url": `https://everythingsharktank.com/products/${product.slug}`,
+      })}} />
     </div>
   )
 }
