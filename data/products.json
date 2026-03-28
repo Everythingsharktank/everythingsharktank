@@ -53,7 +53,14 @@
     "youtubeId": "ae5MssJ8en4",
     "image": "/images/products/scrub-daddy.jpg",
     "asin": "B00BCGYS02",
-    "websiteUrl": "https://scrubdaddy.com"
+    "websiteUrl": "https://scrubdaddy.com",
+    "sharkReturn": {
+      "invested": "$200,000",
+      "equity": "20%",
+      "currentValue": "$180M+ (est. 20% of $900M brand)",
+      "return": "~900x",
+      "outcome": "\ud83d\udcb0 Massive win"
+    }
   },
   {
     "id": "bombas",
@@ -113,7 +120,14 @@
     "youtubeId": "RlALuStBplY",
     "image": "/images/products/bombas.jpg",
     "asin": "B07NWY8JBX",
-    "websiteUrl": "https://bombas.com"
+    "websiteUrl": "https://bombas.com",
+    "sharkReturn": {
+      "invested": "$200,000",
+      "equity": "17.5%",
+      "currentValue": "$52M+ (est. 17.5% of $300M revenue brand)",
+      "return": "~260x",
+      "outcome": "\ud83d\udcb0 Massive win"
+    }
   },
   {
     "id": "ring",
@@ -171,7 +185,14 @@
     "youtubeId": "um-iVXiXedc",
     "image": "/images/products/ring.jpg",
     "asin": "B08N5NQ69D",
-    "websiteUrl": "https://ring.com"
+    "websiteUrl": "https://ring.com",
+    "sharkReturn": {
+      "invested": null,
+      "equity": null,
+      "currentValue": "N/A \u2014 no deal",
+      "return": "Missed $1.2B acquisition",
+      "outcome": "\ud83d\ude2c Biggest miss ever"
+    }
   },
   {
     "id": "squatty-potty",
@@ -227,7 +248,14 @@
     "youtubeId": "2atjT5fKK8A",
     "image": "/images/products/squatty-potty.jpg",
     "asin": "B00NF1HMN4",
-    "websiteUrl": "https://squattypotty.com"
+    "websiteUrl": "https://squattypotty.com",
+    "sharkReturn": {
+      "invested": "$350,000",
+      "equity": "10%",
+      "currentValue": "$20M+ (est.)",
+      "return": "~57x",
+      "outcome": "\ud83d\udcb0 Big win"
+    }
   },
   {
     "id": "cousins-maine-lobster",
@@ -397,7 +425,14 @@
     "youtubeId": "TMQWTyLMNJM",
     "image": "/images/products/kodiak-cakes.jpg",
     "asin": "B003BDDNDE",
-    "websiteUrl": "https://kodiakcakes.com"
+    "websiteUrl": "https://kodiakcakes.com",
+    "sharkReturn": {
+      "invested": null,
+      "equity": null,
+      "currentValue": "N/A \u2014 no deal",
+      "return": "Missed $1B+ valuation",
+      "outcome": "\ud83d\ude2c Major miss"
+    }
   },
   {
     "id": "simply-fit-board",
@@ -454,7 +489,14 @@
     "youtubeId": "UGyRmSqH2q8",
     "image": "/images/products/simply-fit-board.jpg",
     "asin": "B01HKZV1R4",
-    "websiteUrl": "https://simplyfitboard.com"
+    "websiteUrl": "https://simplyfitboard.com",
+    "sharkReturn": {
+      "invested": "$125,000",
+      "equity": "20%",
+      "currentValue": "$32M+ (est. 20% of $160M sales)",
+      "return": "~256x",
+      "outcome": "\ud83d\udcb0 Massive win"
+    }
   },
   {
     "id": "the-original-comfy",
@@ -511,7 +553,14 @@
     "youtubeId": "IK_JDKOLP8g",
     "image": "/images/products/the-original-comfy.jpg",
     "asin": "B07H8GY45C",
-    "websiteUrl": "https://thecomfy.com"
+    "websiteUrl": "https://thecomfy.com",
+    "sharkReturn": {
+      "invested": "$50,000",
+      "equity": "30%",
+      "currentValue": "$45M+ (est. 30% of $150M)",
+      "return": "~900x",
+      "outcome": "\ud83d\udcb0 Massive win"
+    }
   },
   {
     "id": "groovebook",
@@ -562,7 +611,14 @@
       "printing",
       "app"
     ],
-    "image": "/images/products/groovebook.jpg"
+    "image": "/images/products/groovebook.jpg",
+    "sharkReturn": {
+      "invested": "$150,000",
+      "equity": "80%",
+      "currentValue": "$11.6M (80% of $14.5M Shutterfly acquisition)",
+      "return": "~77x",
+      "outcome": "\ud83d\udcb0 Great exit"
+    }
   },
   {
     "id": "dude-wipes",
@@ -619,7 +675,14 @@
     "youtubeId": "HVVA6J037wM",
     "image": "/images/products/dude-wipes.jpg",
     "asin": "B00FHNEGV8",
-    "websiteUrl": "https://dudewipes.com"
+    "websiteUrl": "https://dudewipes.com",
+    "sharkReturn": {
+      "invested": "$75,000",
+      "equity": "25%",
+      "currentValue": "$25M+ (est. 25% of $100M brand)",
+      "return": "~333x",
+      "outcome": "\ud83d\udcb0 Massive win"
+    }
   },
   {
     "id": "lovepop",
@@ -676,7 +739,14 @@
     "youtubeId": "wjb0NpgFnxA",
     "image": "/images/products/lovepop.jpg",
     "asin": "B01N5IVNOM",
-    "websiteUrl": "https://lovepop.com"
+    "websiteUrl": "https://lovepop.com",
+    "sharkReturn": {
+      "invested": "$300,000",
+      "equity": "15%",
+      "currentValue": "$3M+ (est.)",
+      "return": "~10x",
+      "outcome": "\u2705 Solid win"
+    }
   },
   {
     "id": "the-bouqs",
@@ -786,7 +856,14 @@
       "breathalyzer",
       "health"
     ],
-    "image": "/images/products/breathometer.jpg"
+    "image": "/images/products/breathometer.jpg",
+    "sharkReturn": {
+      "invested": "$1,000,000",
+      "equity": "30%",
+      "currentValue": "~$0 (FTC shut down)",
+      "return": "Total loss",
+      "outcome": "\ud83d\udc80 Lost everything"
+    }
   },
   {
     "id": "sand-cloud",
@@ -955,7 +1032,14 @@
     ],
     "image": "/images/products/bottle-breacher.jpg",
     "asin": "B00NL9G1PQ",
-    "websiteUrl": "https://bottlebreacher.com"
+    "websiteUrl": "https://bottlebreacher.com",
+    "sharkReturn": {
+      "invested": "$150,000",
+      "equity": "20%",
+      "currentValue": "$2.4M+ (est. 20% of $12M brand)",
+      "return": "~16x",
+      "outcome": "\u2705 Solid win"
+    }
   },
   {
     "id": "grace-and-lace",
@@ -1338,7 +1422,14 @@
     ],
     "image": "/images/products/bala-bangles.jpg",
     "asin": "B07ZMQP977",
-    "websiteUrl": "https://getbala.com"
+    "websiteUrl": "https://getbala.com",
+    "sharkReturn": {
+      "invested": "$900,000",
+      "equity": "30%",
+      "currentValue": "$9M+ (est. 30% of $30M brand)",
+      "return": "~10x",
+      "outcome": "\u2705 Solid win"
+    }
   },
   {
     "id": "manscaped",
@@ -1392,7 +1483,14 @@
     ],
     "image": "/images/products/manscaped.jpg",
     "asin": "B07TWQRGZ9",
-    "websiteUrl": "https://manscaped.com"
+    "websiteUrl": "https://manscaped.com",
+    "sharkReturn": {
+      "invested": null,
+      "equity": null,
+      "currentValue": "N/A \u2014 no deal",
+      "return": "Missed $1B SPAC valuation",
+      "outcome": "\ud83d\ude2c Major miss"
+    }
   },
   {
     "id": "coffee-meets-bagel",
@@ -1444,7 +1542,14 @@
       "tech",
       "relationships"
     ],
-    "image": "/images/products/coffee-meets-bagel.jpg"
+    "image": "/images/products/coffee-meets-bagel.jpg",
+    "sharkReturn": {
+      "invested": null,
+      "equity": null,
+      "currentValue": "Offered $30M buyout \u2014 they said no",
+      "return": "Saved $30M or missed a deal",
+      "outcome": "\ud83e\udd37 Controversial"
+    }
   },
   {
     "id": "lip-bar",
@@ -1496,7 +1601,14 @@
       "vegan",
       "makeup"
     ],
-    "image": "/images/products/lip-bar.jpg"
+    "image": "/images/products/lip-bar.jpg",
+    "sharkReturn": {
+      "invested": null,
+      "equity": null,
+      "currentValue": "N/A \u2014 no deal",
+      "return": "Missed Target deal \u2014 called it a disaster",
+      "outcome": "\ud83d\ude2c Embarrassing miss"
+    }
   },
   {
     "id": "mission-belt",
@@ -1871,7 +1983,14 @@
     ],
     "image": "/images/products/spikeball.jpg",
     "asin": "B00BH57CDI",
-    "websiteUrl": "https://spikeball.com"
+    "websiteUrl": "https://spikeball.com",
+    "sharkReturn": {
+      "invested": null,
+      "equity": null,
+      "currentValue": "N/A \u2014 no deal",
+      "return": "Missed $50M+ company",
+      "outcome": "\ud83d\ude2c Missed it"
+    }
   },
   {
     "id": "pavlok",
@@ -2752,7 +2871,14 @@
       "health",
       "charity"
     ],
-    "image": "/images/products/my-special-aflac-duck.jpg"
+    "image": "/images/products/my-special-aflac-duck.jpg",
+    "sharkReturn": {
+      "invested": "$100,000",
+      "equity": "5%",
+      "currentValue": "Donated to hospitals \u2014 not a financial return",
+      "return": "Priceless PR for Aflac",
+      "outcome": "\u2764\ufe0f Not about money"
+    }
   },
   {
     "id": "eyebloc",
@@ -3152,7 +3278,14 @@
     "youtubeId": "fuM1Vh7OgfY",
     "image": "/images/products/larq.jpg",
     "asin": "B07TSGPZ5G",
-    "websiteUrl": "https://livelarq.com"
+    "websiteUrl": "https://livelarq.com",
+    "sharkReturn": {
+      "invested": "$1,000,000",
+      "equity": "5%",
+      "currentValue": "$1.5M+ (est. 5% of $30M+ brand)",
+      "return": "~1.5x",
+      "outcome": "\ud83d\udcc8 Modest win"
+    }
   },
   {
     "id": "zipz-wine",
@@ -3303,7 +3436,14 @@
       "home"
     ],
     "asin": "B07TRVD7RS",
-    "websiteUrl": "https://blueland.com"
+    "websiteUrl": "https://blueland.com",
+    "sharkReturn": {
+      "invested": "$270,000",
+      "equity": "3%",
+      "currentValue": "$1.5M+ (est. 3% of $50M brand)",
+      "return": "~5x",
+      "outcome": "\u2705 Win"
+    }
   },
   {
     "id": "hero-cosmetics",
@@ -3355,7 +3495,14 @@
       "beauty"
     ],
     "asin": "B078PCVGR5",
-    "websiteUrl": "https://herocosmetics.us"
+    "websiteUrl": "https://herocosmetics.us",
+    "sharkReturn": {
+      "invested": "$800,000",
+      "equity": "5%",
+      "currentValue": "$31.5M (5% of $630M acquisition)",
+      "return": "~39x",
+      "outcome": "\ud83d\udcb0 Great exit"
+    }
   },
   {
     "id": "copper-cow-coffee",

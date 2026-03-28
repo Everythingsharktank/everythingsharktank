@@ -27,13 +27,13 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-12">
-      <Link href="/" className="text-slate-400 hover:text-white text-sm mb-8 inline-flex items-center gap-2 transition-colors">
+      <Link href="/" className="text-gray-500 hover:text-white text-sm mb-8 inline-flex items-center gap-2 transition-colors">
         ← Back to all products
       </Link>
 
       <div className="mt-6 grid grid-cols-1 md:grid-cols-2 gap-10">
         {/* Left: product image */}
-        <div className="bg-slate-900 border border-slate-800 rounded-2xl overflow-hidden h-72">
+        <div className="bg-white border border-gray-200 rounded-2xl overflow-hidden h-72">
           {(product as any).image ? (
             <img
               src={(product as any).image}
@@ -48,33 +48,33 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
         {/* Right: details */}
         <div>
           <div className="flex items-center gap-3 mb-3">
-            <span className="text-xs bg-slate-700 text-slate-300 px-2 py-1 rounded-full">{product.category}</span>
+            <span className="text-xs bg-slate-700 text-gray-700 px-2 py-1 rounded-full">{product.category}</span>
             <span className={`text-sm font-medium ${outcomeColor}`}>{outcomeLabel}</span>
           </div>
           <h1 className="text-4xl font-bold text-white mb-3">{product.name}</h1>
-          <p className="text-slate-400 text-lg mb-6">{product.tagline}</p>
+          <p className="text-gray-500 text-lg mb-6">{product.tagline}</p>
 
           {/* Deal box */}
-          <div className="bg-slate-900 border border-slate-800 rounded-xl p-5 mb-6">
+          <div className="bg-white border border-gray-200 rounded-xl p-5 mb-6">
             <h2 className="text-yellow-400 font-semibold mb-3 text-sm uppercase tracking-wide">The Pitch</h2>
             <div className="grid grid-cols-2 gap-3 text-sm">
               <div>
-                <div className="text-slate-500">Asked for</div>
-                <div className="text-white font-medium">{product.deal.ask} for {product.deal.askEquity}</div>
+                <div className="text-gray-400">Asked for</div>
+                <div className="text-gray-900 font-medium">{product.deal.ask} for {product.deal.askEquity}</div>
               </div>
               <div>
-                <div className="text-slate-500">Season / Episode</div>
-                <div className="text-white font-medium">S{product.season} E{product.episode} ({product.year})</div>
+                <div className="text-gray-400">Season / Episode</div>
+                <div className="text-gray-900 font-medium">S{product.season} E{product.episode} ({product.year})</div>
               </div>
               {product.deal.amount && (
                 <div>
-                  <div className="text-slate-500">Final Deal</div>
+                  <div className="text-gray-400">Final Deal</div>
                   <div className="text-green-400 font-medium">{product.deal.amount} for {product.deal.equity}</div>
                 </div>
               )}
               {product.deal.investor && (
                 <div>
-                  <div className="text-slate-500">Investor(s)</div>
+                  <div className="text-gray-400">Investor(s)</div>
                   <div className="text-yellow-400 font-medium">{product.deal.investor}</div>
                 </div>
               )}
@@ -96,7 +96,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
                 href={(product as any).websiteUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center justify-center gap-2 w-full bg-slate-700 hover:bg-slate-600 text-white font-medium text-center py-3 rounded-xl transition-colors border border-slate-600"
+                className="flex items-center justify-center gap-2 w-full bg-slate-700 hover:bg-slate-600 text-gray-900 font-medium text-center py-3 rounded-xl transition-colors border border-slate-600"
               >
                 <span>🌐</span> Official Website
               </a>
@@ -108,7 +108,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
       {/* Description */}
       <div className="mt-10">
         <h2 className="text-xl font-bold text-white mb-4">About {product.name}</h2>
-        <p className="text-slate-400 leading-relaxed">{product.description}</p>
+        <p className="text-gray-500 leading-relaxed">{product.description}</p>
       </div>
 
       {/* Timeline */}
@@ -125,7 +125,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
                   </div>
                   <div>
                     <div className="text-yellow-400 text-sm font-semibold mb-1">{item.year}</div>
-                    <div className="text-slate-300">{item.event}</div>
+                    <div className="text-gray-700">{item.event}</div>
                   </div>
                 </div>
               ))}
@@ -135,16 +135,47 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
       )}
 
       {/* Current status */}
-      <div className="mt-10 bg-slate-900 border border-slate-800 rounded-xl p-5">
+      <div className="mt-10 bg-white border border-gray-200 rounded-xl p-5">
         <h2 className="text-sm uppercase tracking-wide text-yellow-400 font-semibold mb-2">Where Are They Now?</h2>
-        <p className="text-slate-300">{product.currentStatus}</p>
+        <p className="text-gray-700">{product.currentStatus}</p>
       </div>
 
       {/* Shark update */}
       {product.sharkUpdate && (
-        <div className="mt-4 bg-slate-900 border border-slate-800 rounded-xl p-5">
+        <div className="mt-4 bg-white border border-gray-200 rounded-xl p-5">
           <h2 className="text-sm uppercase tracking-wide text-blue-400 font-semibold mb-2">🦈 Shark Update</h2>
-          <p className="text-slate-300">{product.sharkUpdate}</p>
+          <p className="text-gray-700">{product.sharkUpdate}</p>
+        </div>
+      )}
+
+      {/* Shark return */}
+      {(product as any).sharkReturn && (
+        <div className="mt-4 bg-white border border-gray-200 rounded-xl p-5">
+          <h2 className="text-sm uppercase tracking-wide text-yellow-400 font-semibold mb-3">💰 Shark Return on Investment</h2>
+          <div className="grid grid-cols-2 gap-3 text-sm">
+            {(product as any).sharkReturn.invested && (
+              <div>
+                <div className="text-gray-400">Invested</div>
+                <div className="text-gray-900 font-medium">{(product as any).sharkReturn.invested} for {(product as any).sharkReturn.equity}</div>
+              </div>
+            )}
+            <div>
+              <div className="text-gray-400">Estimated Return</div>
+              <div className="text-gray-900 font-medium">{(product as any).sharkReturn.return}</div>
+            </div>
+            <div className="col-span-2">
+              <div className="text-gray-400">Current Value</div>
+              <div className="text-gray-700">{(product as any).sharkReturn.currentValue}</div>
+            </div>
+          </div>
+          <div className={`mt-3 inline-block text-sm font-bold px-3 py-1 rounded-full ${
+            (product as any).sharkReturn.outcome.includes('💰') ? 'bg-green-500/20 text-green-400' :
+            (product as any).sharkReturn.outcome.includes('😬') ? 'bg-red-500/20 text-red-400' :
+            (product as any).sharkReturn.outcome.includes('💀') ? 'bg-red-900/40 text-red-300' :
+            'bg-slate-700 text-gray-700'
+          }`}>
+            {(product as any).sharkReturn.outcome}
+          </div>
         </div>
       )}
 
@@ -167,7 +198,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
       {/* Tags */}
       <div className="mt-6 flex flex-wrap gap-2">
         {product.tags.map(tag => (
-          <span key={tag} className="text-xs bg-slate-800 text-slate-400 px-3 py-1 rounded-full">#{tag}</span>
+          <span key={tag} className="text-xs bg-slate-800 text-gray-500 px-3 py-1 rounded-full">#{tag}</span>
         ))}
       </div>
 
