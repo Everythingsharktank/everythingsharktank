@@ -45,13 +45,13 @@ export default function ProductGrid({ products }: { products: Product[] }) {
           placeholder="Search products..."
           value={search}
           onChange={e => setSearch(e.target.value)}
-          className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3 text-white placeholder-slate-500 focus:outline-none focus:border-yellow-400 transition-colors"
+          className="w-full bg-white border border-gray-300 rounded-xl px-4 py-3 text-gray-900 placeholder-gray-400 focus:outline-none focus:border-blue-400 transition-colors"
         />
         <div className="flex flex-wrap gap-3">
           <select
             value={selectedShark}
             onChange={e => setSelectedShark(e.target.value)}
-            className="bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-slate-300 text-sm focus:outline-none focus:border-yellow-400"
+            className="bg-white border border-gray-300 rounded-lg px-3 py-2 text-gray-700 text-sm focus:outline-none focus:border-blue-400"
           >
             <option value="All">All Sharks</option>
             {ALL_SHARKS.map(s => <option key={s} value={s}>{s}</option>)}
@@ -59,26 +59,26 @@ export default function ProductGrid({ products }: { products: Product[] }) {
           <select
             value={selectedCategory}
             onChange={e => setSelectedCategory(e.target.value)}
-            className="bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-slate-300 text-sm focus:outline-none focus:border-yellow-400"
+            className="bg-white border border-gray-300 rounded-lg px-3 py-2 text-gray-700 text-sm focus:outline-none focus:border-blue-400"
           >
             {ALL_CATEGORIES.map(c => <option key={c} value={c}>{c}</option>)}
           </select>
           <select
             value={selectedOutcome}
             onChange={e => setSelectedOutcome(e.target.value)}
-            className="bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-slate-300 text-sm focus:outline-none focus:border-yellow-400"
+            className="bg-white border border-gray-300 rounded-lg px-3 py-2 text-gray-700 text-sm focus:outline-none focus:border-blue-400"
           >
             <option value="All">All Outcomes</option>
             <option value="deal">Deal Made</option>
             <option value="no-deal">No Deal</option>
           </select>
-          <span className="text-slate-500 text-sm self-center">{filtered.length} products</span>
+          <span className="text-gray-400 text-sm self-center">{filtered.length} products</span>
         </div>
       </div>
 
       {/* Grid */}
       {filtered.length === 0 ? (
-        <div className="text-center text-slate-500 py-16">No products found. Try a different search.</div>
+        <div className="text-center text-gray-400 py-16">No products found. Try a different search.</div>
       ) : (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
           {filtered.map(p => <ProductCard key={p.id} product={p} />)}

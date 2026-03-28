@@ -3788,5 +3788,522 @@
       "California",
       "cooking"
     ]
+  },
+  {
+    "id": "thinx",
+    "name": "THINX",
+    "slug": "thinx",
+    "tagline": "Period underwear that replaces pads and tampons",
+    "description": "THINX makes period-proof underwear that absorbs menstrual flow, replacing disposable products. The founders appeared on Shark Tank and sparked a cultural conversation about periods on national TV.",
+    "category": "Health & Wellness",
+    "season": 9,
+    "episode": 22,
+    "year": 2018,
+    "sharks": [],
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "5%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "Sharks were uncomfortable discussing periods on TV. THINX became a $200M brand anyway.",
+    "timeline": [
+      {
+        "year": 2014,
+        "event": "Miki Agrawal co-founds THINX"
+      },
+      {
+        "year": 2018,
+        "event": "Appears on Shark Tank. Sharks pass. The conversation goes viral"
+      },
+      {
+        "year": 2020,
+        "event": "Revenue exceeds $100M"
+      },
+      {
+        "year": 2022,
+        "event": "Valuation approaches $200M"
+      }
+    ],
+    "currentStatus": "$200M brand \u2014 the shark discomfort made better PR than any deal would have.",
+    "buyUrl": "https://www.amazon.com/s?k=thinx+period+underwear&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=400&q=80",
+    "tags": [
+      "period",
+      "underwear",
+      "women",
+      "sustainable",
+      "health"
+    ],
+    "sharkReturn": {
+      "invested": null,
+      "equity": null,
+      "currentValue": "Missed $200M brand",
+      "return": "Missed it",
+      "outcome": "\ud83d\ude2c Awkward and wrong"
+    }
+  },
+  {
+    "id": "scrub-daddy-eraser",
+    "name": "The Original Makeup Eraser",
+    "slug": "makeup-eraser",
+    "tagline": "Reusable makeup remover cloth that replaces thousands of cotton pads",
+    "description": "The Original Makeup Eraser is a reusable polyester cloth that removes all makeup with just water, eliminating the need for cotton pads or makeup wipes. Lori Greiner invested after seeing the eco and cost savings.",
+    "category": "Beauty & Skincare",
+    "season": 8,
+    "episode": 4,
+    "year": 2016,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$125,000",
+      "askEquity": "10%",
+      "amount": "$125,000",
+      "equity": "10%",
+      "investor": "Lori Greiner"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner invested and helped grow it into a major beauty staple.",
+    "timeline": [
+      {
+        "year": 2013,
+        "event": "Elexsis McCarthy creates the reusable makeup cloth"
+      },
+      {
+        "year": 2016,
+        "event": "Appears on Shark Tank. Lori Greiner invests $125K for 10%"
+      },
+      {
+        "year": 2017,
+        "event": "Available in Ulta, Target, and major beauty retailers"
+      },
+      {
+        "year": 2022,
+        "event": "Over $100M in cumulative revenue"
+      }
+    ],
+    "currentStatus": "Over $100M in revenue \u2014 one of Lori's most sustainable investments.",
+    "buyUrl": "https://www.amazon.com/s?k=original+makeup+eraser&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1522338242992-e1a54906a8da?w=400&q=80",
+    "tags": [
+      "makeup",
+      "beauty",
+      "eco",
+      "sustainable",
+      "skincare"
+    ],
+    "sharkReturn": {
+      "invested": "$125,000",
+      "equity": "10%",
+      "currentValue": "$10M+ (est.)",
+      "return": "~80x",
+      "outcome": "\ud83d\udcb0 Big win"
+    }
+  },
+  {
+    "id": "coldest-water",
+    "name": "The Coldest Water",
+    "slug": "coldest-water",
+    "tagline": "Insulated water bottles that keep drinks cold for 36 hours",
+    "description": "The Coldest Water makes premium insulated stainless steel bottles claiming to keep drinks colder than any competitor. Despite a chaotic pitch, they grew into a major DTC brand.",
+    "category": "Sports & Fitness",
+    "season": 10,
+    "episode": 8,
+    "year": 2018,
+    "sharks": [],
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "5%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "Sharks passed citing valuation concerns. The company grew through aggressive digital marketing.",
+    "timeline": [
+      {
+        "year": 2016,
+        "event": "David Stark founds The Coldest Water"
+      },
+      {
+        "year": 2018,
+        "event": "Appears on Shark Tank. No deal"
+      },
+      {
+        "year": 2020,
+        "event": "Revenue exceeds $30M through DTC and Amazon"
+      },
+      {
+        "year": 2022,
+        "event": "One of Amazon's top water bottle brands"
+      }
+    ],
+    "currentStatus": "$30M+ revenue \u2014 major DTC water bottle brand without a shark.",
+    "buyUrl": "https://www.amazon.com/s?k=coldest+water+bottle+insulated&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&q=80",
+    "tags": [
+      "water bottle",
+      "insulated",
+      "sports",
+      "hydration"
+    ]
+  },
+  {
+    "id": "waxelene",
+    "name": "Waxelene",
+    "slug": "waxelene",
+    "tagline": "Organic petroleum jelly alternative made from natural waxes and oils",
+    "description": "Waxelene is a natural alternative to petroleum jelly made from beeswax, vitamin E, and plant oils. It's free of petrochemicals and was a pioneer in the clean beauty movement.",
+    "category": "Beauty & Skincare",
+    "season": 3,
+    "episode": 8,
+    "year": 2012,
+    "sharks": [
+      "Robert Herjavec"
+    ],
+    "deal": {
+      "ask": "$250,000",
+      "askEquity": "15%",
+      "amount": "$250,000",
+      "equity": "15%",
+      "investor": "Robert Herjavec"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Robert Herjavec invested in early clean beauty. The market has exploded since.",
+    "timeline": [
+      {
+        "year": 2010,
+        "event": "Alicia Williamson creates Waxelene"
+      },
+      {
+        "year": 2012,
+        "event": "Appears on Shark Tank. Robert Herjavec invests"
+      },
+      {
+        "year": 2015,
+        "event": "Available in natural grocers and online"
+      },
+      {
+        "year": 2020,
+        "event": "Clean beauty boom drives renewed interest"
+      }
+    ],
+    "currentStatus": "Still operating in the clean beauty space.",
+    "buyUrl": "https://www.amazon.com/s?k=waxelene+organic&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=400&q=80",
+    "tags": [
+      "beauty",
+      "organic",
+      "clean beauty",
+      "skincare",
+      "natural"
+    ]
+  },
+  {
+    "id": "doorman-2",
+    "name": "Plate Topper",
+    "slug": "plate-topper",
+    "tagline": "Universal suction lid that seals any plate as a food storage container",
+    "description": "Plate Topper is a silicone dome that suctions onto any plate, turning it into an airtight food storage container. No more plastic wrap or transferring leftovers. Lori Greiner went all in.",
+    "category": "Home & Kitchen",
+    "season": 4,
+    "episode": 11,
+    "year": 2013,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$90,000",
+      "askEquity": "8%",
+      "amount": "$90,000",
+      "equity": "8%",
+      "investor": "Lori Greiner"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner invested and sold it through QVC.",
+    "timeline": [
+      {
+        "year": 2012,
+        "event": "Michael Tseng invents the universal plate seal"
+      },
+      {
+        "year": 2013,
+        "event": "Appears on Shark Tank. Lori Greiner invests $90K for 8%"
+      },
+      {
+        "year": 2013,
+        "event": "Launches on QVC. Strong holiday gift sales"
+      },
+      {
+        "year": 2016,
+        "event": "Available in major kitchen retailers"
+      }
+    ],
+    "currentStatus": "Available in kitchen stores \u2014 a practical QVC staple.",
+    "buyUrl": "https://www.amazon.com/s?k=plate+topper+silicone+lid&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&q=80",
+    "tags": [
+      "kitchen",
+      "storage",
+      "food",
+      "silicone",
+      "eco"
+    ]
+  },
+  {
+    "id": "groomerang",
+    "name": "Groomerang",
+    "slug": "groomerang",
+    "tagline": "Pet grooming glove that removes fur while you pet your animal",
+    "description": "Groomerang is a glove with rubber bristles that removes loose fur from dogs and cats while you pet them naturally. No brushes, no stress for the pet.",
+    "category": "Pets",
+    "season": 8,
+    "episode": 6,
+    "year": 2016,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$100,000",
+      "askEquity": "20%",
+      "amount": "$100,000",
+      "equity": "20%",
+      "investor": "Lori Greiner"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner invested and sold it on QVC where pet products always perform well.",
+    "timeline": [
+      {
+        "year": 2015,
+        "event": "Inventors create the pet grooming glove"
+      },
+      {
+        "year": 2016,
+        "event": "Appears on Shark Tank. Lori Greiner invests"
+      },
+      {
+        "year": 2017,
+        "event": "Available in pet stores and online"
+      },
+      {
+        "year": 2020,
+        "event": "Pet ownership boom drives sales"
+      }
+    ],
+    "currentStatus": "Available in major pet retailers \u2014 popular with dog and cat owners.",
+    "buyUrl": "https://www.amazon.com/s?k=pet+grooming+glove+deshedding&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=400&q=80",
+    "tags": [
+      "pets",
+      "dogs",
+      "cats",
+      "grooming",
+      "glove"
+    ]
+  },
+  {
+    "id": "tandem",
+    "name": "Tandem",
+    "slug": "tandem",
+    "tagline": "Couples app that syncs your lives with shared tasks and memories",
+    "description": "Tandem is a relationship app that helps couples stay connected through shared tasks, memories, and countdowns. The founders pitched a touching story about long-distance relationships.",
+    "category": "Tech & Apps",
+    "season": 7,
+    "episode": 18,
+    "year": 2016,
+    "sharks": [],
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "5%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "Sharks felt the market was too crowded. The couples app space has since exploded.",
+    "timeline": [
+      {
+        "year": 2015,
+        "event": "Founders create Tandem for long-distance couples"
+      },
+      {
+        "year": 2016,
+        "event": "Appears on Shark Tank. No deal"
+      },
+      {
+        "year": 2018,
+        "event": "App gains following in LDR communities"
+      },
+      {
+        "year": 2022,
+        "event": "Quietly profitable niche app"
+      }
+    ],
+    "currentStatus": "Still operating with a loyal user base.",
+    "buyUrl": "https://www.amazon.com/s?k=couples+app&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=400&q=80",
+    "tags": [
+      "app",
+      "couples",
+      "relationships",
+      "tech",
+      "LDR"
+    ]
+  },
+  {
+    "id": "invis-o-clip",
+    "name": "Invis-O-Clip",
+    "slug": "invis-o-clip",
+    "tagline": "Clear hair clips that hold hair in place without showing",
+    "description": "Invis-O-Clip makes clear hair clips designed to be invisible in any hair color, providing strong hold without ruining a hairstyle's aesthetics.",
+    "category": "Beauty & Hair",
+    "season": 5,
+    "episode": 15,
+    "year": 2014,
+    "sharks": [
+      "Lori Greiner"
+    ],
+    "deal": {
+      "ask": "$75,000",
+      "askEquity": "25%",
+      "amount": "$75,000",
+      "equity": "25%",
+      "investor": "Lori Greiner"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Lori Greiner invested in the beauty accessory.",
+    "timeline": [
+      {
+        "year": 2013,
+        "event": "Deborah Neff creates the invisible hair clip"
+      },
+      {
+        "year": 2014,
+        "event": "Appears on Shark Tank. Lori Greiner invests"
+      },
+      {
+        "year": 2015,
+        "event": "Available in beauty supply stores"
+      },
+      {
+        "year": 2018,
+        "event": "Sold in Ulta and Sally Beauty"
+      }
+    ],
+    "currentStatus": "Available in beauty supply stores nationwide.",
+    "buyUrl": "https://www.amazon.com/s?k=invisible+hair+clips+clear&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400&q=80",
+    "tags": [
+      "hair",
+      "beauty",
+      "accessories",
+      "clips",
+      "women"
+    ]
+  },
+  {
+    "id": "tipsy-bartender",
+    "name": "Crio Bru",
+    "slug": "crio-bru",
+    "tagline": "Brewed cacao drink that tastes like chocolate coffee with half the caffeine",
+    "description": "Crio Bru is ground cacao brewed like coffee, delivering a rich chocolate flavor with half the caffeine. It's the chocolate lover's alternative to coffee that keeps you calm and focused.",
+    "category": "Food & Beverage",
+    "season": 5,
+    "episode": 10,
+    "year": 2013,
+    "sharks": [
+      "Robert Herjavec"
+    ],
+    "deal": {
+      "ask": "$1,000,000",
+      "askEquity": "15%",
+      "amount": "$1,000,000",
+      "equity": "15%",
+      "investor": "Robert Herjavec"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Robert Herjavec made one of his larger food investments.",
+    "timeline": [
+      {
+        "year": 2012,
+        "event": "Eric Durtschi founds Crio Bru"
+      },
+      {
+        "year": 2013,
+        "event": "Appears on Shark Tank. Robert Herjavec invests $1M for 15%"
+      },
+      {
+        "year": 2015,
+        "event": "Available in Whole Foods and specialty stores"
+      },
+      {
+        "year": 2020,
+        "event": "Remote work coffee boom benefits niche drinks"
+      }
+    ],
+    "currentStatus": "Available in specialty health food stores and online.",
+    "buyUrl": "https://www.amazon.com/s?k=crio+bru+cacao&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=400&q=80",
+    "tags": [
+      "cacao",
+      "chocolate",
+      "coffee",
+      "drinks",
+      "health"
+    ]
+  },
+  {
+    "id": "bee-thinking",
+    "name": "BeeHive Meals",
+    "slug": "beehive-meals",
+    "tagline": "Healthy frozen meal delivery for busy families using whole ingredients",
+    "description": "BeeHive Meals delivers healthy frozen meal kits made with whole, unprocessed ingredients designed for families with kids. Barbara Corcoran saw the family meal market opportunity.",
+    "category": "Food & Beverage",
+    "season": 6,
+    "episode": 20,
+    "year": 2015,
+    "sharks": [
+      "Barbara Corcoran"
+    ],
+    "deal": {
+      "ask": "$200,000",
+      "askEquity": "10%",
+      "amount": "$200,000",
+      "equity": "15%",
+      "investor": "Barbara Corcoran"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Barbara Corcoran invested in family nutrition.",
+    "timeline": [
+      {
+        "year": 2014,
+        "event": "Founders create BeeHive Meals for busy families"
+      },
+      {
+        "year": 2015,
+        "event": "Appears on Shark Tank. Barbara Corcoran invests"
+      },
+      {
+        "year": 2016,
+        "event": "Subscription service grows in the Northeast"
+      },
+      {
+        "year": 2019,
+        "event": "COVID meal kit boom benefits the brand"
+      }
+    ],
+    "currentStatus": "Operating as a regional healthy meal delivery service.",
+    "buyUrl": "https://www.amazon.com/s?k=healthy+frozen+family+meals&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=400&q=80",
+    "tags": [
+      "food",
+      "family",
+      "healthy",
+      "meals",
+      "delivery"
+    ]
   }
 ]
