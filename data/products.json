@@ -60,7 +60,8 @@
       "currentValue": "$180M+ (est. 20% of $900M brand)",
       "return": "~900x",
       "outcome": "\ud83d\udcb0 Massive win"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "bombas",
@@ -127,7 +128,8 @@
       "currentValue": "$52M+ (est. 17.5% of $300M revenue brand)",
       "return": "~260x",
       "outcome": "\ud83d\udcb0 Massive win"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "ring",
@@ -192,7 +194,8 @@
       "currentValue": "N/A \u2014 no deal",
       "return": "Missed $1.2B acquisition",
       "outcome": "\ud83d\ude2c Biggest miss ever"
-    }
+    },
+    "companyStatus": "acquired"
   },
   {
     "id": "squatty-potty",
@@ -255,7 +258,8 @@
       "currentValue": "$20M+ (est.)",
       "return": "~57x",
       "outcome": "\ud83d\udcb0 Big win"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "cousins-maine-lobster",
@@ -310,7 +314,8 @@
       "food truck"
     ],
     "image": "/images/products/cousins-maine-lobster.jpg",
-    "websiteUrl": "https://cousinsmainlobster.com"
+    "websiteUrl": "https://cousinsmainlobster.com",
+    "companyStatus": "active"
   },
   {
     "id": "tipsy-elves",
@@ -366,7 +371,8 @@
     ],
     "image": "/images/products/tipsy-elves.jpg",
     "asin": "B00OQOSYNE",
-    "websiteUrl": "https://tipsyelves.com"
+    "websiteUrl": "https://tipsyelves.com",
+    "companyStatus": "active"
   },
   {
     "id": "kodiak-cakes",
@@ -432,7 +438,8 @@
       "currentValue": "N/A \u2014 no deal",
       "return": "Missed $1B+ valuation",
       "outcome": "\ud83d\ude2c Major miss"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "simply-fit-board",
@@ -496,7 +503,8 @@
       "currentValue": "$32M+ (est. 20% of $160M sales)",
       "return": "~256x",
       "outcome": "\ud83d\udcb0 Massive win"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "the-original-comfy",
@@ -560,7 +568,8 @@
       "currentValue": "$45M+ (est. 30% of $150M)",
       "return": "~900x",
       "outcome": "\ud83d\udcb0 Massive win"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "groovebook",
@@ -619,7 +628,12 @@
       "return": "~77x",
       "outcome": "\ud83d\udcb0 Great exit"
     },
-    "asin": "B00J0Y7UCK"
+    "asin": "B00J0Y7UCK",
+    "companyStatus": "acquired",
+    "companyStatusNote": "Acquired by Shutterfly in 2014",
+    "similarProduct": "Chatbooks Photo Books",
+    "similarUrl": "https://www.amazon.com/s?k=photo+book+subscription&tag=everythi0b39b-20",
+    "similarNote": "Best modern photo book subscription service"
   },
   {
     "id": "dude-wipes",
@@ -683,7 +697,8 @@
       "currentValue": "$25M+ (est. 25% of $100M brand)",
       "return": "~333x",
       "outcome": "\ud83d\udcb0 Massive win"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "lovepop",
@@ -747,7 +762,8 @@
       "currentValue": "$3M+ (est.)",
       "return": "~10x",
       "outcome": "\u2705 Solid win"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "the-bouqs",
@@ -799,7 +815,8 @@
       "subscription",
       "sustainable"
     ],
-    "image": "/images/products/the-bouqs.jpg"
+    "image": "/images/products/the-bouqs.jpg",
+    "companyStatus": "acquired"
   },
   {
     "id": "breathometer",
@@ -864,7 +881,12 @@
       "currentValue": "~$0 (FTC shut down)",
       "return": "Total loss",
       "outcome": "\ud83d\udc80 Lost everything"
-    }
+    },
+    "companyStatus": "defunct",
+    "companyStatusNote": "Shut down after FTC investigation in 2017",
+    "similarProduct": "BACtrack Breathalyzer",
+    "similarUrl": "https://www.amazon.com/s?k=bactrack+breathalyzer&tag=everythi0b39b-20",
+    "similarNote": "The most accurate smartphone breathalyzer on the market today"
   },
   {
     "id": "sand-cloud",
@@ -920,7 +942,8 @@
     ],
     "image": "/images/products/sand-cloud.jpg",
     "asin": "B07D9JDTQP",
-    "websiteUrl": "https://sandcloud.com"
+    "websiteUrl": "https://sandcloud.com",
+    "companyStatus": "active"
   },
   {
     "id": "scholly",
@@ -976,7 +999,8 @@
       "college"
     ],
     "image": "/images/products/scholly.jpg",
-    "asin": "B00X5RDSAA"
+    "asin": "B00X5RDSAA",
+    "companyStatus": "active"
   },
   {
     "id": "bottle-breacher",
@@ -1041,7 +1065,8 @@
       "currentValue": "$2.4M+ (est. 20% of $12M brand)",
       "return": "~16x",
       "outcome": "\u2705 Solid win"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "grace-and-lace",
@@ -1096,7 +1121,8 @@
       "fashion"
     ],
     "image": "/images/products/grace-and-lace.jpg",
-    "asin": "B00JZQHVMS"
+    "asin": "B00JZQHVMS",
+    "companyStatus": "active"
   },
   {
     "id": "drop-stop",
@@ -1151,7 +1177,8 @@
     ],
     "image": "/images/products/drop-stop.jpg",
     "asin": "B00ADLQCOW",
-    "websiteUrl": "https://mydropstop.com"
+    "websiteUrl": "https://mydropstop.com",
+    "companyStatus": "active"
   },
   {
     "id": "simple-sugars",
@@ -1206,7 +1233,8 @@
       "scrub"
     ],
     "image": "/images/products/simple-sugars.jpg",
-    "asin": "B00B5SLWBS"
+    "asin": "B00B5SLWBS",
+    "companyStatus": "active"
   },
   {
     "id": "readerest",
@@ -1260,7 +1288,8 @@
       "eyewear"
     ],
     "image": "/images/products/readerest.jpg",
-    "asin": "B009O3YDSC"
+    "asin": "B009O3YDSC",
+    "companyStatus": "active"
   },
   {
     "id": "wicked-good-cupcakes",
@@ -1315,7 +1344,8 @@
       "baked goods"
     ],
     "image": "/images/products/wicked-good-cupcakes.jpg",
-    "asin": "B00BNMWLM8"
+    "asin": "B00BNMWLM8",
+    "companyStatus": "active"
   },
   {
     "id": "sleep-styler",
@@ -1370,7 +1400,8 @@
       "sleep"
     ],
     "image": "/images/products/sleep-styler.jpg",
-    "asin": "B01N5L6QHC"
+    "asin": "B01N5L6QHC",
+    "companyStatus": "active"
   },
   {
     "id": "bala-bangles",
@@ -1435,7 +1466,8 @@
       "currentValue": "$9M+ (est. 30% of $30M brand)",
       "return": "~10x",
       "outcome": "\u2705 Solid win"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "manscaped",
@@ -1496,7 +1528,8 @@
       "currentValue": "N/A \u2014 no deal",
       "return": "Missed $1B SPAC valuation",
       "outcome": "\ud83d\ude2c Major miss"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "coffee-meets-bagel",
@@ -1555,7 +1588,8 @@
       "currentValue": "Offered $30M buyout \u2014 they said no",
       "return": "Saved $30M or missed a deal",
       "outcome": "\ud83e\udd37 Controversial"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "lip-bar",
@@ -1615,7 +1649,8 @@
       "return": "Missed Target deal \u2014 called it a disaster",
       "outcome": "\ud83d\ude2c Embarrassing miss"
     },
-    "asin": "B07BQMD5GW"
+    "asin": "B07BQMD5GW",
+    "companyStatus": "active"
   },
   {
     "id": "mission-belt",
@@ -1671,7 +1706,8 @@
     ],
     "image": "/images/products/mission-belt.jpg",
     "asin": "B00H0GBV5G",
-    "websiteUrl": "https://missionbelt.com"
+    "websiteUrl": "https://missionbelt.com",
+    "companyStatus": "active"
   },
   {
     "id": "tower-paddle-boards",
@@ -1727,7 +1763,8 @@
     ],
     "image": "/images/products/tower-paddle-boards.jpg",
     "websiteUrl": "https://www.towerpaddleboards.com",
-    "asin": "B00ANPDKN0"
+    "asin": "B00ANPDKN0",
+    "companyStatus": "active"
   },
   {
     "id": "lollacup",
@@ -1779,7 +1816,8 @@
       "feeding"
     ],
     "image": "/images/products/lollacup.jpg",
-    "asin": "B00DYXWAXU"
+    "asin": "B00DYXWAXU",
+    "companyStatus": "active"
   },
   {
     "id": "chill-soda",
@@ -1828,7 +1866,9 @@
       "drinks"
     ],
     "image": "/images/products/wicked-joe-coffee.jpg",
-    "asin": "B00PXAQGE0"
+    "asin": "B00PXAQGE0",
+    "companyStatus": "active",
+    "companyStatusNote": "Still operating"
   },
   {
     "id": "chapul",
@@ -1881,7 +1921,8 @@
     ],
     "youtubeId": "otl7LBnjXSk",
     "image": "/images/products/chapul.jpg",
-    "asin": "B00IICP9ZQ"
+    "asin": "B00IICP9ZQ",
+    "companyStatus": "active"
   },
   {
     "id": "pipcorn",
@@ -1939,7 +1980,8 @@
     "youtubeId": "aUlO3RlulI8",
     "image": "/images/products/pipcorn.jpg",
     "asin": "B074TYJ2C8",
-    "websiteUrl": "https://eatpipcorn.com"
+    "websiteUrl": "https://eatpipcorn.com",
+    "companyStatus": "active"
   },
   {
     "id": "burlap-and-barrel",
@@ -2001,7 +2043,8 @@
       "currentValue": "N/A \u2014 no deal",
       "return": "Missed $50M+ company",
       "outcome": "\ud83d\ude2c Missed it"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "pavlok",
@@ -2055,7 +2098,8 @@
       "wellness"
     ],
     "image": "/images/products/pavlok.jpg",
-    "asin": "B07BLXRNQM"
+    "asin": "B07BLXRNQM",
+    "companyStatus": "active"
   },
   {
     "id": "freeze-sleeves",
@@ -2107,7 +2151,8 @@
       "recovery"
     ],
     "image": "/images/products/freeze-sleeves.jpg",
-    "asin": "B07HPGQVQK"
+    "asin": "B07HPGQVQK",
+    "companyStatus": "active"
   },
   {
     "id": "swag-bag",
@@ -2159,7 +2204,8 @@
       "entertaining"
     ],
     "image": "/images/products/tipsy-dipper.jpg",
-    "asin": "B07G5Y9CYR"
+    "asin": "B07G5Y9CYR",
+    "companyStatus": "active"
   },
   {
     "id": "illumibowl",
@@ -2217,7 +2263,8 @@
     "youtubeId": "12I6kP__O7k",
     "image": "/images/products/illumibowl.jpg",
     "asin": "B019ZSYDHY",
-    "websiteUrl": "https://illumibowl.com"
+    "websiteUrl": "https://illumibowl.com",
+    "companyStatus": "active"
   },
   {
     "id": "mango-mango",
@@ -2272,7 +2319,12 @@
       "snacks",
       "Starbucks"
     ],
-    "image": "/images/products/bantam-bagels.jpg"
+    "image": "/images/products/bantam-bagels.jpg",
+    "companyStatus": "acquired",
+    "companyStatusNote": "Acquired by T. Marzetti Company",
+    "similarProduct": "Bantam Bagels Mini Stuffed",
+    "similarUrl": "https://www.amazon.com/s?k=bantam+bagels+stuffed+mini&tag=everythi0b39b-20",
+    "similarNote": "Still available \u2014 find them at Starbucks or online"
   },
   {
     "id": "the-comfy-neck",
@@ -2323,7 +2375,8 @@
       "meat",
       "boneless"
     ],
-    "image": "/images/products/bubba-q-boneless-ribs.jpg"
+    "image": "/images/products/bubba-q-boneless-ribs.jpg",
+    "companyStatus": "active"
   },
   {
     "id": "kanga-pouch",
@@ -2376,7 +2429,8 @@
     ],
     "youtubeId": "2L4l165WZO4",
     "image": "/images/products/fiberfix.jpg",
-    "asin": "B00EOXD28Y"
+    "asin": "B00EOXD28Y",
+    "companyStatus": "active"
   },
   {
     "id": "plant-nanny",
@@ -2428,7 +2482,8 @@
       "watering",
       "eco"
     ],
-    "image": "/images/products/plant-nanny.jpg"
+    "image": "/images/products/plant-nanny.jpg",
+    "companyStatus": "active"
   },
   {
     "id": "slice-of-sauce",
@@ -2477,7 +2532,8 @@
       "innovative",
       "burger"
     ],
-    "image": "/images/products/slice-of-sauce.jpg"
+    "image": "/images/products/slice-of-sauce.jpg",
+    "companyStatus": "active"
   },
   {
     "id": "biaggi-luggage",
@@ -2530,7 +2586,8 @@
     ],
     "youtubeId": "KpmS4lS-0Vc",
     "image": "/images/products/biaggi-luggage.jpg",
-    "asin": "B01M4M3VJB"
+    "asin": "B01M4M3VJB",
+    "companyStatus": "active"
   },
   {
     "id": "survival-frog",
@@ -2579,7 +2636,8 @@
       "safety",
       "home"
     ],
-    "image": "/images/products/survival-frog.jpg"
+    "image": "/images/products/survival-frog.jpg",
+    "companyStatus": "active"
   },
   {
     "id": "kali-audio",
@@ -2630,7 +2688,8 @@
       "household",
       "scrub daddy"
     ],
-    "image": "/images/products/scrub-daddy-power-paste.jpg"
+    "image": "/images/products/scrub-daddy-power-paste.jpg",
+    "companyStatus": "active"
   },
   {
     "id": "polar-pro",
@@ -2681,7 +2740,8 @@
       "copper",
       "pain relief"
     ],
-    "image": "/images/products/happy-feet-plus.jpg"
+    "image": "/images/products/happy-feet-plus.jpg",
+    "companyStatus": "active"
   },
   {
     "id": "sworkit",
@@ -2734,7 +2794,8 @@
       "health"
     ],
     "youtubeId": "qO3n3Qmmd_g",
-    "image": "/images/products/sworkit.jpg"
+    "image": "/images/products/sworkit.jpg",
+    "companyStatus": "active"
   },
   {
     "id": "casery",
@@ -2785,7 +2846,8 @@
       "art",
       "gifts"
     ],
-    "image": "/images/products/the-casery.jpg"
+    "image": "/images/products/the-casery.jpg",
+    "companyStatus": "active"
   },
   {
     "id": "natural-grip",
@@ -2837,7 +2899,8 @@
       "gymnastics"
     ],
     "image": "/images/products/natural-grip.jpg",
-    "asin": "B00PKWBBTQ"
+    "asin": "B00PKWBBTQ",
+    "companyStatus": "active"
   },
   {
     "id": "my-special-aflac-duck",
@@ -2895,7 +2958,8 @@
       "currentValue": "Donated to hospitals \u2014 not a financial return",
       "return": "Priceless PR for Aflac",
       "outcome": "\u2764\ufe0f Not about money"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "eyebloc",
@@ -2944,7 +3008,8 @@
       "security",
       "webcam"
     ],
-    "image": "/images/products/eyebloc.jpg"
+    "image": "/images/products/eyebloc.jpg",
+    "companyStatus": "active"
   },
   {
     "id": "amber-athletic-gear",
@@ -2995,7 +3060,8 @@
       "workout",
       "sweat"
     ],
-    "image": "/images/products/amber-athletic-gear.jpg"
+    "image": "/images/products/amber-athletic-gear.jpg",
+    "companyStatus": "active"
   },
   {
     "id": "yono-clip",
@@ -3040,7 +3106,8 @@
       "audio",
       "fitness"
     ],
-    "image": "/images/products/yono-clip.jpg"
+    "image": "/images/products/yono-clip.jpg",
+    "companyStatus": "active"
   },
   {
     "id": "solemates",
@@ -3092,7 +3159,8 @@
       "weddings"
     ],
     "image": "/images/products/solemates.jpg",
-    "asin": "B009EIYQSY"
+    "asin": "B009EIYQSY",
+    "companyStatus": "active"
   },
   {
     "id": "the-paint-brush-cover",
@@ -3145,7 +3213,8 @@
     ],
     "youtubeId": "mI-vDFhuIXs",
     "image": "/images/products/fresh-patch.jpg",
-    "asin": "B07L9YNWT3"
+    "asin": "B07L9YNWT3",
+    "companyStatus": "active"
   },
   {
     "id": "cool-beans",
@@ -3199,7 +3268,8 @@
       "tech"
     ],
     "image": "/images/products/hidrate-spark.jpg",
-    "asin": "B07G5QFHKR"
+    "asin": "B07G5QFHKR",
+    "companyStatus": "acquired"
   },
   {
     "id": "foot-fairy",
@@ -3244,7 +3314,12 @@
       "tech",
       "parenting"
     ],
-    "image": "/images/products/foot-fairy.jpg"
+    "image": "/images/products/foot-fairy.jpg",
+    "companyStatus": "defunct",
+    "companyStatusNote": "App discontinued",
+    "similarProduct": "Ritz Stick Kids Shoe Sizer",
+    "similarUrl": "https://www.amazon.com/s?k=kids+shoe+sizer+measuring&tag=everythi0b39b-20",
+    "similarNote": "Best foot measuring tool for kids"
   },
   {
     "id": "larq",
@@ -3305,7 +3380,8 @@
       "currentValue": "$1.5M+ (est. 5% of $30M+ brand)",
       "return": "~1.5x",
       "outcome": "\ud83d\udcc8 Modest win"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "zipz-wine",
@@ -3355,7 +3431,8 @@
       "drinks",
       "single serve",
       "events"
-    ]
+    ],
+    "companyStatus": "active"
   },
   {
     "id": "plated",
@@ -3403,7 +3480,12 @@
       "food",
       "delivery",
       "cooking"
-    ]
+    ],
+    "companyStatus": "defunct",
+    "companyStatusNote": "Discontinued by Albertsons in 2019",
+    "similarProduct": "HelloFresh Meal Kit",
+    "similarUrl": "https://www.amazon.com/s?k=hellofresh+meal+kit&tag=everythi0b39b-20",
+    "similarNote": "America's #1 meal kit delivery service"
   },
   {
     "id": "blueland",
@@ -3463,7 +3545,8 @@
       "currentValue": "$1.5M+ (est. 3% of $50M brand)",
       "return": "~5x",
       "outcome": "\u2705 Win"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "hero-cosmetics",
@@ -3522,7 +3605,8 @@
       "currentValue": "$31.5M (5% of $630M acquisition)",
       "return": "~39x",
       "outcome": "\ud83d\udcb0 Great exit"
-    }
+    },
+    "companyStatus": "acquired"
   },
   {
     "id": "copper-cow-coffee",
@@ -3574,7 +3658,8 @@
       "drinks"
     ],
     "asin": "B07MHZ2CJF",
-    "websiteUrl": "https://coppercowcoffee.com"
+    "websiteUrl": "https://coppercowcoffee.com",
+    "companyStatus": "active"
   },
   {
     "id": "deux",
@@ -3620,7 +3705,8 @@
       "functional",
       "health",
       "snacks"
-    ]
+    ],
+    "companyStatus": "active"
   },
   {
     "id": "voyage-air-guitar",
@@ -3666,7 +3752,8 @@
       "music",
       "travel",
       "folding"
-    ]
+    ],
+    "companyStatus": "active"
   },
   {
     "id": "chirps-chips",
@@ -3714,7 +3801,8 @@
       "sustainable",
       "snacks"
     ],
-    "asin": "B07DCC3YTN"
+    "asin": "B07DCC3YTN",
+    "companyStatus": "active"
   },
   {
     "id": "the-comfy-neck-2",
@@ -3760,7 +3848,8 @@
       "kitchen",
       "scrub daddy",
       "household"
-    ]
+    ],
+    "companyStatus": "active"
   },
   {
     "id": "brightland",
@@ -3807,7 +3896,8 @@
       "artisan",
       "California",
       "cooking"
-    ]
+    ],
+    "companyStatus": "active"
   },
   {
     "id": "thinx",
@@ -3863,7 +3953,8 @@
       "currentValue": "Missed $200M brand",
       "return": "Missed it",
       "outcome": "\ud83d\ude2c Awkward and wrong"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "scrub-daddy-eraser",
@@ -3921,7 +4012,8 @@
       "currentValue": "$10M+ (est.)",
       "return": "~80x",
       "outcome": "\ud83d\udcb0 Big win"
-    }
+    },
+    "companyStatus": "active"
   },
   {
     "id": "coldest-water",
@@ -3969,7 +4061,8 @@
       "insulated",
       "sports",
       "hydration"
-    ]
+    ],
+    "companyStatus": "active"
   },
   {
     "id": "waxelene",
@@ -4020,7 +4113,8 @@
       "clean beauty",
       "skincare",
       "natural"
-    ]
+    ],
+    "companyStatus": "active"
   },
   {
     "id": "doorman-2",
@@ -4071,7 +4165,8 @@
       "food",
       "silicone",
       "eco"
-    ]
+    ],
+    "companyStatus": "active"
   },
   {
     "id": "groomerang",
@@ -4122,7 +4217,8 @@
       "cats",
       "grooming",
       "glove"
-    ]
+    ],
+    "companyStatus": "active"
   },
   {
     "id": "tandem",
@@ -4171,7 +4267,8 @@
       "relationships",
       "tech",
       "LDR"
-    ]
+    ],
+    "companyStatus": "active"
   },
   {
     "id": "invis-o-clip",
@@ -4222,7 +4319,8 @@
       "accessories",
       "clips",
       "women"
-    ]
+    ],
+    "companyStatus": "active"
   },
   {
     "id": "tipsy-bartender",
@@ -4273,7 +4371,8 @@
       "coffee",
       "drinks",
       "health"
-    ]
+    ],
+    "companyStatus": "active"
   },
   {
     "id": "bee-thinking",
@@ -4324,6 +4423,7 @@
       "healthy",
       "meals",
       "delivery"
-    ]
+    ],
+    "companyStatus": "active"
   }
 ]

@@ -147,6 +147,19 @@ export default function ProductGrid({ products }: { products: Product[] }) {
             <option value="no-deal">❌ No Deals ({outcomeStats.noDeals})</option>
           </select>
 
+          <select
+            onChange={e => {
+              const val = e.target.value
+              setSearch(val === 'All' ? '' : val === 'defunct' ? 'out of business' : val === 'acquired' ? 'acquired' : '')
+            }}
+            className="bg-white border border-gray-200 rounded-lg px-3 py-2 text-gray-700 text-sm focus:outline-none focus:border-blue-400 shadow-sm cursor-pointer"
+          >
+            <option value="All">🏢 All Companies</option>
+            <option value="active">✅ Still Active</option>
+            <option value="acquired">🤝 Acquired</option>
+            <option value="defunct">💀 Out of Business</option>
+          </select>
+
           <span className="text-gray-400 text-sm ml-1 font-medium">{filtered.length} products</span>
         </div>
       </div>

@@ -42,11 +42,20 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
 
         {/* Right: details */}
         <div>
-          <div className="flex items-center gap-3 mb-3">
+          <div className="flex flex-wrap items-center gap-2 mb-3">
             <span className="text-xs bg-gray-100 text-gray-500 px-2 py-1 rounded-full font-medium">{product.category}</span>
             <span className={`text-sm font-bold ${isDeal ? 'text-green-600' : 'text-red-500'}`}>
               {isDeal ? '✅ Deal Made' : '❌ No Deal'}
             </span>
+            {(product as any).companyStatus === 'defunct' && (
+              <span className="text-xs bg-red-100 text-red-600 px-2 py-1 rounded-full font-semibold">💀 Out of Business</span>
+            )}
+            {(product as any).companyStatus === 'acquired' && (
+              <span className="text-xs bg-blue-100 text-blue-600 px-2 py-1 rounded-full font-semibold">🤝 Acquired</span>
+            )}
+            {(product as any).companyStatus === 'active' && (
+              <span className="text-xs bg-green-100 text-green-600 px-2 py-1 rounded-full font-semibold">✅ Still Active</span>
+            )}
           </div>
           <h1 className="text-4xl font-extrabold text-gray-900 mb-3">{product.name}</h1>
           <p className="text-gray-500 text-lg mb-6 leading-relaxed">{product.tagline}</p>
@@ -93,6 +102,18 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
           </div>
         </div>
       </div>
+
+      {/* Similar product for defunct companies */}
+      {(product as any).similarProduct && (
+        <div className="mt-6 bg-amber-50 border border-amber-200 rounded-xl p-5">
+          <h2 className="text-sm uppercase tracking-wide text-amber-700 font-bold mb-2">🔍 This company is gone — but the idea lives on</h2>
+          <p className="text-gray-600 text-sm mb-3">{(product as any).similarNote}</p>
+          <a href={(product as any).similarUrl} target="_blank" rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-300 text-gray-900 font-bold px-4 py-2 rounded-lg transition-colors text-sm">
+            🛒 Shop {(product as any).similarProduct} →
+          </a>
+        </div>
+      )}
 
       {/* Description */}
       <div className="mt-10">
