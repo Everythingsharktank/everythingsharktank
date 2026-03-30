@@ -604,7 +604,7 @@
       }
     ],
     "currentStatus": "Acquired by Shutterfly for $14.5M \u2014 a huge exit for a $150K investment.",
-    "buyUrl": "https://www.amazon.com/s?k=photo+book+subscription&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00J0Y7UCK?tag=everythi0b39b-20",
     "tags": [
       "photos",
       "subscription",
@@ -618,7 +618,8 @@
       "currentValue": "$11.6M (80% of $14.5M Shutterfly acquisition)",
       "return": "~77x",
       "outcome": "\ud83d\udcb0 Great exit"
-    }
+    },
+    "asin": "B00J0Y7UCK"
   },
   {
     "id": "dude-wipes",
@@ -967,14 +968,15 @@
       }
     ],
     "currentStatus": "Helped students find $100M+ in scholarships. One of the most downloaded education apps.",
-    "buyUrl": "https://www.amazon.com/s?k=scholarship+app&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00X5RDSAA?tag=everythi0b39b-20",
     "tags": [
       "education",
       "app",
       "scholarships",
       "college"
     ],
-    "image": "/images/products/scholly.jpg"
+    "image": "/images/products/scholly.jpg",
+    "asin": "B00X5RDSAA"
   },
   {
     "id": "bottle-breacher",
@@ -1086,14 +1088,15 @@
       }
     ],
     "currentStatus": "Still operating with multi-million dollar annual revenue.",
-    "buyUrl": "https://www.amazon.com/s?k=grace+and+lace+boot+socks&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00JZQHVMS?tag=everythi0b39b-20",
     "tags": [
       "socks",
       "apparel",
       "women",
       "fashion"
     ],
-    "image": "/images/products/grace-and-lace.jpg"
+    "image": "/images/products/grace-and-lace.jpg",
+    "asin": "B00JZQHVMS"
   },
   {
     "id": "drop-stop",
@@ -1195,14 +1198,15 @@
       }
     ],
     "currentStatus": "Sales went from $30K to $1M+ in first year. Now a multi-million dollar skincare brand.",
-    "buyUrl": "https://www.amazon.com/s?k=simple+sugars+scrub&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00B5SLWBS?tag=everythi0b39b-20",
     "tags": [
       "skincare",
       "beauty",
       "natural",
       "scrub"
     ],
-    "image": "/images/products/simple-sugars.jpg"
+    "image": "/images/products/simple-sugars.jpg",
+    "asin": "B00B5SLWBS"
   },
   {
     "id": "readerest",
@@ -1303,14 +1307,15 @@
       }
     ],
     "currentStatus": "Multi-million dollar business shipping nationwide. Still family-owned.",
-    "buyUrl": "https://www.amazon.com/s?k=wicked+good+cupcakes&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00BNMWLM8?tag=everythi0b39b-20",
     "tags": [
       "food",
       "cupcakes",
       "gifts",
       "baked goods"
     ],
-    "image": "/images/products/wicked-good-cupcakes.jpg"
+    "image": "/images/products/wicked-good-cupcakes.jpg",
+    "asin": "B00BNMWLM8"
   },
   {
     "id": "sleep-styler",
@@ -1357,14 +1362,15 @@
       }
     ],
     "currentStatus": "Sold over $1M on Amazon in first month post-show. Available in major beauty retailers.",
-    "buyUrl": "https://www.amazon.com/s?k=sleep+styler+hair+rollers&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B01N5L6QHC?tag=everythi0b39b-20",
     "tags": [
       "hair",
       "beauty",
       "curls",
       "sleep"
     ],
-    "image": "/images/products/sleep-styler.jpg"
+    "image": "/images/products/sleep-styler.jpg",
+    "asin": "B01N5L6QHC"
   },
   {
     "id": "bala-bangles",
@@ -1594,7 +1600,7 @@
       }
     ],
     "currentStatus": "Rejected by all sharks \u2014 now sold in 1,500+ Target stores. One of the best comeback stories.",
-    "buyUrl": "https://www.amazon.com/s?k=the+lip+bar+lipstick&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07BQMD5GW?tag=everythi0b39b-20",
     "tags": [
       "lipstick",
       "beauty",
@@ -1608,7 +1614,8 @@
       "currentValue": "N/A \u2014 no deal",
       "return": "Missed Target deal \u2014 called it a disaster",
       "outcome": "\ud83d\ude2c Embarrassing miss"
-    }
+    },
+    "asin": "B07BQMD5GW"
   },
   {
     "id": "mission-belt",
@@ -1711,7 +1718,7 @@
       }
     ],
     "currentStatus": "Over $30M in lifetime sales \u2014 one of Mark Cuban's best early investments.",
-    "buyUrl": "https://www.amazon.com/s?k=tower+paddle+board+inflatable&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00ANPDKN0?tag=everythi0b39b-20",
     "tags": [
       "paddle board",
       "watersports",
@@ -1719,7 +1726,8 @@
       "beach"
     ],
     "image": "/images/products/tower-paddle-boards.jpg",
-    "websiteUrl": "https://www.towerpaddleboards.com"
+    "websiteUrl": "https://www.towerpaddleboards.com",
+    "asin": "B00ANPDKN0"
   },
   {
     "id": "lollacup",
@@ -1763,14 +1771,15 @@
       }
     ],
     "currentStatus": "Still operating \u2014 a staple in baby product stores.",
-    "buyUrl": "https://www.amazon.com/s?k=lollacup+straw+cup&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00DYXWAXU?tag=everythi0b39b-20",
     "tags": [
       "baby",
       "kids",
       "sippy cup",
       "feeding"
     ],
-    "image": "/images/products/lollacup.jpg"
+    "image": "/images/products/lollacup.jpg",
+    "asin": "B00DYXWAXU"
   },
   {
     "id": "chill-soda",
@@ -1811,14 +1820,15 @@
       }
     ],
     "currentStatus": "Still operating \u2014 one of the US's leading organic coffee brands.",
-    "buyUrl": "https://www.amazon.com/s?k=wicked+joe+coffee&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00PXAQGE0?tag=everythi0b39b-20",
     "tags": [
       "coffee",
       "organic",
       "fair trade",
       "drinks"
     ],
-    "image": "/images/products/wicked-joe-coffee.jpg"
+    "image": "/images/products/wicked-joe-coffee.jpg",
+    "asin": "B00PXAQGE0"
   },
   {
     "id": "chapul",
@@ -1861,7 +1871,7 @@
       }
     ],
     "currentStatus": "Still operating \u2014 a pioneer in the sustainable protein movement.",
-    "buyUrl": "https://www.amazon.com/s?k=cricket+protein+bar&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00IICP9ZQ?tag=everythi0b39b-20",
     "tags": [
       "protein",
       "sustainable",
@@ -1870,7 +1880,8 @@
       "health"
     ],
     "youtubeId": "otl7LBnjXSk",
-    "image": "/images/products/chapul.jpg"
+    "image": "/images/products/chapul.jpg",
+    "asin": "B00IICP9ZQ"
   },
   {
     "id": "pipcorn",
@@ -2035,7 +2046,7 @@
       }
     ],
     "currentStatus": "Still operating \u2014 a cult product in the behavior change space.",
-    "buyUrl": "https://www.amazon.com/s?k=pavlok+wristband&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07BLXRNQM?tag=everythi0b39b-20",
     "tags": [
       "wearable",
       "habits",
@@ -2043,7 +2054,8 @@
       "tech",
       "wellness"
     ],
-    "image": "/images/products/pavlok.jpg"
+    "image": "/images/products/pavlok.jpg",
+    "asin": "B07BLXRNQM"
   },
   {
     "id": "freeze-sleeves",
@@ -2086,7 +2098,7 @@
       }
     ],
     "currentStatus": "Available in major pharmacies and sporting goods stores nationwide.",
-    "buyUrl": "https://www.amazon.com/s?k=freeze+sleeve+cold+therapy&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07HPGQVQK?tag=everythi0b39b-20",
     "tags": [
       "pain relief",
       "therapy",
@@ -2094,7 +2106,8 @@
       "sports",
       "recovery"
     ],
-    "image": "/images/products/freeze-sleeves.jpg"
+    "image": "/images/products/freeze-sleeves.jpg",
+    "asin": "B07HPGQVQK"
   },
   {
     "id": "swag-bag",
@@ -2137,7 +2150,7 @@
       }
     ],
     "currentStatus": "Available on QVC and Amazon \u2014 popular holiday gift.",
-    "buyUrl": "https://www.amazon.com/s?k=tipsy+dipper+fondue&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07G5Y9CYR?tag=everythi0b39b-20",
     "tags": [
       "kitchen",
       "wine",
@@ -2145,7 +2158,8 @@
       "gifts",
       "entertaining"
     ],
-    "image": "/images/products/tipsy-dipper.jpg"
+    "image": "/images/products/tipsy-dipper.jpg",
+    "asin": "B07G5Y9CYR"
   },
   {
     "id": "illumibowl",
@@ -2352,7 +2366,7 @@
       }
     ],
     "currentStatus": "Available in Home Depot, Lowe's, and major hardware stores.",
-    "buyUrl": "https://www.amazon.com/s?k=fiberfix+repair+wrap&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00EOXD28Y?tag=everythi0b39b-20",
     "tags": [
       "repair",
       "tools",
@@ -2361,7 +2375,8 @@
       "DIY"
     ],
     "youtubeId": "2L4l165WZO4",
-    "image": "/images/products/fiberfix.jpg"
+    "image": "/images/products/fiberfix.jpg",
+    "asin": "B00EOXD28Y"
   },
   {
     "id": "plant-nanny",
@@ -2505,7 +2520,7 @@
       }
     ],
     "currentStatus": "Available in travel stores and online \u2014 popular with frequent flyers.",
-    "buyUrl": "https://www.amazon.com/s?k=biaggi+foldable+luggage&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B01M4M3VJB?tag=everythi0b39b-20",
     "tags": [
       "luggage",
       "travel",
@@ -2514,7 +2529,8 @@
       "storage"
     ],
     "youtubeId": "KpmS4lS-0Vc",
-    "image": "/images/products/biaggi-luggage.jpg"
+    "image": "/images/products/biaggi-luggage.jpg",
+    "asin": "B01M4M3VJB"
   },
   {
     "id": "survival-frog",
@@ -2812,7 +2828,7 @@
       }
     ],
     "currentStatus": "Official grip of numerous CrossFit competitions \u2014 a community staple.",
-    "buyUrl": "https://www.amazon.com/s?k=natural+grip+crossfit&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B00PKWBBTQ?tag=everythi0b39b-20",
     "tags": [
       "CrossFit",
       "grips",
@@ -2820,7 +2836,8 @@
       "weightlifting",
       "gymnastics"
     ],
-    "image": "/images/products/natural-grip.jpg"
+    "image": "/images/products/natural-grip.jpg",
+    "asin": "B00PKWBBTQ"
   },
   {
     "id": "my-special-aflac-duck",
@@ -3066,7 +3083,7 @@
       }
     ],
     "currentStatus": "Available worldwide \u2014 a staple at outdoor weddings and events.",
-    "buyUrl": "https://www.amazon.com/s?k=solemates+heel+protectors&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B009EIYQSY?tag=everythi0b39b-20",
     "tags": [
       "heels",
       "shoes",
@@ -3074,7 +3091,8 @@
       "women",
       "weddings"
     ],
-    "image": "/images/products/solemates.jpg"
+    "image": "/images/products/solemates.jpg",
+    "asin": "B009EIYQSY"
   },
   {
     "id": "the-paint-brush-cover",
@@ -3117,7 +3135,7 @@
       }
     ],
     "currentStatus": "Growing subscription service \u2014 particularly popular in dense urban areas.",
-    "buyUrl": "https://www.amazon.com/s?k=fresh+patch+real+grass+dog&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07L9YNWT3?tag=everythi0b39b-20",
     "tags": [
       "pets",
       "dogs",
@@ -3126,7 +3144,8 @@
       "apartment"
     ],
     "youtubeId": "mI-vDFhuIXs",
-    "image": "/images/products/fresh-patch.jpg"
+    "image": "/images/products/fresh-patch.jpg",
+    "asin": "B07L9YNWT3"
   },
   {
     "id": "cool-beans",
@@ -3171,7 +3190,7 @@
       }
     ],
     "currentStatus": "Acquired by Owlet \u2014 smart hydration tracking now mainstream.",
-    "buyUrl": "https://www.amazon.com/s?k=hidrate+spark+smart+water+bottle&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/dp/B07G5QFHKR?tag=everythi0b39b-20",
     "tags": [
       "water bottle",
       "hydration",
@@ -3179,7 +3198,8 @@
       "health",
       "tech"
     ],
-    "image": "/images/products/hidrate-spark.jpg"
+    "image": "/images/products/hidrate-spark.jpg",
+    "asin": "B07G5QFHKR"
   },
   {
     "id": "foot-fairy",
