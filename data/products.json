@@ -1,5 +1,183 @@
 [
   {
+    "id": "ionic-ear",
+    "name": "Ionic Ear",
+    "slug": "ionic-ear",
+    "tagline": "A Bluetooth device surgically implanted permanently in your ear",
+    "description": "Ionic Ear was a concept for a Bluetooth device that would be surgically implanted into the ear canal permanently. Inventor Darrin Johnson pitched the idea on the very first episode of Shark Tank, horrifying every shark. It became one of the most famous 'worst pitches ever' in the show's history.",
+    "category": "Tech & Gadgets",
+    "season": 1,
+    "episode": 1,
+    "year": 2009,
+    "sharks": [],
+    "deal": {
+      "ask": "$1,000,000",
+      "askEquity": "15%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "Every shark was horrified. Kevin O'Leary called it insane. The pitch became famous as one of the worst in Shark Tank history.",
+    "timeline": [
+      {
+        "year": 2009,
+        "event": "Darrin Johnson pitches Ionic Ear on Shark Tank Season 1 Episode 1 \u2014 the very first episode ever"
+      },
+      {
+        "year": 2009,
+        "event": "All sharks immediately decline \u2014 nobody wants surgery-based Bluetooth"
+      },
+      {
+        "year": 2015,
+        "event": "Clip goes viral as one of the most insane pitches in Shark Tank history"
+      },
+      {
+        "year": 2023,
+        "event": "Still referenced as the gold standard of bad Shark Tank pitches"
+      }
+    ],
+    "currentStatus": "Never made it to market. The concept was ahead of its time but the surgery requirement killed it.",
+    "companyStatus": "defunct",
+    "companyStatusNote": "Product never launched",
+    "similarProduct": "Jabra Evolve2 Earbuds",
+    "similarUrl": "https://www.amazon.com/s?k=wireless+earbuds+bluetooth&tag=everythi0b39b-20",
+    "similarNote": "The modern wireless earbud \u2014 no surgery required",
+    "buyUrl": "https://www.amazon.com/s?k=bluetooth+earbuds+wireless&tag=everythi0b39b-20",
+    "youtubeId": "ntMYssVeyl0",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&q=80",
+    "tags": [
+      "bluetooth",
+      "tech",
+      "ear",
+      "implant",
+      "weird",
+      "season 1"
+    ],
+    "sharkReturn": {
+      "invested": null,
+      "equity": null,
+      "currentValue": "N/A \u2014 no deal",
+      "return": "Dodged a bullet",
+      "outcome": "\u2705 Smart pass"
+    }
+  },
+  {
+    "id": "weed-block",
+    "name": "Weed Block",
+    "slug": "weed-block",
+    "tagline": "Landscaping fabric system that blocks weeds without chemicals",
+    "description": "Weed Block was one of the first products ever pitched on Shark Tank \u2014 a landscaping fabric system that suppresses weed growth naturally. The founders appeared in the very first episode but failed to secure investment.",
+    "category": "Home & Kitchen",
+    "season": 1,
+    "episode": 1,
+    "year": 2009,
+    "sharks": [],
+    "deal": {
+      "ask": "$150,000",
+      "askEquity": "30%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "One of the first products ever rejected on Shark Tank. The sharks didn't see enough market differentiation.",
+    "timeline": [
+      {
+        "year": 2009,
+        "event": "Pitches on the very first Shark Tank episode \u2014 Season 1, Episode 1"
+      },
+      {
+        "year": 2009,
+        "event": "All sharks decline"
+      },
+      {
+        "year": 2010,
+        "event": "Product continues independently in the landscaping market"
+      }
+    ],
+    "currentStatus": "Landscaping fabric products remain a commodity market. Similar products widely available.",
+    "companyStatus": "defunct",
+    "companyStatusNote": "Company no longer operating under this brand",
+    "similarProduct": "Scotts Pro Landscape Fabric",
+    "similarUrl": "https://www.amazon.com/s?k=landscape+weed+block+fabric&tag=everythi0b39b-20",
+    "similarNote": "Best-selling professional grade weed barrier",
+    "buyUrl": "https://www.amazon.com/s?k=weed+block+landscape+fabric&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&q=80",
+    "tags": [
+      "gardening",
+      "landscaping",
+      "home",
+      "weed control",
+      "season 1"
+    ],
+    "sharkReturn": {
+      "invested": null,
+      "equity": null,
+      "currentValue": "N/A \u2014 no deal",
+      "return": "Passed",
+      "outcome": "\ud83e\udd37 Forgettable"
+    }
+  },
+  {
+    "id": "mr-tod-pik-boy",
+    "name": "Mr. Tod's Pie Factory",
+    "slug": "mr-tods-pie-factory",
+    "tagline": "Gourmet sweet potato pies from a Harlem bakery legend",
+    "description": "Tod Wilson's Mr. Tod's Pie Factory made gourmet sweet potato pies that had become a Harlem institution. He appeared on the first season of Shark Tank seeking to expand nationally. Despite not getting a deal, his pies became even more famous after the show.",
+    "category": "Food & Beverage",
+    "season": 1,
+    "episode": 3,
+    "year": 2009,
+    "sharks": [],
+    "deal": {
+      "ask": "$460,000",
+      "askEquity": "25%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "No deal but massive publicity. The Harlem community rallied behind Tod and sales increased significantly.",
+    "timeline": [
+      {
+        "year": 1988,
+        "event": "Tod Wilson starts baking pies in Harlem"
+      },
+      {
+        "year": 2009,
+        "event": "Appears on Shark Tank Season 1. No deal but huge exposure"
+      },
+      {
+        "year": 2010,
+        "event": "Sales increase dramatically from Shark Tank publicity"
+      },
+      {
+        "year": 2015,
+        "event": "Expands to multiple locations in New York"
+      }
+    ],
+    "currentStatus": "Still operating in Harlem \u2014 a beloved local institution.",
+    "companyStatus": "active",
+    "buyUrl": "https://www.amazon.com/s?k=sweet+potato+pie+gourmet&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=400&q=80",
+    "tags": [
+      "pies",
+      "food",
+      "Harlem",
+      "sweet potato",
+      "bakery",
+      "season 1"
+    ],
+    "sharkReturn": {
+      "invested": null,
+      "equity": null,
+      "currentValue": "N/A \u2014 no deal",
+      "return": "Missed a community staple",
+      "outcome": "\ud83d\ude2c Cultural miss"
+    }
+  },
+  {
     "id": "scrub-daddy",
     "name": "Scrub Daddy",
     "slug": "scrub-daddy",

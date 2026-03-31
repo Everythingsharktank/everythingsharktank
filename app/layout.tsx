@@ -18,16 +18,25 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         gtag('config', 'G-QR237Z35TW');
       `}} />
       <body className="bg-gray-50 text-gray-900 min-h-screen">
-        <header className="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
+        <header className="bg-white border-b border-gray-100 sticky top-0 z-50">
           <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-            <a href="/" className="flex items-center gap-2">
+            <a href="/" className="flex items-center gap-2 group">
               <span className="text-2xl">🦈</span>
-              <span className="font-bold text-xl text-gray-900">Everything <span className="text-blue-600">Shark Tank</span></span>
+              <div>
+                <span className="font-black text-lg text-gray-900 tracking-tight">Everything</span>
+                <span className="font-black text-lg text-blue-600 tracking-tight"> Shark Tank</span>
+              </div>
             </a>
-            <nav className="flex gap-6 text-sm text-gray-500">
-              <a href="/" className="hover:text-gray-900 transition-colors font-medium">Products</a>
-              <a href="/about" className="hover:text-gray-900 transition-colors font-medium">About</a>
-            </nav>
+            <div className="flex items-center gap-4">
+              <nav className="hidden sm:flex gap-5 text-sm text-gray-500">
+                <a href="/" className="hover:text-gray-900 transition-colors font-medium">Products</a>
+                <a href="/about" className="hover:text-gray-900 transition-colors font-medium">About</a>
+              </nav>
+              <a href="https://www.tiktok.com/@everythingsharktan" target="_blank" rel="noopener noreferrer"
+                className="text-xs bg-black text-white px-3 py-1.5 rounded-full font-medium hover:bg-gray-800 transition-colors">
+                Follow on TikTok
+              </a>
+            </div>
           </div>
         </header>
         <main>{children}</main>
