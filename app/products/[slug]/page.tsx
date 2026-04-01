@@ -212,6 +212,38 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
         ))}
       </div>
 
+      {/* Related products */}
+      {(() => {
+        const related = products
+          .filter(p => p.slug !== product.slug)
+          .filter(p =>
+            p.category === product.category ||
+            (product.deal.investor && p.sharks?.some((s: string) => product.deal.investor?.includes(s.split(' ')[0])))
+          )
+          .slice(0, 4)
+        return related.length > 0 ? (
+          <div className="mt-10">
+            <h2 className="text-xl font-bold text-gray-900 mb-4">More Products You Might Like</h2>
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+              {related.map((p: any) => (
+                <Link key={p.slug} href={`/products/${p.slug}`}
+                  className="bg-white border border-gray-200 rounded-xl overflow-hidden hover:border-blue-300 hover:shadow-sm transition-all group">
+                  <div className="bg-gray-100 overflow-hidden" style={{aspectRatio:'16/9'}}>
+                    {p.image && <img src={p.image} alt={p.name} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />}
+                  </div>
+                  <div className="p-2">
+                    <div className="text-xs font-bold text-gray-900 group-hover:text-blue-600 truncate">{p.name}</div>
+                    <div className={`text-xs font-semibold mt-0.5 ${p.outcome === 'deal' ? 'text-green-600' : 'text-red-500'}`}>
+                      {p.outcome === 'deal' ? '✅ Deal' : '❌ No Deal'}
+                    </div>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        ) : null
+      })()}
+
       <script type="application/ld+json" dangerouslySetInnerHTML={{__html: JSON.stringify({
         "@context": "https://schema.org", "@type": "Product",
         "name": product.name, "description": product.description,
