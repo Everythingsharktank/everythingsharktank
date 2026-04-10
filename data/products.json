@@ -4603,5 +4603,288 @@
       "delivery"
     ],
     "companyStatus": "active"
+  },
+  {
+    "id": "njoy-pen",
+    "name": "NJoy Pen",
+    "slug": "njoy-pen",
+    "tagline": "The first electronic cigarette pitched on Shark Tank",
+    "description": "NJoy pitched one of the first electronic cigarettes on Season 1 of Shark Tank. The e-cigarette market was barely understood at the time, but the sharks saw potential. Kevin O'Leary invested in what would become a massive industry.",
+    "category": "Health & Wellness",
+    "season": 1,
+    "episode": 1,
+    "year": 2009,
+    "sharks": [
+      "Kevin O'Leary"
+    ],
+    "deal": {
+      "ask": "$5,000,000",
+      "askEquity": "20%",
+      "amount": "$5,000,000",
+      "equity": "20%",
+      "investor": "Kevin O'Leary"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Kevin O'Leary invested. NJoy grew rapidly as e-cigarettes took off but faced regulatory challenges later.",
+    "timeline": [
+      {
+        "year": 2009,
+        "event": "Appears on Shark Tank Season 1. Kevin O'Leary invests $5M \u2014 one of the largest early deals"
+      },
+      {
+        "year": 2011,
+        "event": "NJoy becomes one of the top e-cigarette brands in the US"
+      },
+      {
+        "year": 2014,
+        "event": "Raises $75M in additional funding"
+      },
+      {
+        "year": 2016,
+        "event": "Files for bankruptcy as FDA regulations tighten"
+      }
+    ],
+    "currentStatus": "Filed for bankruptcy in 2016. The e-cigarette market they pioneered is now worth billions.",
+    "companyStatus": "defunct",
+    "companyStatusNote": "Filed for bankruptcy 2016",
+    "similarProduct": "Vuse Alto E-Cigarette",
+    "similarUrl": "https://www.amazon.com/s?k=electronic+cigarette+vuse&tag=everythi0b39b-20",
+    "buyUrl": "https://www.amazon.com/s?k=njoy+electronic+cigarette&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?w=400&q=80",
+    "tags": [
+      "e-cigarette",
+      "vaping",
+      "health",
+      "season 1"
+    ]
+  },
+  {
+    "id": "college-foxes",
+    "name": "College Foxes Packing & Moving",
+    "slug": "college-foxes",
+    "tagline": "Moving company staffed by attractive college students",
+    "description": "College Foxes was a moving company that used attractive college students as movers, combining moving services with a novelty factor. The founder appeared on Shark Tank Season 1 with a unique concept.",
+    "category": "Lifestyle",
+    "season": 1,
+    "episode": 2,
+    "year": 2009,
+    "sharks": [],
+    "deal": {
+      "ask": "$250,000",
+      "askEquity": "25%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "All sharks passed. The concept didn't scale beyond its novelty.",
+    "timeline": [
+      {
+        "year": 2008,
+        "event": "Founded as a novelty moving company"
+      },
+      {
+        "year": 2009,
+        "event": "Appears on Shark Tank Season 1. No deal"
+      },
+      {
+        "year": 2010,
+        "event": "Operates in limited markets"
+      }
+    ],
+    "currentStatus": "No longer operating. Memorable for its unusual pitch concept.",
+    "companyStatus": "defunct",
+    "companyStatusNote": "No longer operating",
+    "buyUrl": "https://www.amazon.com/s?k=moving+boxes+supplies&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80",
+    "tags": [
+      "moving",
+      "service",
+      "novelty",
+      "season 1"
+    ]
+  },
+  {
+    "id": "cougar-energy",
+    "name": "Cougar Energy",
+    "slug": "cougar-energy",
+    "tagline": "Energy drink targeting older women \u2014 'For the cougar in all of us'",
+    "description": "Cougar Energy was an energy drink marketed specifically to older women, playing on the 'cougar' pop culture reference. The pitch was memorable for its bold branding and targeted demographic.",
+    "category": "Food & Beverage",
+    "season": 1,
+    "episode": 3,
+    "year": 2009,
+    "sharks": [],
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "25%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "All sharks passed. The niche marketing didn't convince anyone.",
+    "timeline": [
+      {
+        "year": 2009,
+        "event": "Appears on Shark Tank Season 1. No deal"
+      },
+      {
+        "year": 2010,
+        "event": "Product discontinued"
+      }
+    ],
+    "currentStatus": "No longer available. One of the most memorable early pitches for its bold concept.",
+    "companyStatus": "defunct",
+    "companyStatusNote": "Product discontinued",
+    "buyUrl": "https://www.amazon.com/s?k=energy+drink+women&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1625174600003-6a83a50f3e6f?w=400&q=80",
+    "tags": [
+      "energy drink",
+      "women",
+      "food",
+      "season 1",
+      "cougar"
+    ]
+  },
+  {
+    "id": "bev-organics",
+    "name": "Bee-Fresh",
+    "slug": "bee-fresh",
+    "tagline": "Organic bee pollen health supplements from Season 1",
+    "description": "Bee-Fresh pitched organic bee pollen health supplements on Season 1. The natural health supplement market was growing but the sharks weren't convinced of the business model.",
+    "category": "Health & Wellness",
+    "season": 1,
+    "episode": 4,
+    "year": 2009,
+    "sharks": [],
+    "deal": {
+      "ask": "$200,000",
+      "askEquity": "40%",
+      "amount": null,
+      "equity": null,
+      "investor": null
+    },
+    "outcome": "no-deal",
+    "sharkUpdate": "No deal. Natural supplement market has exploded since but this brand didn't survive.",
+    "timeline": [
+      {
+        "year": 2009,
+        "event": "Appears on Shark Tank Season 1. No deal"
+      },
+      {
+        "year": 2011,
+        "event": "Product discontinued"
+      }
+    ],
+    "currentStatus": "No longer available.",
+    "companyStatus": "defunct",
+    "companyStatusNote": "Discontinued",
+    "buyUrl": "https://www.amazon.com/s?k=bee+pollen+supplements&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1582562124811-c09040d0a901?w=400&q=80",
+    "tags": [
+      "supplements",
+      "bee pollen",
+      "health",
+      "natural",
+      "season 1"
+    ]
+  },
+  {
+    "id": "hy-conn",
+    "name": "Hy-Conn",
+    "slug": "hy-conn",
+    "tagline": "Fire hose connector that attaches 6x faster \u2014 Mark Cuban's first big deal",
+    "description": "Hy-Conn was a patented fire hose connector that attached 6 times faster than standard connectors, potentially saving lives in fires. Mark Cuban offered the largest deal of Season 1 but the deal later fell apart during due diligence.",
+    "category": "Home & Safety",
+    "season": 1,
+    "episode": 7,
+    "year": 2009,
+    "sharks": [
+      "Mark Cuban"
+    ],
+    "deal": {
+      "ask": "$500,000",
+      "askEquity": "100%",
+      "amount": "$1,250,000",
+      "equity": "100%",
+      "investor": "Mark Cuban"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Mark Cuban made an offer but the deal fell apart after due diligence. One of the first famous post-show deal collapses.",
+    "timeline": [
+      {
+        "year": 2009,
+        "event": "Appears on Shark Tank Season 1. Mark Cuban offers $1.25M for 100%"
+      },
+      {
+        "year": 2010,
+        "event": "Deal collapses during due diligence"
+      },
+      {
+        "year": 2012,
+        "event": "Jeff Stroope sells the patent independently"
+      }
+    ],
+    "currentStatus": "Deal collapsed. Patent eventually sold separately. Famous for being one of the first Shark Tank deals to fall apart.",
+    "companyStatus": "defunct",
+    "companyStatusNote": "Deal collapsed post-show",
+    "buyUrl": "https://www.amazon.com/s?k=fire+hose+connector+quick+connect&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80",
+    "tags": [
+      "fire safety",
+      "hose",
+      "emergency",
+      "season 1",
+      "mark cuban"
+    ]
+  },
+  {
+    "id": "the-shower-shirt",
+    "name": "The Shower Shirt",
+    "slug": "shower-shirt",
+    "tagline": "Waterproof shirt protecting post-surgery patients while showering",
+    "description": "The Shower Shirt was a waterproof garment designed to protect post-surgery patients and people with medical devices like pacemakers from getting wet while showering. Barbara Corcoran invested in the medical product.",
+    "category": "Health & Wellness",
+    "season": 1,
+    "episode": 8,
+    "year": 2009,
+    "sharks": [
+      "Barbara Corcoran"
+    ],
+    "deal": {
+      "ask": "$125,000",
+      "askEquity": "25%",
+      "amount": "$125,000",
+      "equity": "25%",
+      "investor": "Barbara Corcoran"
+    },
+    "outcome": "deal",
+    "sharkUpdate": "Barbara Corcoran invested in the medical product for post-surgery patients.",
+    "timeline": [
+      {
+        "year": 2009,
+        "event": "Appears on Shark Tank Season 1. Barbara Corcoran invests $125K"
+      },
+      {
+        "year": 2011,
+        "event": "Available in hospitals and medical supply stores"
+      },
+      {
+        "year": 2015,
+        "event": "Widely used in medical settings nationwide"
+      }
+    ],
+    "currentStatus": "Still available in medical supply stores and Amazon.",
+    "companyStatus": "active",
+    "buyUrl": "https://www.amazon.com/s?k=shower+shirt+waterproof+post+surgery&tag=everythi0b39b-20",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&q=80",
+    "tags": [
+      "medical",
+      "shower",
+      "post surgery",
+      "waterproof",
+      "season 1"
+    ]
   }
 ]

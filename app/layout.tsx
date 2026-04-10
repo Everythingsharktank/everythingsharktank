@@ -30,6 +30,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <div className="flex items-center gap-4">
               <nav className="hidden sm:flex gap-5 text-sm text-gray-500">
                 <a href="/" className="hover:text-gray-900 transition-colors font-medium">Products</a>
+                <a href="/seasons" className="hover:text-gray-900 transition-colors font-medium">By Season</a>
                 <a href="/about" className="hover:text-gray-900 transition-colors font-medium">About</a>
               </nav>
               <a href="https://www.tiktok.com/@everythingsharktan" target="_blank" rel="noopener noreferrer"
