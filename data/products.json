@@ -45,7 +45,7 @@
     "similarNote": "The modern wireless earbud \u2014 no surgery required",
     "buyUrl": "https://www.amazon.com/s?k=bluetooth+earbuds+wireless&tag=everythi0b39b-20",
     "youtubeId": "ntMYssVeyl0",
-    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&q=80",
+    "image": "/images/products/ionic-ear.jpg",
     "tags": [
       "bluetooth",
       "tech",
@@ -229,7 +229,7 @@
       "household"
     ],
     "youtubeId": "ae5MssJ8en4",
-    "image": "https://images.unsplash.com/photo-1585421514738-01798e348b17?w=400&q=80",
+    "image": "/images/products/scrub-daddy.jpg",
     "asin": "B00BCGYS02",
     "websiteUrl": "https://scrubdaddy.com",
     "sharkReturn": {
@@ -297,7 +297,7 @@
       "social impact"
     ],
     "youtubeId": "RlALuStBplY",
-    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80",
+    "image": "/images/products/bombas.jpg",
     "asin": "B07NWY8JBX",
     "websiteUrl": "https://bombas.com",
     "sharkReturn": {
@@ -363,7 +363,7 @@
       "doorbell"
     ],
     "youtubeId": "um-iVXiXedc",
-    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=400&q=80",
+    "image": "/images/products/ring.jpg",
     "asin": "B08N5NQ69D",
     "websiteUrl": "https://ring.com",
     "sharkReturn": {
@@ -427,7 +427,7 @@
       "wellness"
     ],
     "youtubeId": "2atjT5fKK8A",
-    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=400&q=80",
+    "image": "/images/products/squatty-potty.jpg",
     "asin": "B00NF1HMN4",
     "websiteUrl": "https://squattypotty.com",
     "sharkReturn": {
@@ -491,7 +491,7 @@
       "franchise",
       "food truck"
     ],
-    "image": "https://images.unsplash.com/photo-1559737558-2f5a35f4523b?w=400&q=80",
+    "image": "/images/products/cousins-maine-lobster.jpg",
     "websiteUrl": "https://cousinsmainlobster.com",
     "companyStatus": "active"
   },
@@ -547,7 +547,7 @@
       "holiday",
       "sweater"
     ],
-    "image": "https://images.unsplash.com/photo-1512482438327-c5e9da1b2480?w=400&q=80",
+    "image": "/images/products/tipsy-elves.jpg",
     "asin": "B00OQOSYNE",
     "websiteUrl": "https://tipsyelves.com",
     "companyStatus": "active"
@@ -607,7 +607,7 @@
       "breakfast"
     ],
     "youtubeId": "TMQWTyLMNJM",
-    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400&q=80",
+    "image": "/images/products/kodiak-cakes.jpg",
     "asin": "B003BDDNDE",
     "websiteUrl": "https://kodiakcakes.com",
     "sharkReturn": {
@@ -672,7 +672,7 @@
       "workout"
     ],
     "youtubeId": "UGyRmSqH2q8",
-    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400&q=80",
+    "image": "/images/products/simply-fit-board.jpg",
     "asin": "B01HKZV1R4",
     "websiteUrl": "https://simplyfitboard.com",
     "sharkReturn": {
@@ -737,7 +737,7 @@
       "hoodie"
     ],
     "youtubeId": "IK_JDKOLP8g",
-    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&q=80",
+    "image": "/images/products/the-original-comfy.jpg",
     "asin": "B07H8GY45C",
     "websiteUrl": "https://thecomfy.com",
     "sharkReturn": {
@@ -866,7 +866,7 @@
       "wipes"
     ],
     "youtubeId": "HVVA6J037wM",
-    "image": "https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?w=400&q=80",
+    "image": "/images/products/dude-wipes.jpg",
     "asin": "B00FHNEGV8",
     "websiteUrl": "https://dudewipes.com",
     "sharkReturn": {
@@ -931,7 +931,7 @@
       "greeting cards"
     ],
     "youtubeId": "wjb0NpgFnxA",
-    "image": "https://images.unsplash.com/photo-1513201099705-a9746e1e201f?w=400&q=80",
+    "image": "/images/products/lovepop.jpg",
     "asin": "B01N5IVNOM",
     "websiteUrl": "https://lovepop.com",
     "sharkReturn": {
@@ -1118,7 +1118,7 @@
       "sustainable",
       "ocean"
     ],
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&q=80",
+    "image": "/images/products/sand-cloud.jpg",
     "asin": "B07D9JDTQP",
     "websiteUrl": "https://sandcloud.com",
     "companyStatus": "active"
@@ -1234,7 +1234,7 @@
       "veterans",
       "bar"
     ],
-    "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400&q=80",
+    "image": "/images/products/bottle-breacher.jpg",
     "asin": "B00NL9G1PQ",
     "websiteUrl": "https://bottlebreacher.com",
     "sharkReturn": {
@@ -1353,7 +1353,7 @@
       "automotive",
       "accessory"
     ],
-    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=400&q=80",
+    "image": "/images/products/drop-stop.jpg",
     "asin": "B00ADLQCOW",
     "websiteUrl": "https://mydropstop.com",
     "companyStatus": "active"
@@ -1635,7 +1635,7 @@
       "fashion",
       "wellness"
     ],
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&q=80",
+    "image": "/images/products/bala-bangles.jpg",
     "asin": "B07ZMQP977",
     "websiteUrl": "https://getbala.com",
     "sharkReturn": {
@@ -1697,7 +1697,7 @@
       "personal care",
       "shaving"
     ],
-    "image": "https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=400&q=80",
+    "image": "/images/products/manscaped.jpg",
     "asin": "B07TWQRGZ9",
     "websiteUrl": "https://manscaped.com",
     "sharkReturn": {
@@ -2156,7 +2156,7 @@
       "food"
     ],
     "youtubeId": "aUlO3RlulI8",
-    "image": "https://images.unsplash.com/photo-1585670216671-b25d5c8a1d56?w=400&q=80",
+    "image": "/images/products/pipcorn.jpg",
     "asin": "B074TYJ2C8",
     "websiteUrl": "https://eatpipcorn.com",
     "companyStatus": "active"
@@ -2212,7 +2212,7 @@
       "beach",
       "volleyball"
     ],
-    "image": "https://images.unsplash.com/photo-1547347298-4074fc3086f0?w=400&q=80",
+    "image": "/images/products/spikeball.jpg",
     "asin": "B00BH57CDI",
     "websiteUrl": "https://spikeball.com",
     "sharkReturn": {
@@ -3549,7 +3549,7 @@
       "outdoor"
     ],
     "youtubeId": "fuM1Vh7OgfY",
-    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&q=80",
+    "image": "/images/products/larq.jpg",
     "asin": "B07TSGPZ5G",
     "websiteUrl": "https://livelarq.com",
     "sharkReturn": {
