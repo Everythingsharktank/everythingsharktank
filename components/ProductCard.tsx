@@ -26,7 +26,7 @@ export default function ProductCard({ product }: { product: Product }) {
 
   return (
     <Link href={`/products/${product.slug}`}>
-      <div className="bg-white rounded-2xl overflow-hidden border border-gray-100 hover:border-blue-200 hover:shadow-md transition-all duration-200 group h-full flex flex-col">
+      <div className="bg-white rounded-2xl overflow-hidden border border-gray-200 hover:border-blue-300 hover:shadow-lg transition-all duration-200 group h-full flex flex-col shadow-sm">
 
         {/* Image */}
         <div className="relative overflow-hidden bg-gray-50" style={{aspectRatio:'16/9'}}>

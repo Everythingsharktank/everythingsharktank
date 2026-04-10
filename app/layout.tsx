@@ -2,8 +2,29 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Everything Shark Tank — Products, Deals & Where to Buy',
-  description: 'Browse every product from Shark Tank. See the deals, the sharks, and where to buy them today.',
+  title: 'Everything Shark Tank — Every Product, Deal & Where to Buy',
+  description: 'The complete Shark Tank product database. Browse all 88 products — deals, ROI data, shark investors, timelines, and where to buy them today. From Season 1 to now.',
+  keywords: 'shark tank products, shark tank deals, shark tank where are they now, shark tank season 1, scrub daddy, bombas, ring doorbell shark tank, shark tank buy',
+  openGraph: {
+    title: 'Everything Shark Tank — Every Product, Deal & Where to Buy',
+    description: 'Browse all 88 Shark Tank products. Deals, ROI data, timelines, and buy links.',
+    url: 'https://everythingsharktank.com',
+    siteName: 'Everything Shark Tank',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Everything Shark Tank',
+    description: 'Browse all 88 Shark Tank products — deals, ROI data, and where to buy.',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true },
+  },
+  alternates: {
+    canonical: 'https://everythingsharktank.com',
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

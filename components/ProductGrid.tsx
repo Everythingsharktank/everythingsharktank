@@ -202,7 +202,7 @@ export default function ProductGrid({ products }: { products: Product[] }) {
       {filtered.length === 0 ? (
         <div className="text-center text-gray-400 py-16 text-lg">No products found. Try a different search.</div>
       ) : (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+        <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
           {filtered.map(p => <ProductCard key={p.id} product={p} />)}
         </div>
       )}
