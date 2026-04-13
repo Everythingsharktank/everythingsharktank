@@ -254,9 +254,6 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
         "offers": {
           "@type": "Offer",
           "url": product.buyUrl,
-          "priceCurrency": "USD",
-          "price": "0",
-          "priceValidUntil": "2027-12-31",
           "availability": "https://schema.org/InStock",
           "seller": { "@type": "Organization", "name": "Amazon" }
         },
