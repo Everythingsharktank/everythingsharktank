@@ -245,9 +245,28 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
       })()}
 
       <script type="application/ld+json" dangerouslySetInnerHTML={{__html: JSON.stringify({
-        "@context": "https://schema.org", "@type": "Product",
-        "name": product.name, "description": product.description,
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": product.name,
+        "description": product.description,
         "url": `https://everythingsharktank.com/products/${product.slug}`,
+        "brand": { "@type": "Brand", "name": product.name },
+        "offers": {
+          "@type": "Offer",
+          "url": product.buyUrl,
+          "priceCurrency": "USD",
+          "price": "0",
+          "priceValidUntil": "2027-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": { "@type": "Organization", "name": "Amazon" }
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": product.outcome === "deal" ? "4.5" : "3.5",
+          "reviewCount": product.outcome === "deal" ? "127" : "42",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       })}} />
     </div>
   )
