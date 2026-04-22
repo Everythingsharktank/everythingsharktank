@@ -2,6 +2,7 @@ import products from '@/data/products.json'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import ProductGallery from '@/components/ProductGallery'
 
 type Product = typeof products[0]
 
@@ -31,14 +32,12 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
       </Link>
 
       <div className="mt-6 grid grid-cols-1 md:grid-cols-2 gap-10">
-        {/* Left: product image */}
-        <div className="bg-gray-100 border border-gray-200 rounded-2xl overflow-hidden h-72">
-          {(product as any).image ? (
-            <img src={(product as any).image} alt={product.name} className="w-full h-full object-cover" />
-          ) : (
-            <div className="w-full h-full flex items-center justify-center text-7xl">🦈</div>
-          )}
-        </div>
+        {/* Left: image gallery */}
+        <ProductGallery
+          slug={product.slug}
+          mainImage={(product as any).image || null}
+          name={product.name}
+        />
 
         {/* Right: details */}
         <div>
@@ -89,14 +88,31 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
 
           {/* Buy buttons */}
           <div className="flex flex-col gap-2">
+            {/* Social proof line */}
+            {isDeal && product.deal.investor && (
+              <div className="flex items-center gap-2 text-xs text-gray-500 bg-green-50 border border-green-100 rounded-lg px-3 py-2">
+                <span>🦈</span>
+                <span><strong>{product.deal.investor.split(',')[0]}</strong> invested {product.deal.amount} — shark-approved product</span>
+              </div>
+            )}
+
             <a href={product.buyUrl} target="_blank" rel="noopener noreferrer"
-              className="flex items-center justify-center gap-2 w-full bg-yellow-400 hover:bg-yellow-300 text-gray-900 font-bold text-center py-3 rounded-xl transition-colors shadow-sm">
+              className="flex items-center justify-center gap-2 w-full bg-yellow-400 hover:bg-yellow-300 text-gray-900 font-bold text-center py-3.5 rounded-xl transition-colors shadow-sm text-base">
               🛒 Buy on Amazon
             </a>
+
+            <div className="flex items-center justify-center gap-3 text-xs text-gray-400">
+              <span>✓ Free Prime shipping</span>
+              <span>·</span>
+              <span>✓ Easy returns</span>
+              <span>·</span>
+              <span>✓ Shark Tank verified</span>
+            </div>
+
             {(product as any).websiteUrl && (
               <a href={(product as any).websiteUrl} target="_blank" rel="noopener noreferrer"
-                className="flex items-center justify-center gap-2 w-full bg-white border border-gray-300 hover:border-gray-400 text-gray-700 font-medium text-center py-3 rounded-xl transition-colors">
-                🌐 Official Website
+                className="flex items-center justify-center gap-2 w-full bg-white border border-gray-300 hover:border-gray-400 text-gray-700 font-medium text-center py-2.5 rounded-xl transition-colors text-sm">
+                🌐 Visit Official Website
               </a>
             )}
           </div>
